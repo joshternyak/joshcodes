@@ -45,16 +45,25 @@ h1 {
   }
 }
 
-@media(max-width: 900px) {
-  .codes {
-    right: 10vw;
-    transform: scale(0.8);
+
+@media(max-width: 1050px) {
+  .josh {
+    font-size: 140px;
+    text-align: center;
+    position: static;
+    transform: scale(1);
   }
 
-  .josh {
-    transform: scale(0.8);
+  .codes {
+    font-size: 110px;
+    text-align: center;
+    position: static;
+    margin-top: -40px;
+    transform: scale(1);
   }
+
 }
+
 
 .play-section {
   position: absolute;
@@ -87,4 +96,13 @@ img {
 
 img:hover {
   transform: scale(0.98);
+}
+
+
+@media(max-width: 700px) {
+  img {
+    width: 80vw;
+    margin-right: 10vw;
+    margin-left: 10vw;
+  }
 }
