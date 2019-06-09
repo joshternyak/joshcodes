@@ -12,11 +12,46 @@
 <body>
   <h1 class="josh">Josh</h1>
   <h1 class="codes">Codes</h1>
+  <a href="#projects"><button class="btn projectsbtn" id="projectsbutton" onmouseover="changeBtnText()" onmouseout="changeBtnTextAgain()">See My Projects</button></a>
   <div class="play-section">
-    <a class="youtube-button" href="https://www.youtube.com/channel/UCMcc9u410KqpKsDxDO-NHHA">
+    <a class="youtube-button" href="https://www.youtube.com/channel/UCxfzUBKyLee-XZtINcFL7wA">
       <img src="youtube-logo.png">
     </a>
   </div>
+  <section class="projects-section" id="projects">
+    <section class="projects-grid">
+      <div>
+        <h2>BlogItPoints</h2>
+        <p>A place to talk to others, have fun, and rise to the top of the points leaderboard</p>
+        <button class="btn">Visit</button>
+      </div>
+      <div>
+        <h2>Life of a billionaire</h2>
+        <p>A game where you can get rich while investing in properties.</p>
+        <button class="btn">Visit</button>
+      </div>
+      <div>
+        <h2>Landing Page Design Template</h2>
+        <p>A website design made from css and from my bare hands.</p>
+        <button class="btn">Visit</button>
+      </div>
+      <div>
+        <h2>Social Media Design Template</h2>
+        <p>A website design that shows the cool animations and grids you can make from css.</p>
+        <button class="btn">Visit</button>
+      </div>
+    </section>
+  </section>
 
+  <script>
+    var projectsbutton = document.getElementById('projectsbutton')
+    function changeBtnText() {
+      projectsbutton.innerText = 'Go There'
+    }
+
+    function changeBtnTextAgain() {
+      projectsbutton.innerText = 'See My Projects'
+    }
+  </script>
 </body>
 </html>
