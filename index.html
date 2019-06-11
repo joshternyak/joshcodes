@@ -14,12 +14,13 @@
   <h1 class="codes">Codes</h1>
   <button class="btn projectsbtn" id="projectsbutton" onmouseover="changeBtnText()" onmouseout="changeBtnTextAgain()" onclick="openProjectSection()">See My Projects</button>
   <div class="play-section">
-    <a class="youtube-button" href="https://www.youtube.com/channel/UCxfzUBKyLee-XZtINcFL7wA">
+    <a class="youtube-button" href="https://www.youtube.com/channel/UCUgY3uMoOLfwRbpFS9LpoNg/">
       <img src="youtube-logo.png">
     </a>
   </div>
   <section class="projects-section" id="projects">
-    <h1 id="projectstitle">Projects</h1> <button class="btn goback" onclick="closeProjectSection()">Go Back</button>
+    <h1 id="projectstitle">Projects</h1>
+    <button class="btn goback" onclick="closeProjectSection()" id="gobackbutton">Go Back</button>
     <section class="projects-grid">
       <div>
         <h2>BlogItPoints</h2>
@@ -44,11 +45,13 @@
     </section>
   </section>
 
+
   <script>
     var projectsbutton = document.getElementById('projectsbutton');
+    var goback = document.getElementById('gobackbutton');
     var projects = document.getElementById('projects');
     function changeBtnText() {
-      projectsbutton.innerText = 'Go There';
+      projectsbutton.innerText = 'See My Projects!!!';
     }
 
     function changeBtnTextAgain() {
@@ -59,12 +62,13 @@
       projects.style.top = '0';
       projects.style.height = '100vh';
       projects.style.opacity = '1';
+      goback.style.opacity = '1';
     }
 
     function closeProjectSection() {
       projects.style.top = '100vh';
       projects.style.height = 'auto';
-      projects.style.opacity = '0';
+      goback.style.opacity = '0';
     }
   </script>
 </body>
