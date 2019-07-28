@@ -4,72 +4,70 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>JoshCodes</title>
-  <link rel="stylesheet" href="style.css">
-  <link href="https://fonts.googleapis.com/css?family=EB+Garamond|Montserrat|Poppins|Raleway|Rubik+Mono+One|Titillium+Web&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>joshternyak.com</title>
+  <script src="https://kit.fontawesome.com/6b1da2540e.js"></script>
+  <link rel="stylesheet" href="css/body.css">
+  <link rel="stylesheet" href="css/home.css">
+  <link rel="stylesheet" href="css/myprojects.css">
+  <link rel="stylesheet" href="css/myspecialties.css">
+  <link rel="stylesheet" href="css/aboutme.css">
+  <link rel="stylesheet" href="css/myarticles.css">
+  <link rel="stylesheet" href="css/testimonials.css">
+  <link rel="stylesheet" href="css/contactme.css">
+  <link rel="stylesheet" href="css/footer.css">
 </head>
 <body>
-  <h1 class="josh">Josh</h1>
-  <h1 class="codes">Codes</h1>
-  <button class="btn projectsbtn" id="projectsbutton" onmouseover="changeBtnText()" onmouseout="changeBtnTextAgain()" onclick="openProjectSection()">See My Projects</button>
-  <div class="play-section">
-    <a class="youtube-button" href="https://www.youtube.com/channel/UCUgY3uMoOLfwRbpFS9LpoNg/">
-      <img src="youtube-logo.png">
-    </a>
-  </div>
-  <section class="projects-section" id="projects">
-    <h1 id="projectstitle">Projects</h1>
-    <button class="btn goback" onclick="closeProjectSection()" id="gobackbutton">Go Back</button>
-    <section class="projects-grid">
-      <div>
-        <h2>BlogItPoints</h2>
-        <p>Coming Soon</p>
-        <!--<button class="btn border">Visit</button> -->
+  <header>
+      <a href="#home">
+        <div class="logo">
+          <img src="img/joshternyak.comlogo.png">
+        </div>
+      </a>
+      <section class="navigation">
+        <div class="nav-link">
+          <a href="#home">Home</a>
+        </div>
+        <div class="nav-link">
+          <a href="#myprojects">My Projects</a>
+        </div>
+        <div class="nav-link">
+          <a href="#contactme">Contact</a>
+        </div>
+      </section>
+      <div class="menu-button" onclick="openNav()">
+        <i class="fas fa-bars"></i>
       </div>
-      <div>
-        <h2>Life of a billionaire</h2>
-        <p>A game where you can get rich while investing in properties.</p>
-        <button class="btn border"><a href="https://jtmoneygame.herokuapp.com" style="text-decoration: none;">Visit</a></button>
-      </div>
-      <div>
-        <h2>Landing Page Design Template</h2>
-        <p>A website design made from css and from my bare hands.</p>
-        <button class="btn border"><a href="https://dannyanderson.herokuapp.com" style="text-decoration: none;">Visit</a></button>
-      </div>
-      <div>
-        <h2>Social Media Design Template</h2>
-        <p>A website design that shows the cool animations and grids you can make from css.</p>
-        <button class="btn border"><a href="https://jtaccountdesign.herokuapp.com" style="text-decoration: none;">Visit</a></button>
+  </header>
+  <section id="home" class="home">
+    <section class="intro-section">
+      <h1 class="greeting-h1">Hello, I am <b class="title-bold">Josh Ternyak</b></h1>
+      <p class="greeting-p">I am a front-end developer, UI designer, and I will make your life more simple.</p>
+        <button class="greeting-button">
+          <a href="#contactme" style="color: yellow">Hire Me</a>
+        </button>
+    </section>
+    <section class="selfie-img-section">
+      <img src="img/selfiejosht.jpg" class="selfie-img">
+      <div class="selfie-img-info">
+        <div class="selfie-img-info-grid">
+          <div class="skill">
+            <span><i class="fas fa-palette"></i> UI Designer</span>
+          </div>
+          <div class="skill">
+            <span><i class="fas fa-laptop"></i> Web Developer</span>
+          </div>
+        </div>
       </div>
     </section>
   </section>
+  <section id="myprojects" class="myprojects"></section>
+  <section id="myspecialties" class="myspecialties"></section>
+  <section id="aboutme" class="aboutme"></section>
+  <section id="myarticles" class="myarticles"></section>
+  <section id="testimonials" class="testimonials"></section>
+  <section id="contactme" class="contactme"></section>
+  <footer id="footer" class="footer"></footer>
 
-
-  <script>
-    var projectsbutton = document.getElementById('projectsbutton');
-    var goback = document.getElementById('gobackbutton');
-    var projects = document.getElementById('projects');
-    function changeBtnText() {
-      projectsbutton.innerText = 'See My Projects!!!';
-    }
-
-    function changeBtnTextAgain() {
-      projectsbutton.innerText = 'See My Projects';
-    }
-
-    function openProjectSection() {
-      projects.style.top = '0';
-      projects.style.height = '100vh';
-      projects.style.opacity = '1';
-      goback.style.opacity = '1';
-    }
-
-    function closeProjectSection() {
-      projects.style.top = '100vh';
-      projects.style.height = 'auto';
-      goback.style.opacity = '0';
-    }
-  </script>
+  <script src="js/main.js"></script>
 </body>
 </html>
