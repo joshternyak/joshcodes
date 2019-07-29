@@ -1,6 +1,39 @@
 .aboutme {
     width: 100vw;
-    height: 50vh;
+    height: 40vh;
     color: white;
     background-color: black;
+}
+
+.aboutme-grid {
+	width: 100%;
+	height: 100%;
+	display: grid;
+	grid-template-columns: 25% 75%;
+}
+
+.aboutmeimg {
+	width: 100%;
+	height: 100%;
+}
+
+.aboutme-info {
+	padding: 0px 50px;
+}
+
+.aboutme-title {
+	font-size: 60px;
+	letter-spacing: 2px;
+}
+
+.aboutme-description {
+	width: 613px;
+	height: 180px;
+	font-size: 30px;
+	line-height: 45px;
+	margin-top: -20px;
+}
+
+.aboutmebold {
+	font-weight: bold;
 }

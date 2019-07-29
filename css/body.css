@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Heebo&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Balthazar&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Kanit:500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,900&display=swap');
+
 
 * {
   box-sizing: border-box;
@@ -15,7 +15,7 @@ body {
   padding: 0;
   height: auto;
   width: 100vw;
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   overflow-x: hidden;
 }
 

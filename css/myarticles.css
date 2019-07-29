@@ -1,6 +1,90 @@
+/* MY ARTICLES */
+
 .myarticles {
     width: 100vw;
-    height: 50vh;
+    height: 60vh;
     color: black;
     background-color: white;
 }
+
+.myarticles-title {
+	font-size: 60px;
+	letter-spacing: 1.5px;
+	text-align: center;
+}
+
+.myarticles-grid {
+	width: 40vw;
+	margin-right: auto;
+	margin-left: auto;
+	height: 320px;
+	display: grid;
+	grid-gap: 40px;
+	grid-template-rows: repeat(3, 1fr);
+}
+
+.article {
+	background-color: #BEBEBE;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	border-radius: 5px;
+}
+
+.article-title {
+	color: black;
+	font-weight: 900;
+	font-size: 25px;
+	letter-spacing: 1px;
+	line-height: 34px;
+}
+
+.article-date {
+	font-size: 20px;
+	font-weight: 900;
+	line-height: 27px;
+	letter-spacing: 0.8px;
+	color: rgba(0, 0, 0, 0.8);
+	text-align: center;
+}
+
+/* MEDIA QUERIES */
+
+@media(max-width: 1500px) {
+	.myarticles-grid {
+		width: 50vw;
+	}
+}
+
+@media(max-width: 1100px) {
+	.myarticles-grid {
+		width: 60vw;
+	}
+}
+
+@media(max-width: 950px) {
+	.myarticles-grid {
+		width: 70vw;
+	}
+}
+
+@media(max-width: 850px) {
+	.myarticles-grid {
+		width: 80vw;
+	}
+}
+
+@media(max-width: 750px) {
+	.myarticles-grid {
+		width: 90vw;
+	}
+
+	.article-title {
+		font-size: 20px;
+	}
+
+	.article-date {
+		font-size: 18px;
+	}
+}
+

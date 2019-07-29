@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>joshternyak.com</title>
+  <link rel="icon" href="img/tfavicon.ico" type="image/gif" sizes="16x16">
+  <title>Josh Ternyak - Welcome</title>
   <script src="https://kit.fontawesome.com/6b1da2540e.js"></script>
   <link rel="stylesheet" href="css/body.css">
   <link rel="stylesheet" href="css/home.css">
@@ -17,12 +18,11 @@
   <link rel="stylesheet" href="css/footer.css">
 </head>
 <body>
+  <!-- HEADER -->
   <header>
-      <a href="#home">
-        <div class="logo">
-          <img src="img/joshternyak.comlogo.png">
-        </div>
-      </a>
+      <div class="logo">
+        <img src="img/joshternyak.comlogo.png">
+      </div>
       <section class="navigation">
         <div class="nav-link">
           <a href="#home">Home</a>
@@ -38,10 +38,11 @@
         <i class="fas fa-bars"></i>
       </div>
   </header>
+  <!-- HOME -->
   <section id="home" class="home">
     <section class="intro-section">
       <h1 class="greeting-h1">Hello, I am <b class="title-bold">Josh Ternyak</b></h1>
-      <p class="greeting-p">I am a front-end developer, UI designer, and I will make your life more simple.</p>
+      <p class="greeting-p">I am a front-end web developer, UI web designer, and I will make your life more simple.</p>
         <button class="greeting-button">
           <a href="#contactme" style="color: yellow">Hire Me</a>
         </button>
@@ -51,21 +52,136 @@
       <div class="selfie-img-info">
         <div class="selfie-img-info-grid">
           <div class="skill">
-            <span><i class="fas fa-palette"></i> UI Designer</span>
+            <span><i class="fas fa-laptop"></i> Front-End Web Developer</span>
           </div>
           <div class="skill">
-            <span><i class="fas fa-laptop"></i> Web Developer</span>
+            <span><i class="fas fa-palette"></i> UI Web Designer</span>
           </div>
         </div>
       </div>
     </section>
   </section>
-  <section id="myprojects" class="myprojects"></section>
-  <section id="myspecialties" class="myspecialties"></section>
-  <section id="aboutme" class="aboutme"></section>
-  <section id="myarticles" class="myarticles"></section>
-  <section id="testimonials" class="testimonials"></section>
+  <!-- MY PROJECTS -->
+  <section id="myprojects" class="myprojects">
+    <h1 class="myprojects-title">My Projects</h1>
+    <div class="myprojects-grid">
+      <a class="project-link" href="https://jtmoneygame.herokuapp.com">
+        <div class="project">
+          <div class="project-grid">
+            <img src="img/darkcodingbg.jpeg" class="project-img">
+            <div class="project-info">
+              <h2 class="project-title">Money Clicker</h2>
+              <p class="project-date">Published March 8, 2019</p>
+              <button class="visit-button">Visit</button>
+            </div>
+          </div>
+        </div>
+      </a>
+      <a class="project-link" href="https://jtaccountdesign.herokuapp.com">
+        <div class="project">
+          <div class="project-grid">
+            <img src="img/darkwoods.jpeg" class="project-img">
+            <div class="project-info">
+              <h2 class="project-title">Dashboard Layout</h2>
+              <p class="project-date">Published March 8, 2019</p>
+              <button class="visit-button">Visit</button>
+            </div>
+          </div>
+        </div>
+      </a>
+      <a class="project-link" href="#">
+        <div class="project">
+          <div class="project-grid">
+            <img src="img/programmingfancy.jpeg" class="project-img">
+            <div class="project-info">
+              <h2 class="project-title">Task Manager</h2>
+              <p class="project-date">Published March 8, 2019</p>
+              <button class="visit-button">Visit</button>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="statusimdesignproject">
+      <div class="statusim-info">
+        <h2 class="project-title">Status.im Design Replica</h2>
+        <p class="project-date">Published June 10, 2019</p>
+        <button class="visit-button">Visit</button>
+      </div>
+    </div>
+  </section>
+  <!-- MY SPECIALTIES -->
+  <section id="myspecialties" class="myspecialties">
+    <h1 class="myspecialties-title">My Specialties</h1>
+    <div class="myspecialties-grid">
+      <div class="specialty">
+        <p>Landing Pages</p>
+      </div>
+      <div class="specialty">
+        <p>Web Designs</p>
+      </div>
+      <div class="specialty">
+        <p>Reliability</p>
+      </div>
+    </div>
+  </section>
+  <!-- ABOUT ME -->
+  <section id="aboutme" class="aboutme">
+    <div class="aboutme-grid">
+      <img src="img/joshternyak.jpg" class="aboutmeimg">
+      <div class="aboutme-info">
+        <h1 class="aboutme-title">About Me</h1>
+        <p class="aboutme-description">Hello, my name is <b class="aboutmebold">Josh Ternyak.</b> Creating websites that solve problems is my favorite passion. I work <b class="aboutmebold">fast, creatively,</b> and <b class="aboutmebold">efficiently.</b></p>
+      </div>
+    </div>
+  </section>
+  <!-- MY ARTICLES -->
+  <section id="myarticles" class="myarticles">
+    <h1 class="myarticles-title">My Articles</h1>
+    <div class="myarticles-grid">
+      <div class="article">
+        <a href="https://medium.com/@joshtcodes/happiness-materialism-success-5b58745291ad" class="article-title">Happiness, Materialism, & Success</a>
+        <a href="https://medium.com/@joshtcodes/happiness-materialism-success-5b58745291ad" class="article-date">July 14, 2019</a>
+      </div>
+      <div class="article">
+        <a href="https://medium.com/@joshtcodes/the-process-of-making-a-website-with-html-css-js-351fe4eaf88d" class="article-title">The Process Of Making A Website</a>
+        <a href="https://medium.com/@joshtcodes/the-process-of-making-a-website-with-html-css-js-351fe4eaf88d" class="article-date">July 19, 2019</a>
+      </div>
+      <div class="article">
+        <a href="https://medium.com/@joshtcodes/sharing-your-thoughts-ideas-with-the-world-17d106ddb7eb" class="article-title">Sharing Your Ideas With The World</a>
+        <a href="https://medium.com/@joshtcodes/sharing-your-thoughts-ideas-with-the-world-17d106ddb7eb" class="article-date">July 17, 2019</a>
+      </div>
+    </div>
+  </section>
+  <!-- TESTIMONIALS -->
+  <section id="testimonials" class="testimonials">
+    <h1 class="testimonials-title">Testimonials</h1>
+    <div class="testimonials-grid">
+      <div class="testimonial">
+        <div class="testimonial-grid">
+          <div class="danny-img"></div>
+          <div class="testimonial-info">
+            <h1 class="testimonial-author">Danny Anderson</h1>
+            <p class="testimonial-quote">“He puts a lot of time and effort into making his websites and designs excellent”</p>
+            <p class="testimonial-value">Co founder of BlogItPoints</p>
+          </div>
+        </div>
+      </div>
+      <div class="testimonial">
+        <div class="testimonial-grid">
+          <div class="gabe-img"></div>
+          <div class="testimonial-info">
+            <h1 class="testimonial-author">Gabe Ivanov</h1>
+            <p class="testimonial-quote">“Josh is aiming towards success with design and code and will be of high value towards someone’s company”</p>
+            <p class="testimonial-value">Co founder of BlogItPoints</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- CONTACT ME -->
   <section id="contactme" class="contactme"></section>
+  <!-- FOOTER -->
   <footer id="footer" class="footer"></footer>
 
   <script src="js/main.js"></script>
