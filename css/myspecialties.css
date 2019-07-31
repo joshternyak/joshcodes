@@ -2,14 +2,17 @@
 
 .myspecialties {
     width: 100vw;
-    height: 40vh;
+    height: auto;
+    min-height: 235px;
     background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .myspecialties-title {
 	text-align: center;
 	font-size: 60px;
-	padding-top: 40px;
+	margin-top: -20px;
 }
 
 .myspecialties-grid {
@@ -20,6 +23,7 @@
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 35px;
+	margin-top: 0px;
 }
 
 .specialty {
@@ -35,6 +39,13 @@
 	border-radius: 10px;
 	box-shadow: 5px 5px 10px grey;
 	text-transform: uppercase;
+	font-family: 'Balthazar', sans-serif;
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+.specialty:hover {
+	transform: scale(0.9);
 }
 
 /* MEDIA QUERIES */
@@ -48,5 +59,9 @@
 @media(max-width: 1000px) {
 	.myspecialties-grid {
 		grid-template-columns: 1fr;
+	}
+
+	.myspecialties {
+		min-height: 550px;
 	}
 }

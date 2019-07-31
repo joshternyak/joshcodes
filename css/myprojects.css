@@ -3,7 +3,8 @@
 
 .myprojects {
     width: 100vw;
-    height: 100vh;
+    height: auto;
+    padding-bottom: 50px;
     background-color: black;
     margin-top: 90vh;
     font-family: 'Montserrat', sans-serif;
@@ -51,12 +52,24 @@
 	height: 100%;
 }
 
+.project-title {
+	color: black;
+}
+
+.statusimtitle {
+	color: black;
+}
+
 .project-info {
 	width: 100%;
 	height: auto;
 	background-color: white;
 	border-bottom-right-radius: 10px;
 	border-bottom-left-radius: 10px;
+}
+
+.project-link {
+	color: black;
 }
 
 .project-date {
@@ -78,6 +91,11 @@
 	letter-spacing: 1.5px;
 	font-size: 25px;
 	cursor: pointer;
+	transition: 0.5s;
+}
+
+.visit-button:hover {
+	border-radius: 0px;
 }
 
 .statusimdesignproject {
@@ -85,7 +103,6 @@
 	height: 400px;
 	margin-right: 5vw;
 	margin-left: 5vw;
-	border: 0.05px solid lightgrey;
 	background-image: url('../img/anothercodingbg.jpeg');
 	background-repeat: no-repeat;
 	background-size: cover;
