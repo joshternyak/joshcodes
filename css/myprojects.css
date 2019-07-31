@@ -128,7 +128,7 @@
 
 @media(max-width: 1500px) {
 	.myprojects-grid {
-		grid-template-columns: repeat(2, 1fr);
+		grid-gap: 25px;
 	}
 }
 
@@ -136,4 +136,50 @@
 	.myprojects-grid {
 		grid-template-columns: repeat(1, 1fr);
 	}
+
+	.statusim-info {
+		width: 50vw;
+		height: 150px;
+		margin-right: 25vw;
+		margin-left: 25vw;
+		border-radius: 10px;
+		background-color: white;
+		display: grid;
+		align-content: start;
+		justify-content: center;
+		text-align: center;
+	}
 }
+
+@media(max-width: 900px) {
+	.statusimdesignproject {
+		display: grid;
+		justify-content: center;
+		align-content: center;
+	}
+	.statusim-info {
+		width: 70vw;
+		margin-right: 15vw;
+		margin-left: 15vw;
+	}
+}
+
+@media(max-width: 800px) {
+	.statusim-info {
+		width: 76vw;
+		margin-right: 13vw;
+		margin-left: 13vw;
+	}
+}
+
+
+@media(max-width: 600px) {
+	.statusim-info {
+		width: 90vw;
+		margin-right: 5vw;
+		margin-left: 5vw;
+	}
+}
+
+
+
