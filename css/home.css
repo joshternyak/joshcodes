@@ -114,11 +114,11 @@ header {
 }
 
 .nav-link a {
-    color: blue;
+    color: lightblue;
 }
 
 .nav-link:hover {
-    border-bottom: 3px solid white;
+    border-bottom: 3px solid lightblue;
     font-weight: 900;
 }
 
