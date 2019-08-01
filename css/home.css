@@ -249,7 +249,7 @@ header {
     animation-name: introscreen;
     animation-fill-mode: forwards;
     animation-duration: 1s;
-    animation-delay: 10s;
+    animation-delay: 6s;
     z-index: 13040404504555;
     position: absolute;
     top: 0px;
