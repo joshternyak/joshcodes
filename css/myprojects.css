@@ -6,7 +6,7 @@
     height: auto;
     padding-bottom: 50px;
     background-color: black;
-    margin-top: 90vh;
+    margin-top: 93vh;
     font-family: 'Montserrat', sans-serif;
     padding-top: 2px;
 }
@@ -109,26 +109,33 @@
 	height: 400px;
 	margin-right: 5vw;
 	margin-left: 5vw;
-	background-image: url('../img/anothercodingbg.jpeg');
-	background-repeat: no-repeat;
+	background: linear-gradient(20deg, lightblue, steelblue);
 	background-size: cover;
 	background-position: center;
 	margin-top: 33px;
 	display: grid;
 	justify-content: end;
 	align-content: center;
+	border-radius: 10px;
 }
 
 .statusim-info {
 	width: 350px;
 	height: auto;
 	border-radius: 10px;
-	padding-bottom: 20px;
+	padding-bottom: 30px;
+	padding-right: 5px;
+	padding-left: 5px;
 	background-color: white;
 	margin-right: 20px;
 	display: grid;
 	align-content: start;
 	justify-content: center;
+	transition: 0.5s;
+}
+
+.statusim-info:hover {
+	transform: scale(1.03);
 }
 
 /* MEDIA QUERIES */
@@ -140,8 +147,44 @@
 }
 
 @media(max-width: 1000px) {
+	.myprojects {
+		min-height: 1500px;
+	}
 	.myprojects-grid {
 		grid-template-columns: repeat(1, 1fr);
+		grid-template-rows: 0% 100%;
+	}
+
+	.statusimdesignproject {
+		margin-top: 300px;
+	}
+
+	.project-img {
+		display: none;
+	}
+
+	.project {
+		padding-bottom: 30px;
+		height: 175px;
+		display: grid;
+		align-content: center;
+		justify-content: center;
+	}
+
+	.project:nth-child(2) {
+		margin-top: 175px;
+	}
+
+	.project:nth-child(3) {
+		margin-top: -220px;
+	}
+
+	.statusimdesignproject {
+		display: grid;
+		justify-content: center;
+		align-content: center;
+		margin-top: 50px;
+		border: 1px solid white;
 	}
 
 	.statusim-info {
@@ -159,11 +202,6 @@
 }
 
 @media(max-width: 900px) {
-	.statusimdesignproject {
-		display: grid;
-		justify-content: center;
-		align-content: center;
-	}
 	.statusim-info {
 		width: 70vw;
 		margin-right: 15vw;

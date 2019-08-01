@@ -65,3 +65,9 @@
 		min-height: 550px;
 	}
 }
+
+@media(max-width: 950px) {
+	.myspecialties-title {
+		font-size: 50px;
+	}
+}
