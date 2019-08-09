@@ -227,4 +227,10 @@
 }
 
 
+@media(max-width: 515px) {
+	.myprojects {
+		margin-top: 88vh;
+	}
+}
+
 

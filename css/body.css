@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Kanit:500,700,900&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Balthazar&display=swap');
 
 * {
@@ -15,12 +14,15 @@ body {
   padding: 0;
   height: auto;
   width: 100vw;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
 }
 
 a {
-  color: white;
   text-decoration: none;
 }
-  
+
+span, p {
+  max-width: 33em;
+}

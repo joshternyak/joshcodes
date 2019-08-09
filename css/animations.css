@@ -1,0 +1,99 @@
+.sliding-left-door {
+    width: 50vw;
+    height: 100vh;
+    background-color: black;
+    animation-name: slidingleftdoor;
+    animation-fill-mode: forwards;
+    animation-duration: 3s;
+    z-index: 13040404504;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+
+@keyframes slidingleftdoor {
+    from {
+        width: 50vw;
+    }
+
+    to {
+        width: 0vw;
+    }
+}
+
+
+.sliding-right-door {
+    width: 50vw;
+    height: 100vh;
+    background-color: black;
+    animation-name: slidingrightdoor;
+    animation-fill-mode: forwards;
+    animation-duration: 3s;
+    z-index: 13040404504;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+
+@keyframes slidingrightdoor {
+    from {
+        width: 50vw;
+    }
+
+    to {
+        width: 0vw;
+    }
+}
+
+
+.intro-screen {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(40deg, black, rgb(0,0,100));
+    animation-name: introscreen;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-delay: 6s;
+    z-index: 13040404504555;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: white;
+    font-size: 4.5vw;
+    text-align: center;
+    text-transform: uppercase;
+    overflow-y: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.intro-title {
+    font-weight: bold;
+}
+
+
+@keyframes introscreen {
+    from {
+        display: block;
+        opacity: 1;
+    }
+
+    to {
+        display: none;
+        opacity: 0;
+        pointer-events: none;
+    }
+}
+
+
+/* Media Queries */
+
+
+
+
+
