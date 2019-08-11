@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,400,600,700,900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Balthazar&display=swap');
 
 * {
@@ -25,4 +25,11 @@ a {
 
 span, p {
   max-width: 33em;
+}
+
+::selection {
+  background: lightblue; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: lightblue; /* Gecko Browsers */
 }

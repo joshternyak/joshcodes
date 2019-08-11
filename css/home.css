@@ -1,146 +1,156 @@
 .home {
 	width: 100vw;
 	height: 100vh;
-	background-image: url('../img/cool-bg.png');
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
+	background: linear-gradient(321.06deg, #02406D 0%, #5D80DA 99.98%, rgba(8, 42, 127, 0.208333) 99.99%, #001C65 100%, rgba(8, 41, 126, 0.2) 100%);
 	position: absolute;
 	top: 0;
 	left: 0;
-	padding-right: 50px;
 }
 
 .header {
-	margin-left: 25px;
-	display: flex;
-	flex-direction: column;
-	align-content: center;
-	align-self: center;
-	position: absolute;
-	top: 30%;
+	display: grid;
 	width: auto;
-	max-width: 900px;
+	width: auto;
 	height: auto;
 	transition: 0.7s;
-	grid-template-rows: repeat(3, 1fr);
-	overflow: auto;
+	grid-template-rows: 60px;
+	grid-row-gap: 30px;
+	text-align: center;
+	align-content: center;
+	margin-top: -25px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
-.header:hover {
-	transform: scale(1.05);
-	cursor: pointer;
+.header div {
+	display: grid;
+	align-content: space-around;
+	justify-content: center;
 }
 
-.selfie {
-	width: 150px;
-	height: 150px;
-	border-radius: 50%;
-	transition: 0.7s;
-	opacity: 0;
-}
-
-.selfie:hover {
-	transform: scale(1.03);
-	cursor: pointer;
-}
-
-.h1 {
-	font-weight: medium;
+.name {
+	font-weight: 100;
 	color: white;
 	margin-top: 0px; 
-	font-size: calc(30px + (90 - 30) * ((100vw - 300px) / (1600 - 300)));
+	font-size: calc(35px + (50 - 35) * ((100vw - 300px) / (1600 - 300)));
   	line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
+  	letter-spacing: -1px;
+  	animation: name 2s forwards;
+  	transition: 0.5s;
 }
 
-.p {
+.name:hover {
+	transform: scale(1.1);
+	cursor: pointer;
+}
+
+
+
+@keyframes name {
+	from {
+		margin-top: -750px;
+	}
+
+	to {
+		margin-top: 0;
+	}
+}
+
+.webdesigner {
 	color: white;
-	font-size: calc(18px + (45 - 18) * ((100vw - 300px) / (1600 - 300)));
+	font-size: calc(40px + (100 - 40) * ((100vw - 300px) / (1600 - 300)));
   	line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
-  	max-width: 66vw; 
+  	font-weight: 900;
+  	letter-spacing: -2px;
+  	animation: webdesigner 4s forwards;
+  	transition: 0.5s;
+}
+
+.webdesigner:hover {
+	transform: scale(1.1);
+	cursor: pointer;
+}
+
+@keyframes webdesigner {
+	from {
+		margin-left: -3000px;
+	}
+
+	to {
+		margin-left: 0;
+	}
 }
 
 .hiremebutton {
-	max-width: 300px;
-	background-color: white;
-	border-radius: 30px;
-	transition: 0.7s;
-	border: none;
+	width: 200px;
+	height: 75px;
+	border: 3px solid white;
+	background: none;
+	border-radius: 37.5px;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: 0.05px;
 	outline: none;
-	margin-top: 0;
-	padding: 15px;
+	animation: hiremebutton 3s forwards;
+	transition: 0.5s;
 }
 
 .hiremebutton:hover {
-	background-color: snow;
+	transform: scale(1.1);
 	cursor: pointer;
-	letter-spacing: 1px;
+	background-color: black;
+	border-radius: 0;
+	border: 6px solid white;
+}
+
+@keyframes hiremebutton {
+	from {
+		margin-bottom: 2000px;
+	}
+
+	to {
+		margin-bottom: 0;
+	}
 }
 
 .hiremebutton a {
+	text-align: center;
 	font-weight: 900;
-	color: black;
-	font-size: calc(25px + (50 - 25) * ((100vw - 300px) / (1600 - 300)));
-  	line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
+	color: white;
 }
 
-
-@media(min-width: 540px) {
+@media(max-width: 1100px) {
 	.header {
-		margin-left: 55px;
-	}
-	.hiremebutton {
-		border-radius: 50px;
-	}
-}
-
-@media(min-width: 700px) {
-	.header {
-		margin-left: 90px;
-	}
-	.hiremebutton {
-		border-radius: 50px;
+		width: 95%;
+		height: 95%;
+		grid-gap: 20px;
 	}
 }
 
-@media(min-width: 800px) {
+@media(max-width: 900px) {
 	.header {
-		margin-left: 130px;
+		width: 93%;
+		height: 93%;
+		grid-gap: 17px;
 	}
 }
 
-@media(min-width: 900px) {
+@media(max-width: 700px) {
 	.header {
-		margin-left: 160px;
+		width: 90%;
+		height: 90%;
+		grid-gap: 15px;
 	}
 }
 
-@media(min-width: 1000px) {
+@media(max-width: 500px) {
 	.header {
-		margin-left: 190px;
+		width: 85%;
+		height: 85%;
+		grid-gap: 10px;
 	}
 }
 
-@media(min-width: 1100px) {
-	.header {
-		margin-left: 130px;
-	}
-}
 
-@media(min-width: 1200px) {
-	.header {
-		margin-left: 220px;
-	}
-}
-
-@media(min-width: 1300px) {
-	.header {
-		margin-left: 240px;
-	}
-}
-
-@media(min-width: 1440px) {
-	.header {
-		margin-left: 260px;
-	}
-}
