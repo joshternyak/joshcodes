@@ -1,0 +1,15 @@
+* {
+    text-decoration: none;
+}
+
+.selfie {
+    transition: 0.5s;
+}
+
+.selfie:hover {
+    transform: scale(1.03);
+}
+
+.height-100 {
+    min-height: 100vh;
+}
