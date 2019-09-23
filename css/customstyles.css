@@ -31,3 +31,7 @@
 .text-underline:hover {
     text-decoration: underline;
 }
+
+.image90 {
+    transform: scale(0.9);
+}
