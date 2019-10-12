@@ -36,7 +36,6 @@
 
 .rounded:hover {
     transform: scale(1.35);
-
 }
 
 .large-text {
@@ -143,3 +142,10 @@
 
 }
 
+.project {
+    transition: 0.5s;
+}
+
+.project:hover {
+    transform: scale(1.03);
+}
