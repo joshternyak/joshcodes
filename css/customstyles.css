@@ -35,7 +35,7 @@
 }
 
 .rounded:hover {
-    transform: scale(1.35);
+    transform: scale(1.35) rotateY(180deg);
 }
 
 .large-text {
