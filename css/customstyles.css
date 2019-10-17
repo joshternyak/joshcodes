@@ -1,3 +1,7 @@
+html, body {
+    scroll-behavior: smooth;
+}
+
 .rounded {
     border-radius: 30px;
     transition: 0.5s;
