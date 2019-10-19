@@ -1,0 +1,257 @@
+/* MOBILE */
+
+@media(max-width: 1500px) {
+    .left-section-title {
+        font-size: 50px;
+    }
+
+    .left-section-subtitle {
+        font-size: 23px;
+    }
+
+    .btn {
+        padding: 13px;
+        font-size: 17px;
+    }
+
+    .right-section-img {
+        transform: scale(2.3);
+    }
+
+    .right-section-img:hover {
+        transform: scale(2.4);
+    }
+}
+
+@media(max-width: 1300px) {
+    .left-section-title {
+        font-size: 46px;
+    }
+
+    .left-section-subtitle {
+        font-size: 21px;
+    }
+
+    .btn {
+        padding: 12px;
+        font-size: 16px;
+    }
+
+    .right-section-img {
+        transform: scale(2.1);
+    }
+
+    .right-section-img:hover {
+        transform: scale(2.2);
+    }
+}
+
+@media(max-width: 1150px) {
+    .left-section-title {
+        font-size: 42px;
+    }
+
+    .left-section-subtitle {
+        font-size: 19px;
+    }
+
+    .btn {
+        padding: 11px;
+        font-size: 15px;
+    }
+
+    .right-section-img {
+        transform: scale(2.0);
+    }
+
+    .right-section-img:hover {
+        transform: scale(2.1);
+    }
+}
+
+@media(max-width: 1000px) {
+    .left-section-title {
+        font-size: 38px;
+    }
+
+    .left-section-subtitle {
+        font-size: 19px;
+    }
+
+    .btn {
+        padding: 12px;
+        font-size: 15px;
+    }
+
+    .right-section-img {
+        transform: scale(1.9);
+    }
+
+    .right-section-img:hover {
+        transform: scale(2.0);
+    }
+}
+
+@media(max-width: 850px) {
+    .left-section-title {
+        font-size: 34px;
+    }
+
+    .left-section-subtitle {
+        font-size: 18px;
+    }
+
+    .right-section-img {
+        transform: scale(1.8);
+    }
+
+    .right-section-img:hover {
+        transform: scale(2.0);
+    }
+}
+
+@media(max-width: 700px) {
+    .left-section-title {
+        font-size: 30px;
+    }
+
+    .left-section-subtitle {
+        font-size: 17px;
+    }
+
+    .right-section-img {
+        transform: scale(1.6);
+    }
+
+    .right-section-img:hover {
+        transform: scale(1.7);
+    }
+}
+
+@media(max-width: 600px) {
+    .services-link {
+        display: none;
+    }
+
+    .navbar {
+        width: 300px;
+    }
+}
+
+@media(max-width: 500px) {
+    .navbar {
+        width: 250px;
+    }
+}
+
+@media(max-width: 450px) {
+    .navbar {
+        width: 200px;
+        font-size: 0.9em;
+    }
+}
+
+@media(max-width: 500px) {
+    .left-section-title {
+        font-size: 28px;
+    }
+
+    .left-section-subtitle {
+        font-size: 15px;
+    }
+
+    .right-section-img {
+        transform: scale(1.40);
+    }
+
+    .right-section-img:hover {
+        transform: scale(1.3);
+    }
+}
+
+
+
+@media(max-width: 1300px) {
+    .projects-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+@media(max-width: 1000px) {
+    .services-section {
+        width: 80vw;
+    }
+
+    .sections-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .right-section {
+        align-content: start;
+    }
+}
+
+@media(max-width: 900px) {
+    .services-section {
+        width: 85vw;
+    }
+}
+
+@media(max-width: 800px) {
+    .services-section {
+        width: 90vw;
+    }
+}
+
+@media(max-width: 700px) {
+    .left-section-inside {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+
+@media(max-width: 800px) {
+    .service {
+        padding: 4em 1em;
+    }
+
+    .projects-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media(max-width: 700px) {
+
+    .aboutme-section {
+        max-height: 700px;
+    }
+
+    .services-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .service:nth-child(1) {
+        border-bottom-left-radius: 0px;
+    }
+
+    .service:nth-child(2) {
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+}
+
+@media(max-width: 768px) {
+    .startaproject-grid {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+    }
+
+    .startaproject {
+        max-height: 350px;
+    }
+}

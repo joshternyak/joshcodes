@@ -1,0 +1,29 @@
+/* FOOTER */
+
+.footer-section {
+    width: 100vw;
+    min-height: 500px;
+    background-color: #7512F7;
+    color: white;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 0px;
+    margin-top: 50px;
+    z-index: 5;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+.contact-section {
+    margin-top: 20px;
+    padding: 2em;
+}
+
+.contact-section-logo {
+    width: 75px;    
+}
+
+.contact-section > button {
+    margin-top: 0.8em;
+}

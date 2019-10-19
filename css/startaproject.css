@@ -1,0 +1,49 @@
+/* START A PROJECT */
+
+.startaproject {
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #151C3A;
+    min-height: 120px;
+    z-index: 100;
+    margin-top: -150px;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 1em 0;
+}
+
+.startaproject-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 100%;
+    position: relative;
+    top: -15px;
+    left: 0;
+}
+
+.startaproject-grid-item {
+    display: grid;
+    padding: 0em 1em;
+    align-content: center;
+    justify-content: center;
+}
+
+.startaproject-grid-item > h1 {
+    font-size: 1.7em;
+}
+
+.startaproject-grid-item > p {
+    font-weight: 300;
+}
+
+.startaproject-grid-item > button {
+    width: 150px;
+    border: 1.5px solid #7511F7;
+    padding: 0.75em;
+    font-size: 1.15em;
+    border-radius: 50px;
+}
+
