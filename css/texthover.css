@@ -1,0 +1,8 @@
+.letter:hover {
+    -webkit-text-stroke: 3px black;
+    color: white;
+    transition: 0.3s;
+    cursor: pointer;
+    transform: scale(1.02);
+    display: inline-block;
+}

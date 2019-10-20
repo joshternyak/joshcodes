@@ -16,10 +16,6 @@
     transition: 0.5s;
 }
 
-.sections-grid:hover {
-    transform: scale(0.90) skew(1deg);
-}
-
 @keyframes main-section {
     from {
         transform: scale(0.45);
