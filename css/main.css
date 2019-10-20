@@ -8,7 +8,11 @@
     animation-duration: 1.5s;
     animation-direction: forwards;
     background-image: url('../img/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     transform: scale(0.90);
+    border-radius: 50px;
     transition: 0.5s;
 }
 
