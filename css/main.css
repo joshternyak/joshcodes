@@ -2,15 +2,11 @@
 .sections-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    min-height: 100vh;
+    min-height: 50vh;
     background-color: white;
     animation-name: main-section;
     animation-duration: 1.5s;
     animation-direction: forwards;
-    /* background-image: url('../img/bg.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; */
     transform: scale(0.90);
     border-radius: 50px;
     transition: 0.5s;
@@ -34,7 +30,7 @@
 }
 
 .left-section-inside {
-    min-width: 95%;
+    min-width: 100%;
     margin-left: auto;
     margin-right: auto;
     padding: 5px;
@@ -42,8 +38,10 @@
 
 .right-section {
     display: grid;
+    padding: 0;
     align-content: center;
     justify-content: center;
+    width: 40%;
 }
 
 .left-section-title {
@@ -55,19 +53,18 @@
 .left-section-subtitle {
     font-size: 25px;
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
-
 
 .right-section-img {
     max-width: 100%;
-    margin-left: auto;
+    margin-left: 100px;
     margin-right: auto;
-    transform: scale(2.5);
+    transform: scale(1.5);
     transition: 0.35s;
 }
 
 .right-section-img:hover {
-    transform: scale(2.6);
+    transform: scale(1.6);
     cursor: pointer;
 }
