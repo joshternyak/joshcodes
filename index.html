@@ -11,8 +11,8 @@
     <link rel="stylesheet" href="css/projects.css">
     <link rel="stylesheet" href="css/aboutme.css">
     <link rel="stylesheet" href="css/services.css">
-    <link rel="stylesheet" href="css/startaproject.css">
     <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/articles.css">
     <link rel="stylesheet" href="css/mobile.css">
     <link rel="stylesheet" href="css/texthover.css">
     <link rel="shortcut icon" href="img/logo2.png" type="image/x-icon">
@@ -21,27 +21,17 @@
     <div class="sections-grid">
         <div class="left-section">
             <div class="left-section-inside">
-                <h1 class="left-section-title"><span class="letter">H</span><span class="letter">i</span><span class="letter">,</span> <span class="letter">I</span><span class="letter">'</span><span class="letter">m</span> <span class="letter">J</span><span class="letter">o</span><span class="letter">s</span><span class="letter">h</span> <span class="letter">T</span><span class="letter">e</span><span class="letter">r</span><span class="letter">n</span><span class="letter">y</span><span class="letter">a</span><span class="letter">k</span><span class="letter">.</span></h1>
+                <h1 class="left-section-title">Hi, I'm <span class="letter">J</span><span class="letter">o</span><span class="letter">s</span><span class="letter">h</span> <span class="letter">T</span><span class="letter">e</span><span class="letter">r</span><span class="letter">n</span><span class="letter">y</span><span class="letter">a</span><span class="letter">k</span><span class="letter">.</span></h1>
                 <p class="left-section-subtitle">I design and code websites, and love what I do.</p>
-                <a href="https://docs.google.com/forms/d/1HICsgRgLRz9UyToMmgTjHTdy_DoQBy_FRw-9TWkZ2E4"><button class="btn btn2 btn3">Hire Me</button></a>
-                <a href="#about"><button class="btn btn2">Learn More</button></a>
+                <a class="hire-me-btn" href="https://docs.google.com/forms/d/1HICsgRgLRz9UyToMmgTjHTdy_DoQBy_FRw-9TWkZ2E4"><button class="btn btn2 btn3">Hire Me</button></a>
+                <a href="#about" class="learn-more-btn"><button class="btn btn2">Learn More</button></a>
             </div>
         </div>
         <div class="right-section">
             <img class="right-section-img" src="img/avatar.svg" alt="">
         </div>
     </div>
-    <div class="aboutme-section" id="about">
-        <h1>Hi, I'm Josh. Nice to meet you.</h1>
-        <div class="aboutme-grid">
-            <div class="aboutme-text">
-                <p>I'm a son, brother, and a friend who wants to make a positive impact on the world, preferably with web development. I began learning to make programs when I was just 11 years old. As soon as I saw "Hello World" appear on the screen, I was hooked.</p>
-                <p>
-                Soon enough, I started making programs that eventually transformed into websites. Making websites is my passion because of the impact it can have on the world, and because it sparks creativity. Imagine the next biggest online company being created from your hands. Web Development is an art, and I love it.</p>
-            </div>
-        </div>
-    </div>
-    <div class="services-section" id="services">
+    <!-- <div class="services-section" id="services">
         <div class="services-grid">
             <div class="service">
                 <img src="img/designer.svg" alt=""><br><br>
@@ -62,10 +52,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="projects-section" id="projects">
         <h1>My Projects</h1>
-        <p>Here are a few of my projects. Want to see more? <a href="mailto:joshtcodes@gmail.com"><span class="text-purple">Email me.</span></a></p>
         <div class="projects-grid">
             <div class="project">
                 <div class="project-img">
@@ -89,7 +78,7 @@
             </div>
             <div class="project">
                 <div class="project-img">
-                    <img src="img/nadavproject.png" alt="">
+                    <img src="img/nadavimg.png" alt="">
                 </div>
                 <div class="project-info">
                     <h2>Nadav Photography</h2><br>
@@ -129,23 +118,24 @@
             </div>
         </div>
     </div>
-    
-    <footer class="footer-section" id="contact">
-        <div class="startaproject">
-            <div class="startaproject-grid">
-                <div class="startaproject-grid-item">
-                    <h1>Start a project</h1>
-                </div>
-                <div class="startaproject-grid-item">
-                    <p>Interested in working together? We should queue up a chat. I’ll buy the coffee.</p>
-                </div>
-                <div class="startaproject-grid-item">
-                    <a href="mailto:joshtcodes@gmail.com" target=[]><button class="btn btn-long">Let's do this</button></a>
-                </div>
+    <div class="aboutme-section" id="about">
+        <h1>Hi, I'm Josh. Nice to meet you.</h1>
+        <div class="aboutme-grid">
+            <div class="aboutme-text">
+                <p>I'm a son, brother, and a friend who wants to make a positive impact on the world, preferably with web development. I began learning to make programs when I was just 11 years old. As soon as I saw "Hello World" appear on the screen, I was hooked.</p>
+                <p>
+                Soon enough, I worked on projects for fun. Then, I started my web development career by doing client work. Making websites is my biggest passion because it sparks creativity. Web Development is an art, and I love it.</p>
             </div>
         </div>
+    </div>
+    <div class="articles-section" id="articles">
+        <h1 class="articles-title">My Blog</h1>
+        <p class="articles-subtitle">My blog is all about building websites, how to achieve happiness, and even tips for success.</p>
+        <a href="blog/blog.html"><button class="btn btn-primary">Read Now</button></a>
+    </div>
+    <footer class="footer-section" id="contact">
         <div class="contact-section">
-            <h2 class="contact-section-text">Living, learning, & leveling up one day at a time.</h3><br><br>
+            <h2 class="contact-section-text">Interested in working together? We should queue up a chat.</h3><br><br>
             <a href="https://docs.google.com/forms/d/1HICsgRgLRz9UyToMmgTjHTdy_DoQBy_FRw-9TWkZ2E4"><button class="btn btn2 btn-long">Hire Me</button></a><br><br>
             <span>Copyright © 2019 All rights reserved | Josh Ternyak</span>
         </div>

@@ -2,10 +2,10 @@
 
 .aboutme-section {
     width: 100vw;
-    background-color: #7512F7;
+    background-color: rgb(20, 20, 20);
     text-align: center;
     min-height: 300px;
-    max-height: 550px;
+    max-height: 450px;
     padding-bottom: 50px;
     padding-top: 75px;
     padding-left: 20px;

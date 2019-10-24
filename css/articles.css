@@ -1,0 +1,19 @@
+.articles-section {
+    width: 100vw;
+    min-height: 100px;
+    background-color: white;
+    display: grid;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    padding: 5em;
+}
+
+.articles-title {
+    margin-bottom: 0;
+}
+
+.articles-subtitle {
+    font-size: 1.15em;
+    margin: 7px;
+}
