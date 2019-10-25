@@ -23,21 +23,6 @@
     }
 }
 
-@media(max-width: 1300px) {
-    .left-section-title {
-        font-size: 46px;
-    }
-
-    .left-section-subtitle {
-        font-size: 21px;
-    }
-
-    .btn {
-        padding: 12px;
-        font-size: 16px;
-    }
-}
-
 @media(max-width: 1150px) {
     .left-section-title {
         font-size: 42px;
@@ -98,12 +83,6 @@
     }
 }
 
-@media(max-width: 500px) {
-    .navbar {
-        width: 250px;
-    }
-}
-
 @media(max-width: 450px) {
     .navbar {
         width: 200px;
@@ -118,6 +97,14 @@
 @media(max-width: 500px) {
     .left-section-title {
         font-size: 28px;
+    }
+
+    .aboutme-text {
+        font-size: 25px;
+    }
+
+    .navbar {
+        width: 250px;
     }
 
     .left-section-subtitle {
@@ -141,9 +128,48 @@
     }
 }
 
+@media(max-width: 1320px) {
+    .left-section {
+        padding-left: 50px;
+    }
+}
+
+@media(max-width: 1160px) {
+    .left-section {
+        padding-left: 0px;
+    }
+}
+
 @media(max-width: 1300px) {
     .projects-grid {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .aboutme-text {
+        font-size: 40px;
+    }
+
+    .left-section-title {
+        font-size: 46px;
+    }
+
+    .left-section-subtitle {
+        font-size: 21px;
+    }
+
+    .btn {
+        padding: 12px;
+        font-size: 16px;
+    }
+}
+
+@media(max-width: 1100px) {
+    .aboutme-text {
+        font-size: 35px;
+    }
+
+    .footer-section {
+        margin-top: 500px;
     }
 }
 
@@ -184,6 +210,10 @@
 
     .left-section {
         justify-content: center;
+    }
+
+    .aboutme-text {
+        font-size: 30px;
     }
 }
 
@@ -249,14 +279,57 @@
     }
 }
 
+@media(max-width: 425px) {
+    .footer-section {
+        margin-top: 550px;
+    }
+}
+
 @media(max-width: 400px) {
     .projects-grid {
         width: 90vw;
+        margin-left: auto;
+        margin-right: auto;
+        transform: scale(0.9);
+        margin-top: -30px;
+    }
+
+    .footer-section {
+        margin-top: 650px;
+    }
+}
+
+@media(max-width: 370px) {
+    .footer-section {
+        margin-top: 750px;
+    }
+
+    .projects-section {
+        padding-left: 0;
+        padding-right: 0;
     }
 }
 
 @media(max-width: 360px) {
     .aboutme-section {
         min-height: 375px;
+    }
+
+    .projects-grid {
+        transform: scale(0.85);
+        width: 100vw;
+        margin-top: -80px;
+    }
+}
+
+@media(max-width: 350px) {
+    .footer-section {
+        margin-top: 850px;
+    }
+}
+
+@media(max-width: 320px) {
+    .footer-section {
+        margin-top: 950px;
     }
 }
