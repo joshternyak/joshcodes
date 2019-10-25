@@ -2,14 +2,15 @@
 
 .footer-section {
     width: 100vw;
-    min-height: 300px;
-    background-color: rgb(20, 20, 20);
-    color: white;
+    min-height: 100px;
+    color: black;
     text-align: center;
-    padding-bottom: 50px;
-    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-top: 20px;
     z-index: 5;
     display: grid;
+    margin-top: 50px;
+    font-size: 1.2em;
     align-content: center;
     justify-content: center;
 }

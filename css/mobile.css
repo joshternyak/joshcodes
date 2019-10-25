@@ -152,6 +152,10 @@
         width: 80vw;
     }
 
+    .sidebar {
+        display: none;
+    }
+
     .sections-grid {
         grid-template-columns: repeat(1, 1fr);
         min-height: 30vh;

@@ -3,7 +3,6 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     min-height: 45vh;
-    background-color: white;
     transform: scale(0.90);
     border-radius: 50px;
     transition: 0.5s;

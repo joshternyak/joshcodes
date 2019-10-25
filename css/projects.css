@@ -4,7 +4,7 @@
     min-height: 400px;
     text-align: center;
     padding-bottom: 50px;
-    padding-top: 0px;
+    padding-top: 30px;
     margin-top: 75px;
     padding-left: 15px;
     padding-right: 15px;
@@ -16,8 +16,8 @@
     margin: auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    min-height: calc(300px * 1);
-    margin-top: 30px;
+    min-height: calc(600px * 1);
+    margin-top: 20px;
     grid-column-gap: 40px;
     grid-row-gap: 100px;
 }
@@ -48,7 +48,6 @@
 }
 
 .project-info {
-    background-color: white;
     padding: 1vh;
     transition: 0.5s;
     display: block;
