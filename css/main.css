@@ -2,7 +2,7 @@
 .sections-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    min-height: 45vh;
+    min-height: 40vh;
     transform: scale(0.90);
     border-radius: 50px;
     transition: 0.5s;
@@ -12,7 +12,7 @@
     display: grid;
     align-content: center;
     justify-content: end;
-    margin-top: -60px;
+    margin-top: -30px;
     padding-left: 100px;
 }
 
@@ -28,7 +28,8 @@
     padding: 0;
     align-content: center;
     justify-content: center;
-    width: 60%;
+    width: 70%;
+    overflow: hidden;
 }
 
 .left-section-title {
@@ -45,13 +46,13 @@
 
 .right-section-img {
     max-width: 100%;
-    margin-left: 100px;
+    margin-left: 0px;
     margin-right: auto;
-    transform: scale(1.5);
+    transform: scale(1.35);
     transition: 0.35s;
 }
 
 .right-section-img:hover {
-    transform: scale(1.6);
+    transform: scale(1.40);
     cursor: pointer;
 }
