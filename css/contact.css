@@ -1,0 +1,13 @@
+.contact-section {
+    text-align: center;
+    padding: 5em 1em;
+}
+
+.contact-title {
+    color: black;
+    font-size: 60px;
+}
+
+.contact-title a:hover {
+    text-decoration: underline;
+}

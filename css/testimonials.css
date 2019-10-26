@@ -1,0 +1,45 @@
+.testimonials-section {
+    width: 100vw;
+    min-height: 400px;
+    margin-top: 75px;
+    padding-left: 15px;
+    padding-bottom: 50px;
+    text-align: center;
+    padding-right: 15px;
+    margin-bottom: 50px;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+.testimonials-grid {
+    padding-top: 35px;
+    min-height: 300px;
+    min-width: 350px;
+    max-width: 550px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-template-columns: repeat(1, 1fr);
+    text-align: left;
+    grid-gap: 30px;
+}
+
+.testimonial {
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    min-height: 250px;
+    padding: 1.2em 2em;
+    background-color: white;
+}
+
+.quote-author {
+    font-size: 1.3em;
+    margin-bottom: 0;
+}
+
+.quote {
+    font-size: 2em;
+    margin-top: 10px;
+}
+

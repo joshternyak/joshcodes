@@ -145,6 +145,11 @@
         grid-template-columns: repeat(2, 1fr);
     }
 
+    .contact-title {
+        color: black;
+        font-size: 55px;
+    }
+
     .aboutme-text {
         font-size: 40px;
     }
@@ -180,6 +185,11 @@
 
     .sidebar {
         display: none;
+    }
+
+    .contact-title {
+        color: black;
+        font-size: 50px;
     }
 
     .sections-grid {
@@ -227,6 +237,11 @@
     .services-section {
         width: 90vw;
     }
+
+    .contact-title {
+        color: black;
+        font-size: 45px;
+    }
 }
 
 @media(max-width: 700px) {
@@ -245,6 +260,8 @@
     .projects-grid {
         grid-template-columns: repeat(1, 1fr);
     }
+
+
 }
 
 @media(max-width: 700px) {
@@ -276,6 +293,16 @@
 
     .startaproject {
         max-height: 350px;
+    }
+}
+
+@media(max-width: 550px) {
+    .contact-section {
+        text-align: left;
+    }
+    .contact-title {
+        color: black;
+        font-size: 43px;
     }
 }
 
