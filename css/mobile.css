@@ -151,7 +151,7 @@
     }
 
     .aboutme-text {
-        font-size: 40px;
+        font-size: 35px;
     }
 
     .left-section-title {
@@ -170,7 +170,7 @@
 
 @media(max-width: 1100px) {
     .aboutme-text {
-        font-size: 35px;
+        font-size: 30px;
     }
 
     .footer-section {
@@ -189,7 +189,7 @@
 
     .contact-title {
         color: black;
-        font-size: 50px;
+        font-size: 45px;
     }
 
     .sections-grid {
@@ -223,7 +223,7 @@
     }
 
     .aboutme-text {
-        font-size: 30px;
+        font-size: 28px;
     }
 }
 
@@ -240,7 +240,7 @@
 
     .contact-title {
         color: black;
-        font-size: 45px;
+        font-size: 40px;
     }
 }
 

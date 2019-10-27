@@ -3,9 +3,24 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     min-height: 40vh;
-    transform: scale(0.90);
+    transform: scale(0.95);
     border-radius: 50px;
     transition: 0.5s;
+    animation-direction: forwards;
+    animation-duration: 1.2s;
+    animation-name: main;
+}
+
+@keyframes main {
+    from {
+        margin-top: 50vh;
+        opacity: 0.5;
+    }
+
+    to {
+        margin-top: 0;
+        opacity: 1;
+    }
 }
 
 .left-section {
