@@ -1,199 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Josh Ternyak's Web Developer Portfolio">
-  <meta name="author" content="Josh Ternyak">
-  <title>Josh Ternyak's Portfolio</title>
-  <!-- Bootstrap Core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Custom Fonts -->
-  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-  <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
-  <!-- Custom CSS -->
-  <link href="css/stylish-portfolio.min.css" rel="stylesheet">
-  <style>
-  .main-section {
-    margin-top: 150px;
-  }
-  .img-small {
-    margin-top: -20px;
-  }
-
-  .overlay {
-    background-color: black;
-    width: 100vw;
-    height: 100vh;
-    position: absolute;
-    top: 0;
-    opacity: 0.6;
-    left: 0;
-    z-index: 5;
-  }
-
-  .front-level {
-    z-index: 10000000000;
-  }
-
-  @media(max-width: 995px) {
-    .front-front {
-      height: 100vh;
-    }
-  }
-
-  @media(max-width: 650px) {
-    #front-title {
-      font-size: 45px;
-    }
-
-    #front-subtitle {
-      font-size: 20px;
-    }
-  }
-
-  .overlay--light {
-    opacity: 0.3;
-  }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>I am Josh Ternyak</title>
+    <link rel="stylesheet" href="stylesheets/main.css">
 </head>
-
-<body id="page-top">
-  <!-- Header -->
-  <header class="masthead d-flex front-front">
-    <div class="container text-center my-auto front-level">
-      <h1 class="mb-1 mt-5 text-white" id="front-title">Hi, I'm Josh Ternyak</h1>
-      <h3 class="mb-4 text-white" id="front-subtitle">
-        <span>I love making websites that look amazing.</span>
-      </h3>
-      <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://docs.google.com/forms/d/1HICsgRgLRz9UyToMmgTjHTdy_DoQBy_FRw-9TWkZ2E4/edit" target=[]>Hire Me</a><br>
+<body>
+    <ul class="navbar navbar-top horizontal-center">
+        <li class="list-item text-left"><a href="#home" class="text-dark text-normal text-decoration-none">Home</a></li>
+        <li class="list-item text-center"><a href="#about" class="text-dark text-normal text-decoration-none">About</a></li>
+        <li class="list-item text-right"><a href="#projects" class="text-dark text-normal text-decoration-none">Projects</a></li>
+    </ul>
+    <div class="bg-light full-screen center-page front raise-up-slightly" id="home">
+        <div class="fade-in raise-up">
+            <h1 class="text-huge text-center mb-0 text-black mt-0">Hello, I am <span class="font-weight-bold">Josh Ternyak</span></h1>
+            <p class="text-large text-center mt-0 text-dark mb-2">I am a front-end web developer that loves coding websites.</p>
+            <button class="btn btn-primary btn-rounded btn-massive btn-centered text-medium bg-dark border-none mt-2"><a href="https://docs.google.com/forms/d/1HICsgRgLRz9UyToMmgTjHTdy_DoQBy_FRw-9TWkZ2E4/edit" class="text-white center-self text-decoration-none" target=[]>Hire Me</a></button>
+        </div>
     </div>
-    <div class="overlay"></div>
-  </header>
-
-  <!-- About -->
-  <section class="content-section bg-light front-ultra-level" id="about">
-    <div class="container text-center">
-      <div class="row">
-        <div class="col-lg-10 mx-auto">
-          <h2 class="text-left">About Me</h2>
-          <p class="lead mb-3 text-left">I'm a son, brother, and a friend who wants to make a positive impact on the world, preferably with web development. I began learning to make programs when I was just 11 years old. As soon as I saw "Hello World" appear on the screen, I was hooked. 
-          </p>
-          <p class="lead mb-5 text-left">
-          Later on in my journey, I began to work on projects for fun. Then, I started my professional web development career by doing client work. I am currently learning react js and building web apps. Web Development is an art that sparks creativity, and I love it.</p>
+    <div class="bg-light full-screen" id="about">
+        <div class="container">
+            <h1 class="text-large text-black text-uppercase mb-0">About Me</h1>
+            <div class="col-3 display-flex text-center text-normal">
+                <div class="col p-0">
+                    <p class="text-medium text-left mt-1 text-dark">I began learning how to code when I was 11 years old. After months of struggling to master the basics, I built simple websites that I was proud of.</p>
+                </div>
+                <div class="col p-0">
+                    <p class="text-medium text-left mt-1 text-dark">Then for the next two years, I focused on sharpening my web development tools by learning, and practicing.</p>
+                </div>
+            </div>
+            <h1 class="text-large text-black text-uppercase mb-0" id="projects">My Projects</h1>
+            <p class="text-medium text-left mt-1 text-dark">I have built countless projects over these past years, however, these are my best.</p>
+            <div class="col-12 display-flex text-center text-normal pb-3">
+                <div class="col bg-gray p-0 border-1 shadow hover-grow">
+                    <a href="https://github.com/joshternyak/blog" target=[]>
+                        <img src="img/blog.png" alt="" class="img">
+                    </a>
+                </div>
+                <div class="col bg-gray p-0 border-1 shadow hover-grow">
+                    <a href="https://www.figma.com/file/CYhb0q2PGgYkgERntNHJ8YKY/Status.im-Replica?node-id=0%3A1" target=[]>
+                        <img src="img/status.png" alt="" class="img">
+                    </a>
+                </div>
+                <div class="col bg-gray p-0 border-1 shadow hover-grow">
+                    <a href="https://joshternyak.github.io/freeezecss.github.io" target=[]>
+                        <img src="img/freeeze.png" alt="" class="img">
+                    </a>
+                </div>
+                <div class="col bg-gray p-0 border-1 shadow hover-grow">
+                    <a href="https://nadavcassuto.github.io" target=[]>
+                        <img src="img/nadav.png" alt="" class="img">
+                    </a>
+                </div>
+                <div class="col bg-gray p-0 border-1 shadow hover-grow">
+                    <a href="https://lubazevelev.github.io" target=[]>
+                        <img src="img/luba.png" alt="" class="img">
+                    </a>
+                </div>
+            </div>
         </div>
-      </div>
+        <h1 class="text-center text-medium text-dark pb-3 pt-3">Copyright &copy; Josh Ternyak 2019</h1>
     </div>
-  </section>
-
-  <!-- Services -->
-  <section class="content-section bg-primary text-white text-center" id="services">
-    <div class="container">
-      <div class="content-section-heading">
-        <h3 class="text-secondary mb-0">Services</h3>
-        <h2 class="mb-5">What I Offer</h2>
-      </div>
-      <div class="row">
-        <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-          <span class="service-icon rounded-circle mx-auto mb-3">
-            <i class="icon-screen-smartphone"></i>
-          </span>
-          <h4>
-            <strong>Responsive</strong>
-          </h4>
-          <p class="text-faded mb-0">My websites look great on any screen size!</p>
-        </div>
-        <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-          <span class="service-icon rounded-circle mx-auto mb-3">
-            <i class="icon-pencil"></i>
-          </span>
-          <h4>
-            <strong>Speedy</strong>
-          </h4>
-          <p class="text-faded mb-0">You tell me what to do, I'll do quality work quickly.</p>
-        </div>
-        <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
-          <span class="service-icon rounded-circle mx-auto mb-3">
-            <i class="icon-like"></i>
-          </span>
-          <h4>
-            <strong>Interface</strong>
-          </h4>
-          <p class="text-faded mb-0">The UI helps users understand the problem the website solves.</p>
-        </div>
-        <div class="col-lg-3 col-md-6">
-          <span class="service-icon rounded-circle mx-auto mb-3">
-            <i class="icon-speech"></i>
-          </span>
-          <h4>
-            <strong>Communication</strong>
-          </h4>
-          <p class="text-faded mb-0">Have any questions with the project? I'll answer them.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Portfolio -->
-  <section class="content-section" id="portfolio">
-    <div class="container">
-      <div class="content-section-heading text-center">
-        <h3 class="text-secondary mb-0">Portfolio</h3>
-        <h2 class="mb-5">Recent Projects</h2>
-      </div>
-      <div class="row no-gutters">
-        <div class="col-lg-6 project-item">
-          <a class="portfolio-item" href="https://nadavcassuto.github.io/" target=[]>
-            <div class="overlay overlay--light"></div>
-            <img class="img-fluid" src="img/nadav.png" alt="">
-          </a>
-        </div>
-        <div class="col-lg-6 project-item">
-          <a class="portfolio-item" href="https://joshternyak.github.io/freeezecss.github.io/" target=[]>
-            <div class="overlay overlay--light"></div>
-            <img class="img-fluid" src="img/freeeze.png" alt="">
-          </a>
-        </div>
-        <div class="col-lg-6 project-item">
-          <a class="portfolio-item" href="https://www.figma.com/file/CYhb0q2PGgYkgERntNHJ8YKY/Status.im-Replica?node-id=0%3A1" target=[]>
-            <div class="overlay overlay--light"></div>
-            <img class="img-fluid" src="img/status.png" alt="">
-          </a>
-        </div>
-        <div class="col-lg-6 project-item">
-          <a class="portfolio-item" href="https://github.com/joshternyak/blog" target=[]>
-            <div class="overlay overlay--light"></div>
-            <img class="img-fluid" src="img/blog.png" alt="">
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Callout -->
-  <section class="callout">
-    <div class="container text-center">
-      <h2 class="mx-auto mb-5">Interested in working together?</h2>
-      <a class="btn btn-primary btn-xl" href="mailto:joshtcodes@gmail.com">Let's Chat</a>
-    </div>
-  </section>
-
-  <!-- Footer -->
-  <footer class="footer text-center">
-    <div class="container">
-      <p class="text-muted mb-0">Copyright &copy; Josh Ternyak 2019</p>
-    </div>
-  </footer>
-
-  <!-- Scroll to Top Button-->
-  <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">
-    <i class="fas fa-angle-up"></i>
-  </a>
-
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-  <script src="js/stylish-portfolio.min.js"></script>
 </body>
 </html>
