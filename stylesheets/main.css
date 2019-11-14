@@ -467,13 +467,19 @@
 
 @media (max-width: 350px) {
   .hide-phone {
-    display: none;
+    display: none !important;
+  }
+}
+
+@media (max-width: 400px) {
+  .hide-mobile {
+    display: none !important;
   }
 }
 
 @media (max-width: 800px) {
   .hide-tablet {
-    display: none;
+    display: none !important;
   }
 }
 

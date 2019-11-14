@@ -430,13 +430,19 @@
 
 .hide-phone {
     @media(max-width: 350px) {
-        display: none;
+        display: none !important;
+    }
+}
+
+.hide-mobile {
+    @media(max-width: 400px) {
+        display: none !important;
     }
 }
 
 .hide-tablet {
     @media(max-width: 800px) {
-        display: none;
+        display: none !important;
     }
 }
 
