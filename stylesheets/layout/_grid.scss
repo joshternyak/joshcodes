@@ -23,6 +23,7 @@
     .col {
         flex: 1;
         margin-right: 2rem;
+        flex-basis: 30rem;
         
         @media(max-width: 750px) {
             flex: auto;

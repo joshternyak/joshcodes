@@ -28,19 +28,15 @@ body {
 }
 
 .text-large {
-  font-size: 3.5rem;
+  font-size: 3.3rem;
 
   @media(max-width: 800px) {
-    font-size: 3.7rem;
-  }
-
-  @media(max-width: 600px) {
-    font-size: 3.2rem;
+    font-size: 3rem;
   }
 }
 
 .text-huge {
-  font-size: 10rem;
+  font-size: 8rem;
 
   @media(max-width: 900px) {
     font-size: 9rem;
