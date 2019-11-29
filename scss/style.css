@@ -10869,7 +10869,6 @@ h1, h2, h3, h4, h5,
   text-transform: uppercase;
   z-index: 1;
   color: #fff;
-  color: transparent;
   line-height: .1vh;
   -webkit-text-fill-color: transparent;
   /* Will override color (regardless of order) */

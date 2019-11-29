@@ -21,14 +21,14 @@
 	<link rel="stylesheet" href="css/style.css">
 	<style>
 	.front-text {
-		transition: 0.75s;
+		transition: 0.8s;
 		animation-name: front-text;
-		animation-duration: 0.75s;
+		animation-duration: 0.8s;
 	}
 
 	@keyframes front-text {
 		from {
-			transform: translateY(-150px);
+			transform: translateY(-250px);
 		}
 
 		to {
@@ -39,11 +39,15 @@
 	.half-height {
 		height: 400px !important;
 	}
+
+	.text-massive {
+		font-size: 3vw;
+	}
 	</style>
   </head>
   <body>
     <section id="home-section" class="hero">
-    	<h1 class="vr text-center front-text">Josh</h1>
+		<h1 class="vr text-center front-text">Josh</h1>
 		  <div class="js-fullheight home-wrap d-flex">
 		  	<div class="half order-md-last"></div>
 		  	<div class="half">
@@ -70,21 +74,22 @@
 			      </div>
 			    </div>
 			  </div>
-	    </div>
+		</div>
     </section>
 
-    <section class="ftco-section ftco-intro">
+    <section class="ftco-section ftco-intro" id="about">
     	<div class="container">
     		<div class="row justify-content-end">
 				<div class="col-md-4 d-flex">
 					<div class="img" style="background-image: url('images/wrestler.jpeg')"></div>
 				</div>
     			<div class="col-md-8">
-    				<h2>I am a Web <span>Developer</span> and hobbyist wrestler</h2>
+    				<h2>I am a <span>Web Developer</span> and hobbyist wrestler</h2>
 					<p>The day my brother introduced me to coding was the day I found my passion. I began learning how to code when I was 11 years old. After months of learning the basics of web development and design, I began building websites that I was proud of.</p>
 					</p>
 						Currently, I am working on improving my design and implemention skills. I have a massive passion for building websites that make a positive impact.
 					</p>
+					<button class="btn btn-secondary mt-3 pt-2 pl-4 pr-4 pb-2 text-black"><a class="text-black text-massive" href="mailto:joshtcodes@gmail.com?subject=We%20should%20work%20together.&body=Dear%20Josh,">Hire Me</a></button>
     			</div>
     		</div>
     	</div>
@@ -210,9 +215,8 @@
 		<div class="container">
 		  <div class="row">
 			<div class="col-md-12 text-center">
-			  <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-	Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-	<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+			  <p>
+	Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Josh Ternyak</p>
 			</div>
 		  </div>
 		</div>
