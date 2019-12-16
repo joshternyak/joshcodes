@@ -20,6 +20,9 @@
     <link rel="stylesheet" href="css/icomoon.css">
 	<link rel="stylesheet" href="css/style.css">
 	<style>
+	html {
+		scroll-behavior: smooth;
+	}
 	.front-text {
 		transition: 0.8s;
 		animation-name: front-text;
@@ -27,7 +30,7 @@
 	}
 	@keyframes front-text {
 		from {
-			transform: translateY(-250px);
+			transform: translateY(-200px);
 		}
 		to {
 			transform: translateY(0px);
@@ -39,11 +42,31 @@
 	.text-massive {
 		font-size: 3vw;
 	}
+
+	.scroll-btn {
+		position: absolute;
+		bottom: 1rem;
+		left: 50%;
+		z-index: 50;
+		transform: translate(-50%, -50%);
+		color: white;
+		font-weight: 300;
+		background-color: rgb(3, 60, 87);
+		opacity: 0.75;
+		padding: 0.75rem 1.5rem;
+		font-size: 1.5rem;
+		transition: 0.5s;
+	}
+
+	.scroll-btn:hover {
+		bottom: 1.5rem;
+	}
 	</style>
   </head>
   <body>
     <section id="home-section" class="hero">
 		<h1 class="vr text-center front-text">Josh</h1>
+		<a href="#projects" class="scroll-btn text-white text-center">See Projects</a>
 		  <div class="js-fullheight home-wrap d-flex">
 		  	<div class="half order-md-last"></div>
 		  	<div class="half">
@@ -52,18 +75,7 @@
 			      	<div class="overlay"></div>
 			        <div class="container-fluid p-0">
 			          <div class="row d-md-flex no-gutters slider-text js-fullheight align-items-center justify-content-end" data-scrollax-parent="true">
-			          	<div class="one-third img js-fullheight" style="background-image:url(images/code.jpeg);">
-			          	</div>
-			        	</div>
-			        </div>
-			      </div>
-
-			      <div class="slider-item js-fullheight">
-			      	<div class="overlay"></div>
-			        <div class="container-fluid p-0">
-			          <div class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end" data-scrollax-parent="true">
-			          	<div class="one-third img js-fullheight" style="background-image:url(images/coding.jpeg);">
-			          		<div class="overlay"></div>
+			          	<div class="one-third img js-fullheight" style="background-image:url(images/josh.jpg);">
 			          	</div>
 			        	</div>
 			        </div>
@@ -72,7 +84,7 @@
 			  </div>
 		</div>
     </section>
-	<section class="ftco-section ftco-portfolio">
+	<section class="ftco-section ftco-portfolio" id="projects">
     	<div class="container">
     		<div class="row">
 	  			<div class="col-md-6 portfolio-wrap ftco-animate">
@@ -179,28 +191,19 @@
     	</div>
 
 	</section>
-	<section class="ftco-section ftco-intro bg-light">
-    	<div class="container">
-    		<div class="row justify-content-center">
-    			<div class="col-md-10 text-center">
-    				<h2 class="mb-0 font-primary">I build simple, beautiful, and fancy websites that users <span class="number">love</span>.</h2>
-    			</div>
-    		</div>
-    	</div>
-    </section>
-	<section class="ftco-section ftco-intro" id="about">
+	<section class="ftco-section ftco-intro bg-light" id="about">
     	<div class="container">
     		<div class="row justify-content-end">
 				<div class="col-md-4 d-flex">
-					<div class="img" style="background-image: url('images/josh.jpg')"></div>
+					<div class="img rounded" style="background-image: url('images/josh.jpg')"></div>
 				</div>
     			<div class="col-md-8">
-    				<h2>I am a <span>Front-End Web Developer</span> and UI Web Designer.</h2>
+    				<h2>I am a <span>Front-End Web Developer and UI Web Designer.</span></h2>
 					<p>The day my brother introduced me to coding was the day I found my passion. I began learning how to code when I was 11 years old. After months of learning the basics of web development and design, I began building websites that I was proud of.</p>
 					</p>
-						Currently, I am working on improving my design and front-end development skills. I am currently open for client work. 
+						After getting my hands into learning UI design, I worked on making web designs to practice the art of design. Currently, I am improving my design and development processes.
 					</p>
-					<button class="btn btn-info mt-3 pt-2 pl-4 pr-4 pb-2 text-black"><a class="text-black text-massive" href="mailto:joshtcodes@gmail.com?subject=We%20should%20work%20together.&body=Dear%20Josh,">Hire Me</a></button>
+					<button class="btn btn-info mt-3 pt-2 pl-4 pr-4 pb-2 text-white"><a class="text-white text-massive" href="mailto:joshtcodes@gmail.com?subject=We%20should%20work%20together.&body=Dear%20Josh,">Hire Me</a></button>
     			</div>
     		</div>
     	</div>
