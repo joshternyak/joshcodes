@@ -1,0 +1,41 @@
+html {
+    scroll-behavior: smooth;
+}
+.front-text {
+    transition: 0.8s;
+    animation-name: front-text;
+    animation-duration: 0.8s;
+}
+@keyframes front-text {
+    from {
+        transform: translateY(-200px);
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+.half-height {
+    height: 400px !important;
+}
+.text-massive {
+    font-size: 3vw;
+}
+
+.scroll-btn {
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    z-index: 50;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: 300;
+    background-color: rgb(3, 60, 87);
+    opacity: 0.75;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.5rem;
+    transition: 0.5s;
+}
+
+.scroll-btn:hover {
+    bottom: 1.5rem;
+}
