@@ -8345,16 +8345,24 @@ h1, h2, h3, h4, h5,
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    font-size: 41vw;
+    font-size: 20vw;
     text-transform: uppercase;
     z-index: 1;
-    color: #fff;
-    color: transparent;
+    color: gold;
+    opacity: 0.6;
     line-height: .1vh;
-    -webkit-text-fill-color: transparent;
-    /* Will override color (regardless of order) */
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #fff; }
+    transition: 0.3s; }
+
+  .hero h1.vr:hover {
+    color: white;
+    opacity: 1;
+  }
+
+    @media(max-width: 600px) {
+      .hero h1.vr {
+        color: white;
+      }
+    }
 
 .home-wrap .half {
   width: 50%;
@@ -9297,6 +9305,7 @@ textarea.form-control {
 .mfp-with-zoom .mfp-container,
 .mfp-with-zoom.mfp-bg {
   opacity: 0;
+  backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;

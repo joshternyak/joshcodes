@@ -4,6 +4,7 @@ html {
 .front-text {
     transition: 0.8s;
     animation-name: front-text;
+    font-size: 20vw !important;
     animation-duration: 0.8s;
 }
 @keyframes front-text {
@@ -30,9 +31,10 @@ html {
     color: white;
     font-weight: 300;
     background-color: rgb(3, 60, 87);
-    opacity: 0.75;
+    opacity: 0.90;
+    border-radius: 3rem;
     padding: 0.75rem 1.5rem;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     transition: 0.5s;
 }
 
