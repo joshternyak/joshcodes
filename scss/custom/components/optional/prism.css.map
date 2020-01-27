@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAOA,OAAO,CAAP,+FAAO;AACP,OAAO,CAAP,uGAAO",
+    "sources": [
+        "prism.scss"
+    ],
+    "names": [],
+    "file": "prism.css"
+}
