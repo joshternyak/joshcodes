@@ -39,6 +39,18 @@ body {
   }
 }
 
+.text-larger {
+  font-size: 4.5rem;
+
+  @media(max-width: 800px) {
+    font-size: 4rem;
+  }
+
+  @media(max-width: 600px) {
+    font-size: 3.7rem;
+  }
+}
+
 .text-huge {
   font-size: 9rem;
 
@@ -53,6 +65,10 @@ body {
   @media(max-width: 600px) {
     font-size: 6.5rem;
   }
+}
+
+.link-important {
+  border-bottom: 3px solid black;
 }
 
 .text-center {

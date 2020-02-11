@@ -404,6 +404,10 @@
   border-radius: 3rem;
 }
 
+.rounded-circle {
+  border-radius: 50%;
+}
+
 .fade-in {
   -webkit-animation-name: fade-in;
           animation-name: fade-in;
@@ -988,6 +992,22 @@ body {
   }
 }
 
+.text-larger {
+  font-size: 4.5rem;
+}
+
+@media (max-width: 800px) {
+  .text-larger {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .text-larger {
+    font-size: 3.7rem;
+  }
+}
+
 .text-huge {
   font-size: 9rem;
 }
@@ -1008,6 +1028,10 @@ body {
   .text-huge {
     font-size: 6.5rem;
   }
+}
+
+.link-important {
+  border-bottom: 3px solid black;
 }
 
 .text-center {
