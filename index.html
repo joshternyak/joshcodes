@@ -1,100 +1,466 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Josh Ternyak | Front-End Web Developer Based In Minnesota</title>
-		<meta charset="utf-8" />
-		<meta name="description" content="Hi, I am Josh Ternyak. I am a front-end web developer based in Minneapolis, Minnesota who builds websites that improve the world.">
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-		<style>
-			.text {
-				max-width: 33em;
-			}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Josh Ternyak | A Front-End Web Developer With A Podcast</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="Hi, I am Josh Ternyak. I am a front-end web developer based in Minneapolis, Minnesota who builds websites and talks about how he does it.">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
-			.img-profile {
-				width: 200px;
-				clip-path: circle(100px);
-				margin-bottom: 15px;
-				border-radius: 50%;
-				opacity: 0.75;
-			}
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900"> 
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+  
+  <div class="site-wrap">
 
-			header {
-				padding-top: 0px;
-				margin-top: -50px;
-			}
-
-			@media(max-width: 900px) {
-				header {
-					margin-top: 0px;
-				}
-			}
-		</style>
-	</head>
-	<body class="is-preload">
-		<!-- Wrapper -->
-			<div id="wrapper">
-				<!-- Header -->
-					<header id="header">
-						<div class="inner"></div>
-					</header>
-				<!-- Main -->
-					<div id="main">
-						<div class="inner">
-							<header>
-								<img src="img/profile-pic.jpg" class="img-profile" alt="Josh Ternyak In New York">
-								<h1>Hi, I'm Josh Ternyak.</h1>
-								<p class="text">I'm a web developer enthusiast based in Minneapolis, Minnesota. <br> Currently, I am working on <a href="https://www.getonedesk.com/reviews" target=[]>cleaning reviews</a>, and a
-									<a href="https://www.youtube.com/channel/UC5HNi07HgbilVpLdkxJwK-g" target=[]>podcast</a> about growing an online business when you're young while staying sane. You can send me a <a href="mailto:joshternyak@gmail.com">message</a>, read my <a href="https://medium.com/@joshternyak" target=[]>articles</a>, or even buy my new <a href="http://www.loveyourlanding.com/" target=[]>HTML website theme</a>.
-									</p>
-							</header>
-							<section class="tiles">
-								<article class="style4">
-									<span class="image">
-										<img src="img/loveyourlanding.png" alt="HTML Website Theme" />
-									</span>
-									<a href="http://www.loveyourlanding.com/" target=[]>
-										<h2>LoveYourLanding</h2>
-										<div class="content">
-											<p>LoveYourLanding is a HTML website theme that saves web developers countless hours of time so they can focus on building their product.</p>
-										</div>
-									</a>
-								</article>
-								<article class="style1">
-									<span class="image">
-										<img src="img/nadav.png" alt="Photography Portfolio" />
-									</span>
-									<a href="https://nadavcassuto.github.io/" target=[]>
-										<h2>Photography Portfolio</h2>
-										<div class="content">
-											<p>A custom portfolio I built for a photographer named Nadav.</p>
-										</div>
-									</a>
-								</article>
-								<article class="style5">
-									<span class="image">
-										<img src="img/freeezecss.png" alt="Css framework for web developers" />
-									</span>
-									<a href="https://joshternyak.github.io/freeezecss.github.io/" target=[]>
-										<h2>Freeeze Css</h2>
-										<div class="content">
-											<p>A css framework created for people who are simple and build simple things.</p>
-										</div>
-									</a>
-								</article>
-							</section>
-						</div>
-					</div>
-			</div>
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
 
 
+    <header class="site-navbar py-4 absolute transparent" role="banner">
 
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+      <div class="container">
+        <div class="row align-items-center">
+          
 
-	</body>
+          <div class="col-3" data-aos="fade-down">
+            <h1><a href="index.html" class="text-white h2">Josh Ternyak</a></h1>
+          </div>
+          <div class="col-9" data-aos="fade-down">
+            <nav class="site-navigation position-relative text-right text-md-right" role="navigation">
+
+                <div class="d-inline-block ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+
+                <ul class="site-menu js-clone-nav d-none">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="about.html">About</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+
+
+          </div>
+
+        </div>
+      </div>
+      
+    </header>
+
+    <div class="site-blocks-cover overlay" style="background-image: url(images/profile-pic.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="container">
+        <div class="row align-items-center justify-content-center text-center">
+
+          <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
+            <h2 class="text-white font-weight-light mb-2 display-3">Get Exclusive Online Business Tips That I Only Share With Email Subscribers</h2>
+            <br>
+            <form action="#" method="post" class="site-block-subscribe">
+                <div class="input-group mb-3">
+                  <input type="email" class="form-control border-dark text-dark bg-transparent" placeholder="Email Address" aria-label="Email Address" aria-describedby="button-addon2">
+                  <div class="input-group-append">
+                    <button class="btn btn-info" type="button" id="button-addon2">Sign Up</button>
+                  </div>
+                </div>
+            </form>
+
+            <div class="player">
+              <audio id="player2" preload="none" controls style="max-width: 100%">
+                <source src="http://www.largesound.com/ashborytour/sound/AshboryBYU.mp3" type="audio/mp3">
+              </audio>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>  
+
+
+    <div class="site-section bg-light">
+      <div class="container">
+
+        <div class="row mb-5" data-aos="fade-up">
+          <div class="col-md-12 text-center">
+            <h2 class="font-weight-bold text-black">Recent Podcast Episodes</h2>
+          </div>
+        </div>
+
+
+          <div class="d-block d-md-flex podcast-entry bg-white mb-5" data-aos="fade-up">
+            <div class="image" style="background-image: url('images/desk-computer.jpeg');"></div>
+            <div class="text">
+
+              <h3 class="font-weight-light"><a href="single-post.html">Episode 1: Succeeding Online When You're Young</a></h3>
+              <div class="text-white mb-3"><span class="text-black-opacity-05"><small>By Josh Ternyak <span class="sep">/</span> 29 April 2020 <span class="sep">/</span> 35:04</small></span></div>
+              <p class="mb-4">This episode is all about how to start an online business, how access to the internet
+                is an opportunity to learn valuable skills, and how having valuable skills
+                (web development & content marketing) leads to financial independence.</p>
+
+              <div class="player">
+                <audio id="player2" preload="none" controls style="max-width: 100%">
+                  <source src="http://www.largesound.com/ashborytour/sound/AshboryBYU.mp3" type="audio/mp3">
+                </audio>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+      </div>
+    </div>
+
+<!--    <div class="site-section">-->
+<!--      <div class="container" data-aos="fade-up">-->
+<!--        <div class="row mb-5">-->
+<!--          <div class="col-md-12 text-center">-->
+<!--            <h2 class="font-weight-bold text-black">Behind The Mic</h2>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--        <div class="row">-->
+<!--          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">-->
+<!--            <div class="team-member">-->
+
+<!--              <img src="images/person_1.jpg" alt="Image" class="img-fluid">-->
+
+<!--              <div class="text">-->
+
+<!--                <h2 class="mb-2 font-weight-light h4">Megan Smith</h2>-->
+<!--                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>-->
+<!--                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>-->
+<!--                <p>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>-->
+<!--                </p>-->
+<!--              </div>-->
+
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">-->
+<!--            <div class="team-member">-->
+
+<!--              <img src="images/person_2.jpg" alt="Image" class="img-fluid">-->
+
+<!--              <div class="text">-->
+
+<!--                <h2 class="mb-2 font-weight-light h4">Brooke Cagle</h2>-->
+<!--                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>-->
+<!--                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>-->
+<!--                <p>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>-->
+<!--                </p>-->
+<!--              </div>-->
+
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">-->
+<!--            <div class="team-member">-->
+
+<!--              <img src="images/person_3.jpg" alt="Image" class="img-fluid">-->
+
+<!--              <div class="text">-->
+
+<!--                <h2 class="mb-2 font-weight-light h4">Philip Martin</h2>-->
+<!--                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>-->
+<!--                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>-->
+<!--                <p>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>-->
+<!--                </p>-->
+<!--              </div>-->
+
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">-->
+<!--            <div class="team-member">-->
+
+<!--              <img src="images/person_4.jpg" alt="Image" class="img-fluid">-->
+
+<!--              <div class="text">-->
+
+<!--                <h2 class="mb-2 font-weight-light h4">Steven Ericson</h2>-->
+<!--                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>-->
+<!--                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>-->
+<!--                <p>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>-->
+<!--                </p>-->
+<!--              </div>-->
+
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">-->
+<!--            <div class="team-member">-->
+
+<!--              <img src="images/person_5.jpg" alt="Image" class="img-fluid">-->
+
+<!--              <div class="text">-->
+
+<!--                <h2 class="mb-2 font-weight-light h4">Nathan Dumlao</h2>-->
+<!--                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>-->
+<!--                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>-->
+<!--                <p>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>-->
+<!--                </p>-->
+<!--              </div>-->
+
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">-->
+<!--            <div class="team-member">-->
+
+<!--              <img src="images/person_6.jpg" alt="Image" class="img-fluid">-->
+
+<!--              <div class="text">-->
+
+<!--                <h2 class="mb-2 font-weight-light h4">Brooke Cagle</h2>-->
+<!--                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>-->
+<!--                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>-->
+<!--                <p>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>-->
+<!--                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>-->
+<!--                </p>-->
+<!--              </div>-->
+
+<!--            </div>-->
+<!--          </div>-->
+
+
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+
+<!--    <div class="site-section bg-light block-13">-->
+<!--      <div class="container">-->
+<!--        <div class="row mb-5">-->
+<!--          <div class="col-md-12 text-center">-->
+<!--            <h2 class="font-weight-bold text-black">Featured Guests</h2>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--        <div class="nonloop-block-13 owl-carousel">-->
+<!--          -->
+<!--          <div class="text-center p-3 p-md-5 bg-white">-->
+<!--            <div class="mb-4">            -->
+<!--              <img src="images/person_1.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">-->
+<!--            </div>-->
+<!--            <div class="">-->
+<!--              <h3 class="font-weight-light h5">Megan Smith</h3>-->
+<!--              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>-->
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="text-center p-3 p-md-5 bg-white">-->
+<!--            <div class="mb-4">            -->
+<!--              <img src="images/person_2.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">-->
+<!--            </div>-->
+<!--            <div class="">-->
+<!--              <h3 class="font-weight-light h5">Brooke Cagle</h3>-->
+<!--              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>-->
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="text-center p-3 p-md-5 bg-white">-->
+<!--            <div class="mb-4">            -->
+<!--              <img src="images/person_3.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">-->
+<!--            </div>-->
+<!--            <div class="">-->
+<!--              <h3 class="font-weight-light h5">Philip Martin</h3>-->
+<!--              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>-->
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="text-center p-3 p-md-5 bg-white">-->
+<!--            <div class="mb-4">            -->
+<!--              <img src="images/person_4.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">-->
+<!--            </div>-->
+<!--            <div class="">-->
+<!--              <h3 class="font-weight-light h5">Steven Ericson</h3>-->
+<!--              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>-->
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="text-center p-3 p-md-5 bg-white">-->
+<!--            <div class="mb-4">            -->
+<!--              <img src="images/person_5.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">-->
+<!--            </div>-->
+<!--            <div class="">-->
+<!--              <h3 class="font-weight-light h5">Nathan Dumlao</h3>-->
+<!--              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>-->
+<!--            </div>-->
+<!--          </div>-->
+
+<!--          <div class="text-center p-3 p-md-5 bg-white">-->
+<!--            <div class="mb-4">            -->
+<!--              <img src="images/person_6.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">-->
+<!--            </div>-->
+<!--            <div class="">-->
+<!--              <h3 class="font-weight-light h5">Brook Smith</h3>-->
+<!--              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>-->
+<!--            </div>-->
+<!--          </div>-->
+
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+
+
+    <div class="site-blocks-cover overlay inner-page-cover" style="background-image: url(images/hero_bg_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="container">
+        <div class="row align-items-center justify-content-center text-center">
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <h2>Join The Newsletter</h2>
+            <p class="mb-5">Get daily episodes full of tips on growing an online business, and how
+                to be financially independent in the modern world. </p>
+            <form action="#" method="post" class="site-block-subscribe">
+                <div class="input-group mb-3">
+                  <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Email Address" aria-label="Email Address" aria-describedby="button-addon2">
+                  <div class="input-group-append">
+                    <button class="btn btn-primary" type="button" id="button-addon2">Sign Up</button>
+                  </div>
+                </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>  
+
+    
+    
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="mb-5">
+              <h3 class="footer-heading mb-4">About Josh Ternyak</h3>
+              <p>Josh Ternyak is a web developer enthusiast based in Minneapolis, Minnesota. Currently, he is working on <a href="https://www.getonedesk.com/reviews" target=[]>cleaning reviews</a>, and a
+                <a href="https://www.youtube.com/channel/UC5HNi07HgbilVpLdkxJwK-g" target=[]>podcast</a> about
+                growing an online business when you're young while staying sane.
+                You can send him a <a href="mailto:joshternyak@gmail.com">message</a>,
+                read his <a href="https://medium.com/@joshternyak" target=[]>articles</a>,
+                or even buy his new <a href="http://www.loveyourlanding.com/" target=[]>HTML website theme</a>.</p>
+            </div>
+
+
+            
+          </div>
+          <div class="col-lg-4 mb-5 mb-lg-0">
+            <div class="row mb-5">
+              <div class="col-md-12">
+                <h3 class="footer-heading mb-4">You Might Also Like</h3>
+              </div>
+              <div class="col-md-6 col-lg-6">
+                <ul class="list-unstyled">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="about.html">About Us</a></li>
+                  <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+              </div>
+              <div class="col-md-6 col-lg-6">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:joshternyak@gmail.com">Web Dev Services</a></li>
+                  <li><a href="https://joshternyak.github.io/freeezecss.github.io/" target=[]>Css Framework</a></li>
+                  <li><a href="https://www.getonedesk.com/reviews">My Project</a></li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4 mb-5 mb-lg-0">
+            <div class="mb-5">
+              <h3 class="footer-heading mb-2">Join The Newsletter</h3>
+              <p>Get daily episodes full of tips on growing an online business, and how
+                to be financially independent in the modern world. </p>
+
+              <form action="#" method="post">
+                <div class="input-group mb-3">
+                  <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Email Address" aria-label="Email Address" aria-describedby="button-addon2">
+                  <div class="input-group-append">
+                    <button class="btn btn-primary" type="button" id="button-addon2">Sign Up</button>
+                  </div>
+                </div>
+              </form>
+
+            </div>
+
+          </div>
+          
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+          </div>
+          
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+
+  <script src="js/mediaelement-and-player.min.js"></script>
+
+  <script>
+      document.addEventListener('DOMContentLoaded', function() {
+                var mediaElements = document.querySelectorAll('video, audio'), total = mediaElements.length;
+
+                for (var i = 0; i < total; i++) {
+                    new MediaElementPlayer(mediaElements[i], {
+                        pluginPath: 'https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/',
+                        shimScriptAccess: 'always',
+                        success: function () {
+                            var target = document.body.querySelectorAll('.player'), targetTotal = target.length;
+                            for (var j = 0; j < targetTotal; j++) {
+                                target[j].style.visibility = 'visible';
+                            }
+                  }
+                });
+                }
+            });
+    </script>
+
+
+  <script src="js/main.js"></script>
+    
+  </body>
 </html>
