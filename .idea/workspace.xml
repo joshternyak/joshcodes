@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/i-rank-first.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/episode-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/episode-1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +34,9 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -49,7 +54,7 @@
       <workItem from="1587513632173" duration="755000" />
       <workItem from="1588208922981" duration="606000" />
       <workItem from="1588221574111" duration="239000" />
-      <workItem from="1588264723354" duration="19560000" />
+      <workItem from="1588264723354" duration="20977000" />
     </task>
     <servers />
   </component>
