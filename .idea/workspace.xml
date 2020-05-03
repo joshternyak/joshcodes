@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/podcast.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/episode-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/episode-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/episode-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/episode-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/i-rank-first.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/i-rank-first.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -59,7 +72,7 @@
       <workItem from="1587513632173" duration="755000" />
       <workItem from="1588208922981" duration="606000" />
       <workItem from="1588221574111" duration="239000" />
-      <workItem from="1588264723354" duration="31713000" />
+      <workItem from="1588264723354" duration="36704000" />
     </task>
     <servers />
   </component>
@@ -67,6 +80,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="596" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588517040539">
+      <screen x="-422" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="596" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588517040539" />
     <state x="367" y="-1070" key="SettingsEditor" timestamp="1588277426403">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
