@@ -54,5 +54,8 @@
     "desktop": "assets/screenshot-desktop.jpg",
     "mobile": "assets/screenshot-mobile.jpg"
   },
-  "version": "0.7.0"
+  "version": "0.7.0",
+  "dependencies": {
+    "knex-migrator": "^3.4.6"
+  }
 }
