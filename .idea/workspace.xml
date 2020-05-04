@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/episode-3-thumbnail.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/episode-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/episode-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/episode-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/episode-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/episode-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/episode-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/podcast.html" beforeDir="false" afterPath="$PROJECT_DIR$/podcast.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +40,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -70,7 +62,8 @@
       <workItem from="1588221574111" duration="239000" />
       <workItem from="1588264723354" duration="37174000" />
       <workItem from="1588522916199" duration="720000" />
-      <workItem from="1588524940637" duration="10219000" />
+      <workItem from="1588524940637" duration="10592000" />
+      <workItem from="1588619143765" duration="1177000" />
     </task>
     <servers />
   </component>
