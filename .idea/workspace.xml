@@ -1,7 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="" />
+    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/css/app.css?v=486e176dc4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/fonts/icomoon.eot?vukg2s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/fonts/icomoon.eot?vukg2s?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/fonts/icomoon.svg?vukg2s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/fonts/icomoon.ttf?vukg2s?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/fonts/icomoon.woff?vukg2s?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/html/javascript.html?v=486e176dc4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/app.js?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/home.js?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/manifest.js?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/page.js?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/post.js?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/vendor.js?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/assets/js/vendor/content-api.min.js?v=486e176dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/author/josh-ternyak/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/contact/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/backend-coding-laptop-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/bootstrap-css-framework.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/clean-desk-computer-plant.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/computer-desk-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/dynalist-calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/dynalist-sidebar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/eisenhower-sitting-down.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/i-rank-first-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/josh-avatar-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/julian-garnier-website.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/loveyourlanding-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/loveyourlanding-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/loveyourlanding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/matthew-williams-website.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/morning-routine-cup.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/mount-everest-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/person-coding-desk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/person-working-hard.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/productive-person.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/productivity-roadmap-illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/profile-pic-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/profile-pic-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/profile-pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/social-media.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/time-clock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/2020/05/web-development-roadmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w100/2020/05/profile-pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w1000/2020/05/backend-coding-laptop.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w1000/2020/05/desk-computer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w1000/2020/05/hero_bg_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w1000/2020/05/josh-ternyak-podcast-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w1000/2020/05/mount-everest.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w2000/2020/05/backend-coding-laptop.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w2000/2020/05/desk-computer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w2000/2020/05/hero_bg_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w2000/2020/05/josh-ternyak-podcast-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w2000/2020/05/mount-everest.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w600/2020/05/backend-coding-laptop.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w600/2020/05/desk-computer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w600/2020/05/hero_bg_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w600/2020/05/josh-ternyak-podcast-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/content/images/size/w600/2020/05/mount-everest.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/learn-web-development/amp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/learn-web-development/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/productivity/amp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/productivity/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/products/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/rss/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/services/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/start-an-online-business/amp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/start-an-online-business/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/tag/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/tag/contact/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/tag/online-business/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/tag/productivity/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/tag/products/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/tag/services/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/tag/web-development/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +115,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,11 +125,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -62,7 +150,7 @@
       <workItem from="1588522916199" duration="720000" />
       <workItem from="1588524940637" duration="10592000" />
       <workItem from="1588619143765" duration="1177000" />
-      <workItem from="1588633624248" duration="1527000" />
+      <workItem from="1588633624248" duration="2016000" />
     </task>
     <servers />
   </component>
