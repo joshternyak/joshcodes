@@ -37,7 +37,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="Images" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -65,7 +65,7 @@
       <workItem from="1588522916199" duration="720000" />
       <workItem from="1588524940637" duration="10592000" />
       <workItem from="1588619143765" duration="1177000" />
-      <workItem from="1588633624248" duration="3006000" />
+      <workItem from="1588633624248" duration="3431000" />
     </task>
     <servers />
   </component>
@@ -81,9 +81,9 @@
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
     <state x="596" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588517040539" />
-    <state x="367" y="-1070" key="SettingsEditor" timestamp="1588604421951">
+    <state x="367" y="-1070" key="SettingsEditor" timestamp="1588645320473">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="367" y="-1070" key="SettingsEditor/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588604421951" />
+    <state x="367" y="-1070" key="SettingsEditor/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588645320473" />
   </component>
 </project>
