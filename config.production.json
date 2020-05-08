@@ -1,0 +1,26 @@
+{
+  "url": "https://joshternyak.com",
+  "server": {
+    "port": 2369,
+    "host": "127.0.0.1"
+  },
+  "database": {
+    "client": "mysql",
+    "connection": {
+      "host": "4000",
+      "user": "joshternyak",
+      "password": "44",
+      "database": "joshternyak_prod"
+    }
+  },
+  "mail": {
+    "transport": "Direct"
+  },
+  "logging": {
+    "transports": [
+      "file",
+      "stdout"
+    ]
+  },
+  "process": "systemd"
+}
