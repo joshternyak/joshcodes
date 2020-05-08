@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: http://localhost:2369/sitemap.xml
+Sitemap: https://joshternyak.com/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
