@@ -16,6 +16,23 @@ into the {body} of the default.hbs template --}}
     <h1 class="m-hero-title bigger">{{@site.title}}</h1>
     {{#if @site.description}}
       <p class="m-hero-description bigger">{{@site.description}}</p>
+        <form
+          action="https://formspree.io/joshternyak@gmail.com"
+          method="POST"
+        >
+          <label>
+            Your email:
+            <input type="text" name="_replyto">
+          </label>
+          <label>
+            Your message:
+            <textarea name="message"></textarea>
+          </label>
+
+          <!-- your other form fields go here -->
+
+          <button type="submit">Send</button>
+        </form>
     {{/if}}
     {{#if @labs.subscribers}}
       <a href="{{@site.url}}/subscribe" class="m-button filled">{{t "Subscribe"}}</a>
