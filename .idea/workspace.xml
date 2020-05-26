@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="" />
+    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/author/josh-ternyak/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/author/josh-ternyak/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/author/josh-ternyak/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/author/josh-ternyak/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/coding-youtube-channels/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/coding-youtube-channels/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/coding-youtube-channels/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/coding-youtube-channels/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/copywriting/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/copywriting/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/copywriting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/copywriting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dynalist/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dynalist/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dynalist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dynalist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html-theme/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html-theme/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html-theme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html-theme/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/join-the-newsletter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/join-the-newsletter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/learn-web-development/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/learn-web-development/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/learn-web-development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/learn-web-development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons-learned/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons-learned/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons-learned/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons-learned/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/monitor-setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/monitor-setup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/podcast/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/productivity/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/productivity/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/productivity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/productivity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/products/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/products/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/reading-list/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/reading-list/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/rss/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/services/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/services/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/start-an-online-business/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/start-an-online-business/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/start-an-online-business/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/start-an-online-business/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/design/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/online-business/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/online-business/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/productivity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/productivity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/web-development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/web-development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/things-designers-must-know/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/things-designers-must-know/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/things-designers-must-know/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/things-designers-must-know/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tough-transition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tough-transition/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/workflowy/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/workflowy/amp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/workflowy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/workflowy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/write-for-us/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/write-for-us/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +113,8 @@
       <workItem from="1589682731523" duration="799000" />
       <workItem from="1590348560342" duration="286000" />
       <workItem from="1590427578121" duration="418000" />
+      <workItem from="1590428905928" duration="385000" />
+      <workItem from="1590521763705" duration="293000" />
     </task>
     <servers />
   </component>
