@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +73,7 @@
       <workItem from="1590427578121" duration="418000" />
       <workItem from="1590428905928" duration="385000" />
       <workItem from="1590521763705" duration="342000" />
-      <workItem from="1591838437954" duration="455000" />
+      <workItem from="1591838437954" duration="657000" />
     </task>
     <servers />
   </component>
@@ -91,14 +89,18 @@
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
     <state x="596" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588517040539" />
+    <state x="-422" y="-1417" key="FileDocumentManager.FileCacheConflict" timestamp="1591840625202">
+      <screen x="-422" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-422" y="-1417" key="FileDocumentManager.FileCacheConflict/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1591840625202" />
     <state x="367" y="-1070" key="SettingsEditor" timestamp="1588645320473">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
     <state x="367" y="-1070" key="SettingsEditor/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588645320473" />
-    <state x="564" y="-1073" width="596" height="729" key="find.popup" timestamp="1589485166208">
+    <state x="564" y="-1073" width="596" height="729" key="find.popup" timestamp="1591840583150">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="564" y="-1073" width="596" height="729" key="find.popup/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1589485166208" />
+    <state x="564" y="-1073" width="596" height="729" key="find.popup/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1591840583150" />
     <state x="523" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1588976992989">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
