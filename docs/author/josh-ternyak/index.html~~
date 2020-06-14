@@ -186,7 +186,7 @@
                                 <h3 class="m-recent-article__title js-recent-article-title" title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
                                   I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
                                 </h3>
-                                <span class="m-recent-article__date">3 hours ago</span>
+                                <span class="m-recent-article__date">4 hours ago</span>
                               </a>
                             </div>
                             <div>
@@ -315,7 +315,7 @@
           </h2>
         </div>
         <div class="m-article-card__timestamp">
-          <span>3 hours ago</span>
+          <span>4 hours ago</span>
           <span>&bull;</span>
           <span>3 min read</span>
         </div>
