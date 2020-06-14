@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="" />
+    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,10 +88,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592158759346">
+    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592159016932">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592158759346" />
+    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592159016932" />
     <state x="546" y="-966" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588524865108">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>

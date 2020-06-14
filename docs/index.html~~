@@ -48,6 +48,7 @@
     <link rel="shortcut icon" href="favicon.png" type="image/png" />
     <link rel="canonical" href="index.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
+    <link rel="next" href="page/2/index.html" />
     
     <meta property="og:site_name" content="I&#x27;m a front-end web developer and SEO copywriter" />
     <meta property="og:type" content="website" />
@@ -181,6 +182,17 @@
                       <h3 class="m-submenu-title in-recent-articles">Recent articles</h3>
                       <div class="js-recent-articles">
                             <div>
+                              <a href="i-slept-on-the-floor-for-a-year/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="/content/images/size/w300/2020/06/bed-on-floor-copy.JPG"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
+                                  I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
+                                </h3>
+                                <span class="m-recent-article__date">3 hours ago</span>
+                              </a>
+                            </div>
+                            <div>
                               <a href="tough-transition/index.html" class="m-recent-article">
                                 <div class="m-recent-article__picture">
                                     <div class="lozad" data-background-image="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
@@ -209,17 +221,6 @@
                                 </div>
                                 <h3 class="m-recent-article__title js-recent-article-title" title="How I Setup A Monitor In My Room And Why It&#x27;s Awesome">
                                   How I Setup A Monitor In My Room And Why It&#x27;s Awesome
-                                </h3>
-                                <span class="m-recent-article__date">a month ago</span>
-                              </a>
-                            </div>
-                            <div>
-                              <a href="copywriting/index.html" class="m-recent-article">
-                                <div class="m-recent-article__picture">
-                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
-                                </div>
-                                <h3 class="m-recent-article__title js-recent-article-title" title="Copywriting: What I Learned From Reviewing Amazon Products">
-                                  Copywriting: What I Learned From Reviewing Amazon Products
                                 </h3>
                                 <span class="m-recent-article__date">a month ago</span>
                               </a>
@@ -275,6 +276,28 @@
       <div class="l-wrapper" data-aos="fade-up" data-aos-delay="300">
         <div class="l-grid centered">
           
+    <article class="m-article-card post">
+      <div class="m-article-card__picture lozad" data-background-image="/content/images/size/w600/2020/06/bed-on-floor-copy.JPG">
+      <a href="i-slept-on-the-floor-for-a-year/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
+      <a href="author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
+          <div style="background-image: url(content/images/size/w100/2020/05/profile-pic.jpg);"></div>
+      </a>
+    </div>
+      <div class="m-article-card__info no-tag">
+      <a href="i-slept-on-the-floor-for-a-year/index.html" class="m-article-card__info-link">
+        <div>
+          <h2 class="m-article-card__title js-article-card-title " title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
+            I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
+          </h2>
+        </div>
+        <div class="m-article-card__timestamp">
+          <span>3 hours ago</span>
+          <span>&bull;</span>
+          <span>3 min read</span>
+        </div>
+      </a>
+    </div>
+  </article>
     <article class="m-article-card post tag-web-development">
       <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
       <a href="tough-transition/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
@@ -363,6 +386,29 @@
           <span>a month ago</span>
           <span>&bull;</span>
           <span>6 min read</span>
+        </div>
+      </a>
+    </div>
+  </article>
+    <article class="m-article-card post tag-web-development">
+      <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
+      <a href="coding-youtube-channels/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
+      <a href="author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
+          <div style="background-image: url(content/images/size/w100/2020/05/profile-pic.jpg);"></div>
+      </a>
+    </div>
+      <div class="m-article-card__info">
+        <a href="tag/web-development/index.html" class="m-article-card__tag">Web Development</a>
+      <a href="coding-youtube-channels/index.html" class="m-article-card__info-link">
+        <div>
+          <h2 class="m-article-card__title js-article-card-title " title="Web Development Youtube Channels: The 11 Best You Must Watch">
+            Web Development Youtube Channels: The 11 Best You Must Watch
+          </h2>
+        </div>
+        <div class="m-article-card__timestamp">
+          <span>a month ago</span>
+          <span>&bull;</span>
+          <span>3 min read</span>
         </div>
       </a>
     </div>
@@ -459,35 +505,15 @@
       </a>
     </div>
   </article>
-    <article class="m-article-card post tag-web-development">
-      <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
-      <a href="learn-web-development/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
-      <a href="author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
-          <div style="background-image: url(content/images/size/w100/2020/05/profile-pic.jpg);"></div>
-      </a>
-    </div>
-      <div class="m-article-card__info">
-        <a href="tag/web-development/index.html" class="m-article-card__tag">Web Development</a>
-      <a href="learn-web-development/index.html" class="m-article-card__info-link">
-        <div>
-          <h2 class="m-article-card__title js-article-card-title " title="I Taught Myself Web Development When I Was 11, Here&#x27;s What I Learned">
-            I Taught Myself Web Development When I Was 11, Here&#x27;s What I Learned
-          </h2>
-        </div>
-        <div class="m-article-card__timestamp">
-          <span>a month ago</span>
-          <span>&bull;</span>
-          <span>13 min read</span>
-        </div>
-      </a>
-    </div>
-  </article>
         </div>
       </div>
       
 <div class="l-wrapper">
   <nav class="m-pagination">
-    <span class="m-pagination__text">Page 1 of 1</span>
+    <span class="m-pagination__text">Page 1 of 2</span>
+      <a href="page/2/index.html" class="m-icon-button filled in-pagination-right" aria-label="Older posts">
+        <span class="icon-arrow-right"></span>
+      </a>
   </nav>
 </div>
 

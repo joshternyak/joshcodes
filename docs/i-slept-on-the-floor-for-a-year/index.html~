@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+      /* This font-face is here to make icons work if the Ghost instance is installed in a subdirectory */
+      @font-face {
+        font-family: 'icomoon';
+        src: url("../assets/fonts/icomoon.eot%3Fvukg2s%3Fv=145638bf20");
+        src: url("../assets/fonts/icomoon.eot%3Fvukg2s") format('embedded-opentype'),
+        url("../assets/fonts/icomoon.ttf%3Fvukg2s%3Fv=145638bf20") format('truetype'),
+        url("../assets/fonts/icomoon.woff%3Fvukg2s%3Fv=145638bf20") format('woff'),
+        url("../assets/fonts/icomoon.svg%3Fvukg2s") format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+    </style>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css" />
+    <link rel="stylesheet" type="text/css" href="../assets/css/app.css%3Fv=145638bf20.css" media="screen" />
+
+      <style>
+    .m-hero__picture {
+      background-image: url(../content/images/size/w2000/2020/06/bed-on-floor-copy.JPG);
+    }
+  
+    @media(max-width: 1000px) {
+      .m-hero__picture {
+        background-image: url(../content/images/size/w1000/2020/06/bed-on-floor-copy.JPG);
+      }
+    }
+  
+    @media(max-width: 600px) {
+      .m-hero__picture {
+        background-image: url(../content/images/size/w600/2020/06/bed-on-floor-copy.JPG);
+      }
+    }
+  </style>
+
+
+    <link rel="shortcut icon" href="../favicon.png" type="image/png" />
+    <link rel="canonical" href="index.html" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    <link rel="amphtml" href="amp/index.html" />
+    
+    <meta property="og:site_name" content="I&#x27;m a front-end web developer and SEO copywriter" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why." />
+    <meta property="og:description" content="Without initially setting out to do it, I’ve just spent over a year sleeping without a bed or mattress.  A year ago, I had just heard of Tim Ferris, and had started reading a lot of his material. One subject that Tim brings up quite often is Stoicism.   Image:" />
+    <meta property="og:url" content="https://joshternyak.com/i-slept-on-the-floor-for-a-year/" />
+    <meta property="og:image" content="https://joshternyak.com/content/images/2020/06/bed-on-floor-copy.JPG" />
+    <meta property="article:published_time" content="2020-06-14T16:26:56.000Z" />
+    <meta property="article:modified_time" content="2020-06-14T19:44:14.000Z" />
+    <meta property="article:publisher" content="https://www.facebook.com/josh.ternyak.3/" />
+    <meta property="article:author" content="https://www.facebook.com/josh.ternyak.3/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why." />
+    <meta name="twitter:description" content="Without initially setting out to do it, I’ve just spent over a year sleeping without a bed or mattress.  A year ago, I had just heard of Tim Ferris, and had started reading a lot of his material. One subject that Tim brings up quite often is Stoicism.   Image:" />
+    <meta name="twitter:url" content="https://joshternyak.com/i-slept-on-the-floor-for-a-year/" />
+    <meta name="twitter:image" content="https://joshternyak.com/content/images/2020/06/bed-on-floor-copy.JPG" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Josh Ternyak" />
+    <meta name="twitter:site" content="@josh_ternyak" />
+    <meta name="twitter:creator" content="@josh_ternyak" />
+    <meta property="og:image:width" content="2000" />
+    <meta property="og:image:height" content="1523" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "I&#x27;m a front-end web developer and SEO copywriter",
+        "url": "https://joshternyak.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://joshternyak.com/content/images/2020/05/josh-avatar-5.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Josh Ternyak",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://joshternyak.com/content/images/2020/05/profile-pic.jpg",
+            "width": 1536,
+            "height": 2048
+        },
+        "url": "https://joshternyak.com/author/josh-ternyak/",
+        "sameAs": [
+            "https://www.getonedesk.com/",
+            "https://www.facebook.com/josh.ternyak.3/",
+            "https://twitter.com/josh_ternyak"
+        ]
+    },
+    "headline": "I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.",
+    "url": "https://joshternyak.com/i-slept-on-the-floor-for-a-year/",
+    "datePublished": "2020-06-14T16:26:56.000Z",
+    "dateModified": "2020-06-14T19:44:14.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://joshternyak.com/content/images/2020/06/bed-on-floor-copy.JPG",
+        "width": 2000,
+        "height": 1523
+    },
+    "description": "Without initially setting out to do it, I’ve just spent over a year sleeping\nwithout a bed or mattress. \n\nA year ago, I had just heard of Tim Ferris [https://tim.blog/], and had started\nreading a lot of his material. One subject that Tim brings up quite often is\nStoicism. \n\nImage: Root Simple [https://www.rootsimple.com]\n\nAs I began to explore Stoicism and topics related to it, one idea that really\nstuck out to me was the idea of hedonic adaptation\n[https://www.mrmoneymustache.com/2011/10/22/wha",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://joshternyak.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.19" />
+    <link rel="alternate" type="application/rss+xml" title="I&#x27;m a front-end web developer and SEO copywriter" href="../rss/index.html" />
+
+    <script>
+      // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+      const ghostHost = "https://joshternyak.com"
+      // @license-end
+    </script>
+
+    <script>
+      // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+      WebFontConfig = {
+        google: { families: ['Source+Sans+Pro:400,600,700&display=swap'] }
+      };
+
+      (function (d) {
+        var wf = d.createElement('script'), s = d.scripts[0];
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+        wf.async = true;
+        s.parentNode.insertBefore(wf, s);
+      })(document);
+      // @license-end
+    </script>
+  </head>
+  <body class="post-template">
+    
+
+<div class="main-wrap">
+    
+<header class="m-header with-picture js-header">
+  <div class="m-mobile-topbar" data-aos="fade-down">
+    <button class="m-icon-button in-mobile-topbar js-open-menu" aria-label="Open menu">
+      <span class="icon-menu"></span>
+    </button>
+      <a href="../index.html" class="m-logo in-mobile-topbar">
+        <img src="../content/images/2020/05/josh-avatar-5.png" alt="I&#x27;m a front-end web developer and SEO copywriter">
+      </a>
+    <button class="m-icon-button in-mobile-topbar js-open-search" aria-label="Open search">
+      <span class="icon-search"></span>
+    </button>
+  </div>
+
+  <div class="m-menu js-menu">
+    <button class="m-icon-button outlined as-close-menu js-close-menu" aria-label="Close menu">
+      <span class="icon-close"></span>
+    </button>
+    <div class="m-menu__main" data-aos="fade-down">
+      <div class="l-wrapper">
+        <div class="m-nav">
+          <nav class="m-nav__left">
+            <ul role="submenu">
+                <li class="only-desktop" role="menuitem">
+                  <a href="../index.html" class="m-logo">
+                    <img src="../content/images/2020/05/josh-avatar-5.png" alt="I&#x27;m a front-end web developer and SEO copywriter">
+                  </a>
+                </li>
+                
+    <li class="nav-home" role="menuitem">
+      <a href="../index.html">Home</a>
+    </li>
+    <li class="nav-about" role="menuitem">
+      <a href="../about/index.html">About</a>
+    </li>
+    <li class="nav-podcast" role="menuitem">
+      <a href="../podcast/index.html">Podcast</a>
+    </li>
+    <li class="nav-products" role="menuitem">
+      <a href="../products/index.html">Products</a>
+    </li>
+    <li class="nav-hire-me" role="menuitem">
+      <a href="../services/index.html">Hire Me</a>
+    </li>
+    <li class="nav-contact" role="menuitem">
+      <a href="../contact/index.html">Contact</a>
+    </li>
+
+              <li role="menuitem" class="js-submenu-option">
+                <button class="m-icon-button in-menu-main more js-toggle-submenu" aria-label="Toggle submenu">
+                  <span class="icon-more"></span>
+                </button>
+                <div class="m-submenu js-submenu">
+                  <div class="l-wrapper in-submenu">
+                    <section class="m-recent-articles">
+                      <h3 class="m-submenu-title in-recent-articles">Recent articles</h3>
+                      <div class="js-recent-articles">
+                            <div>
+                              <a href="index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="/content/images/size/w300/2020/06/bed-on-floor-copy.JPG"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
+                                  I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
+                                </h3>
+                                <span class="m-recent-article__date">3 hours ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../tough-transition/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="How I&#x27;m Transitioning Into Paid Work Even Though I Can&#x27;t Legally Sign Contracts">
+                                  How I&#x27;m Transitioning Into Paid Work Even Though I Can&#x27;t Legally Sign Contracts
+                                </h3>
+                                <span class="m-recent-article__date">a month ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../start-an-online-business/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1546488979-08680803296d?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="Succeeding Online When You&#x27;re Young &amp; My Experiences">
+                                  Succeeding Online When You&#x27;re Young &amp; My Experiences
+                                </h3>
+                                <span class="m-recent-article__date">a month ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../monitor-setup/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1545665277-5937489579f2?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="How I Setup A Monitor In My Room And Why It&#x27;s Awesome">
+                                  How I Setup A Monitor In My Room And Why It&#x27;s Awesome
+                                </h3>
+                                <span class="m-recent-article__date">a month ago</span>
+                              </a>
+                            </div>
+                      </div>
+                    </section>
+                    <section class="m-tags">
+                      <h3 class="m-submenu-title">Tags</h3>
+                        <ul>
+                            <li>
+                              <a href="../tag/online-business/index.html">Online Business</a>
+                            </li>
+                            <li>
+                              <a href="../tag/productivity/index.html">Productivity</a>
+                            </li>
+                            <li>
+                              <a href="../tag/web-development/index.html">Web Development</a>
+                            </li>
+                        </ul>
+                    </section>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </nav>
+          <div class="m-nav__right">
+            <button class="m-icon-button in-menu-main js-open-search" aria-label="Open search">
+              <span class="icon-search"></span>
+            </button>
+            <div class="m-toggle-darkmode js-tooltip" data-tippy-content="Toggle dark mode">
+              <input type="checkbox" class="js-toggle-darkmode">
+              <div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+    
+
+  <section class="m-hero with-picture" data-aos="fade">
+    <div class="m-hero__picture in-post"></div>
+    </section>
+  
+  <main>
+    <article>
+      <div class="l-content in-post">
+          <div class="l-wrapper in-post  js-aos-wrapper" data-aos="fade-up" data-aos-delay="300">
+            <div class="l-post-content   js-progress-content">
+              <header class="m-heading">
+                <h1 class="m-heading__title in-post">I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.</h1>
+                <div class="m-heading__meta">
+                  <span class="m-heading__meta__time">Jun 14, 2020</span>
+                </div>
+              </header>
+              <div class="pos-relative js-post-content">
+                <div class="m-share">
+                  <div class="m-share__content js-sticky">
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://joshternyak.com/i-slept-on-the-floor-for-a-year/" class="m-icon-button filled in-share" target="_blank" rel="noopener" aria-label="Facebook">
+                      <span class="icon-facebook"></span>
+                    </a>
+                    <a href="https://twitter.com/intent/tweet?text=I'm%2015%20and%20I%20slept%20on%20the%20floor%20for%20a%20year.%20Here's%20why.&url=https://joshternyak.com/i-slept-on-the-floor-for-a-year/" class="m-icon-button filled in-share" target="_blank" rel="noopener" aria-label="Twitter">
+                      <span class="icon-twitter"></span>
+                    </a>
+                    <button class="m-icon-button filled in-share progress js-scrolltop" aria-label="Scroll to top">
+                      <span class="icon-arrow-top"></span>
+                      <svg>
+                        <circle class="progress-ring__circle js-progress" fill="transparent" r="0" />
+                      </svg>
+                    </button>
+                  </div>
+                </div>
+                <p>Without initially setting out to do it, I’ve just spent over a year sleeping without a bed or mattress. </p><figure class="kg-card kg-image-card"><img src="../content/images/2020/06/bed-on-floor.JPG" class="kg-image" srcset="../content/images/size/w600/2020/06/bed-on-floor.JPG 600w, ../content/images/size/w1000/2020/06/bed-on-floor.JPG 1000w, ../content/images/size/w1600/2020/06/bed-on-floor.JPG 1600w, ../content/images/size/w2400/2020/06/bed-on-floor.JPG 2400w"></figure><p>A year ago, I had just heard of <a href="https://tim.blog/">Tim Ferris</a>, and had started reading a lot of his material. One subject that Tim brings up quite often is Stoicism. </p><!--kg-card-begin: html--><img src="https://www.rootsimple.com/wp-content/uploads/2013/11/Marcus-Aurelius-Quotes-1.jpg" style="margin-right: auto; margin-left: auto; width: 100%;">
+<p style="text-align: center; margin-top: 0;">Image: <a href="https://www.rootsimple.com">Root Simple</a></p><!--kg-card-end: html--><p>As I began to explore Stoicism and topics related to it, one idea that really stuck out to me was the idea of <a href="https://www.mrmoneymustache.com/2011/10/22/what-is-hedonic-adaptation-and-how-can-it-turn-you-into-a-sukka/"><em>hedonic adaptation</em></a>. I noticed hedonic adaptation in myself after I earned enough money to buy myself a new Macbook Pro and was happy about it for a few weeks, but quickly came to take it for granted. However, when I used a family member's older laptop, the experience was infuriating. It was so slow! </p><p>I also noticed it with my clothes. When I first got new clothes, I felt good and happy, but even after a short while, I was no longer particularly attached to them. And more than that, my older clothes were now especially lacking.</p><p>It was scary for me to realize that as I continue my life, I would only acquire more and more things, become dissatisfied with them, and then seek to acquire more things and repeat the cycle endlessly.</p><p>So, about a year ago, I decided to try something different. Instead of letting myself fantasize about the next big thing I could have that would make me happier, I wanted to try giving up something I already had. </p><p>I had always felt a bit cramped in my room, so I thought the best strategy would be to kill two birds with one stone and remove the large bed and mattress in my room. This also fit well with my other goals I’ve recently set about minimalism. I had to spend some time convincing my parents, but eventually they helped me to move the bed frame and mattress to another room in our house. </p><p>I laid down a new bed made from a large blanket as a base, and used a second blanket as, well, a blanket. Basically, I made a blanket sandwich, with me in the middle. I continued to use a pillow – I still haven’t gone as far as removing that.</p><p>I remember the feeling of trying it out for the first night. It was surprisingly comfortable. I have carpet in my room, and the combination of carpet and the additional blanket made for a surprisingly comfortable setup. I didn’t have any trouble sleeping or becoming adjusted to sleeping without a mattress. </p><p>In fact, it was so comfortable, that I wondered if I was even doing myself any good at fighting hedonic adaptation. The way I think about it is like this: if our ancestors slept on straw, our bodies are probably not totally reliant on the softest memory foam mattresses to rest properly.</p><p>One area of tension I discovered with my new setup was completely unexpected: I was somewhat embarrassed of sleeping with a bed. I didn’t want to invite any of my friends over anymore, in case they would start teasing me about my lack of bed.</p><p>Another one was that bugs were much more noticeable and seemingly frequent. One thing I realized about beds that I had never considered before was that they are raised. Even though I don’t think my home has more bugs than most others, I had to brush off bugs from my blanket many more times than I ever needed to do from my bed.</p><p>Overall, the experience of sleeping on the floor was an extremely positive one. It taught me that basic things that society tells you need, you may not. And, I hope that I’ve dealt at least a small blow to my own hedonic adaptation.</p><p>Even though I realized I may not need a bed, I don’t think everyone should sleep without a bed. I can definitely see the benefits it has, and frankly, if hedonic adaptation didn’t exist, I would probably prefer a bed simply for the benefits of it being raised. </p>
+              </div>
+            </div>
+          </div>
+          <section class="m-author">
+            <div class="m-author__content">
+              <div class="m-author__picture">
+                <a href="../author/josh-ternyak/index.html" class="m-author-picture" aria-label="Author picture">
+                    <div style="background-image: url(../content/images/2020/05/profile-pic.jpg);"></div>
+                </a>
+              </div>
+              <div class="m-author__info">
+                <h4 class="m-author__name">
+                  <a href="../author/josh-ternyak/index.html">Josh Ternyak</a>
+                </h4>
+                  <p class="m-author__bio">Hi, I am Josh Ternyak. I am a 15 year old front-end web developer based in Minneapolis, Minnesota who builds websites and talks about how he does it.</p>
+                <ul class="m-author-links">
+                    <li>
+                      <a href="https://www.getonedesk.com/" target="_blank" rel="noopener" aria-label="Website">
+                        <span class="icon-globe"></span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://facebook.com/josh.ternyak.3/" target="_blank" rel="noopener" aria-label="Facebook">
+                        <span class="icon-facebook"></span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://twitter.com/@josh_ternyak" target="_blank" rel="noopener" aria-label="Twitter">
+                        <span class="icon-twitter"></span>
+                      </a>
+                    </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <section class="m-comments">
+            <div class="m-load-comments">
+              <div class="m-load-comments__line"></div>
+              <button class="m-icon-button filled as-load-comments js-tooltip js-load-comments" data-tippy-content="Load comments">
+                <span class="icon-comments"></span>
+              </button>
+            </div>
+            <div class="m-load-comments__iframe l-wrapper in-comments js-comments-iframe">
+              <div id="disqus_thread"></div>
+                <script>
+                var disqus_config = function () {
+                    this.page.url = "https://joshternyak.com/i-slept-on-the-floor-for-a-year/";
+                    this.page.identifier = "ghost-5ee5cdf3fde4f04eb734c8cb"
+                };
+                (function() {
+                var d = document, s = d.createElement('script');
+                s.src = 'https://joshternyak.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+                })();
+                </script>
+            </div>
+          </section>
+
+      </div>
+    </article>
+  </main>
+</div>
+
+
+
+    
+<div class="m-search js-search">
+  <button class="m-icon-button outlined as-close-search js-close-search" aria-label="Close search">
+    <span class="icon-close"></span>
+  </button>
+  <div class="m-search__content">
+    <form class="m-search__form">
+      <fieldset>
+        <span class="icon-search m-search-icon"></span>
+        <input type="text" class="m-input in-search js-input-search" placeholder="Type to search" aria-label="Type to search">
+      </fieldset>
+    </form>
+    <div class="js-search-results hide"></div>
+    <p class="m-not-found align-center hide js-no-results">
+      No results for your search, please try with something else.
+    </p>
+  </div>
+</div>
+
+    
+<footer class="m-footer">
+  <div class="m-footer__content">
+    <p class="m-footer-copyright">
+      <span>I&#x27;m a front-end web developer and SEO copywriter &copy; 2020</span>
+    </p>
+
+    <nav class="m-footer-social">
+        <a href="https://www.facebook.com/josh.ternyak.3/" target="_blank" rel="noopener" aria-label="Facebook">
+          <span class="icon-facebook"></span>
+        </a>
+        <a href="https://twitter.com/josh_ternyak" target="_blank" rel="noopener" aria-label="Twitter">
+          <span class="icon-twitter"></span>
+        </a>
+    </nav>
+  </div>
+</footer>
+
+    <div class="m-alert success subscribe js-alert" data-notification="subscribe">
+  Great! You&#x27;ve successfully subscribed.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+
+<div class="m-alert success signup js-alert" data-notification="signup">
+  Great! Next, complete checkout for full access.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+
+<div class="m-alert success signin js-alert" data-notification="signin">
+  Welcome back! You&#x27;ve successfully signed in.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+
+<div class="m-alert success checkout js-alert" data-notification="checkout">
+  Success! Your account is fully activated, you now have access to all content.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+    <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver%2CPromise%2CArray.prototype.includes%2CString.prototype.endsWith%2CString.prototype.startsWith%2CObject.assign%2CNodeList.prototype.forEach"></script>
+    <script defer src="../assets/js/vendor/content-api.min.js%3Fv=145638bf20"></script>
+    <script defer src="../assets/js/manifest.js%3Fv=145638bf20"></script>
+    <script defer src="../assets/js/vendor.js%3Fv=145638bf20"></script>
+    <script defer src="../assets/js/app.js%3Fv=145638bf20"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
+    <script>
+        tocbot.init({
+            tocSelector: '.toc',
+            contentSelector: '.l-post-content',
+            hasInnerContainers: true
+        });
+    </script>
+
+      <script defer src="../assets/js/post.js%3Fv=145638bf20"></script>
+
+
+    
+  </body>
+</html>
