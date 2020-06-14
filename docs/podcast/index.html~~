@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>The Josh Ternyak Podcast</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+      /* This font-face is here to make icons work if the Ghost instance is installed in a subdirectory */
+      @font-face {
+        font-family: 'icomoon';
+        src: url("../assets/fonts/icomoon.eot%3Fvukg2s%3Fv=145638bf20");
+        src: url("../assets/fonts/icomoon.eot%3Fvukg2s") format('embedded-opentype'),
+        url("../assets/fonts/icomoon.ttf%3Fvukg2s%3Fv=145638bf20") format('truetype'),
+        url("../assets/fonts/icomoon.woff%3Fvukg2s%3Fv=145638bf20") format('woff'),
+        url("../assets/fonts/icomoon.svg%3Fvukg2s") format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+    </style>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css" />
+    <link rel="stylesheet" type="text/css" href="../assets/css/app.css%3Fv=145638bf20.css" media="screen" />
+
+      <style>
+    .m-hero__picture {
+      background-image: url(https://images.unsplash.com/photo-1478737270239-2f02b77fc618?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
+    }
+  
+    @media(max-width: 1000px) {
+      .m-hero__picture {
+        background-image: url(https://images.unsplash.com/photo-1478737270239-2f02b77fc618?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
+      }
+    }
+  
+    @media(max-width: 600px) {
+      .m-hero__picture {
+        background-image: url(https://images.unsplash.com/photo-1478737270239-2f02b77fc618?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
+      }
+    }
+  </style>
+
+
+    <meta name="description" content="The official podcast for Josh Ternyak, a web developer enthusiast who shares his experience and knowledge with young entrepreneurs, web developers, and tech geeks around the entire world." />
+    <link rel="shortcut icon" href="../favicon.png" type="image/png" />
+    <link rel="canonical" href="index.html" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="I&#x27;m a front-end web developer and SEO copywriter" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="The Josh Ternyak Podcast" />
+    <meta property="og:description" content="The official podcast for Josh Ternyak, a web developer enthusiast who shares his experience and knowledge with young entrepreneurs, web developers, and tech geeks around the entire world." />
+    <meta property="og:url" content="http://joshternyak.com/podcast/" />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1478737270239-2f02b77fc618?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
+    <meta property="article:publisher" content="https://www.facebook.com/josh.ternyak.3/" />
+    <meta property="article:author" content="https://www.facebook.com/josh.ternyak.3/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="The Josh Ternyak Podcast" />
+    <meta name="twitter:description" content="The official podcast for Josh Ternyak, a web developer enthusiast who shares his experience and knowledge with young entrepreneurs, web developers, and tech geeks around the entire world." />
+    <meta name="twitter:url" content="http://joshternyak.com/podcast/" />
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1478737270239-2f02b77fc618?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Josh Ternyak" />
+    <meta name="twitter:site" content="@josh_ternyak" />
+    <meta name="twitter:creator" content="@josh_ternyak" />
+    <meta property="og:image:width" content="2000" />
+    <meta property="og:image:height" content="1333" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "I&#x27;m a front-end web developer and SEO copywriter",
+        "url": "http://joshternyak.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "http://joshternyak.com/content/images/2020/05/josh-avatar-5.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Josh Ternyak",
+        "image": {
+            "@type": "ImageObject",
+            "url": "http://joshternyak.com/content/images/2020/05/profile-pic.jpg",
+            "width": 1536,
+            "height": 2048
+        },
+        "sameAs": [
+            "https://www.getonedesk.com/",
+            "https://www.facebook.com/josh.ternyak.3/",
+            "https://twitter.com/josh_ternyak"
+        ]
+    },
+    "headline": "The Josh Ternyak Podcast",
+    "url": "http://joshternyak.com/podcast/",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+        "width": 2000,
+        "height": 1333
+    },
+    "description": "The official podcast for Josh Ternyak, a web developer enthusiast who shares his\nexperience and knowledge with young entrepreneurs, web developers, and tech\ngeeks around the entire world.\n\nHere are all of the episodes ever published on the Josh Ternyak Podcast.\n\nAsher Shertok - Building, Learning, &amp; Productivity - Episode #6\nAsher Shertok is a computer wizard that has built his own computer, security\nsystem, electric generator, and even a rope swing. We talk about building,\nlearning, creativity,",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://joshternyak.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.19" />
+    <link rel="alternate" type="application/rss+xml" title="I&#x27;m a front-end web developer and SEO copywriter" href="../rss/index.html" />
+
+    <script>
+      // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+      const ghostHost = "http://joshternyak.com"
+      // @license-end
+    </script>
+
+    <script>
+      // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+      WebFontConfig = {
+        google: { families: ['Source+Sans+Pro:400,600,700&display=swap'] }
+      };
+
+      (function (d) {
+        var wf = d.createElement('script'), s = d.scripts[0];
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+        wf.async = true;
+        s.parentNode.insertBefore(wf, s);
+      })(document);
+      // @license-end
+    </script>
+  </head>
+  <body class="page-template page-podcast">
+    
+
+  <div class="main-wrap">
+    
+<header class="m-header with-picture js-header">
+  <div class="m-mobile-topbar" data-aos="fade-down">
+    <button class="m-icon-button in-mobile-topbar js-open-menu" aria-label="Open menu">
+      <span class="icon-menu"></span>
+    </button>
+      <a href="../index.html" class="m-logo in-mobile-topbar">
+        <img src="../content/images/2020/05/josh-avatar-5.png" alt="I&#x27;m a front-end web developer and SEO copywriter">
+      </a>
+    <button class="m-icon-button in-mobile-topbar js-open-search" aria-label="Open search">
+      <span class="icon-search"></span>
+    </button>
+  </div>
+
+  <div class="m-menu js-menu">
+    <button class="m-icon-button outlined as-close-menu js-close-menu" aria-label="Close menu">
+      <span class="icon-close"></span>
+    </button>
+    <div class="m-menu__main" data-aos="fade-down">
+      <div class="l-wrapper">
+        <div class="m-nav">
+          <nav class="m-nav__left">
+            <ul role="submenu">
+                <li class="only-desktop" role="menuitem">
+                  <a href="../index.html" class="m-logo">
+                    <img src="../content/images/2020/05/josh-avatar-5.png" alt="I&#x27;m a front-end web developer and SEO copywriter">
+                  </a>
+                </li>
+                
+    <li class="nav-home" role="menuitem">
+      <a href="../index.html">Home</a>
+    </li>
+    <li class="nav-about" role="menuitem">
+      <a href="../about/index.html">About</a>
+    </li>
+    <li class="nav-podcast nav-current" role="menuitem">
+      <a href="index.html">Podcast</a>
+    </li>
+    <li class="nav-products" role="menuitem">
+      <a href="../products/index.html">Products</a>
+    </li>
+    <li class="nav-hire-me" role="menuitem">
+      <a href="../services/index.html">Hire Me</a>
+    </li>
+    <li class="nav-contact" role="menuitem">
+      <a href="../contact/index.html">Contact</a>
+    </li>
+
+              <li role="menuitem" class="js-submenu-option">
+                <button class="m-icon-button in-menu-main more js-toggle-submenu" aria-label="Toggle submenu">
+                  <span class="icon-more"></span>
+                </button>
+                <div class="m-submenu js-submenu">
+                  <div class="l-wrapper in-submenu">
+                    <section class="m-recent-articles">
+                      <h3 class="m-submenu-title in-recent-articles">Recent articles</h3>
+                      <div class="js-recent-articles">
+                            <div>
+                              <a href="../tough-transition/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="How I&#x27;m Transitioning Into Paid Work Even Though I Can&#x27;t Legally Sign Contracts">
+                                  How I&#x27;m Transitioning Into Paid Work Even Though I Can&#x27;t Legally Sign Contracts
+                                </h3>
+                                <span class="m-recent-article__date">a month ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../start-an-online-business/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1546488979-08680803296d?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="Succeeding Online When You&#x27;re Young &amp; My Experiences">
+                                  Succeeding Online When You&#x27;re Young &amp; My Experiences
+                                </h3>
+                                <span class="m-recent-article__date">a month ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../monitor-setup/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1545665277-5937489579f2?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="How I Setup A Monitor In My Room And Why It&#x27;s Awesome">
+                                  How I Setup A Monitor In My Room And Why It&#x27;s Awesome
+                                </h3>
+                                <span class="m-recent-article__date">a month ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../copywriting/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="Copywriting: What I Learned From Reviewing Amazon Products">
+                                  Copywriting: What I Learned From Reviewing Amazon Products
+                                </h3>
+                                <span class="m-recent-article__date">a month ago</span>
+                              </a>
+                            </div>
+                      </div>
+                    </section>
+                    <section class="m-tags">
+                      <h3 class="m-submenu-title">Tags</h3>
+                        <ul>
+                            <li>
+                              <a href="../tag/online-business/index.html">Online Business</a>
+                            </li>
+                            <li>
+                              <a href="../tag/productivity/index.html">Productivity</a>
+                            </li>
+                            <li>
+                              <a href="../tag/web-development/index.html">Web Development</a>
+                            </li>
+                        </ul>
+                    </section>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </nav>
+          <div class="m-nav__right">
+            <button class="m-icon-button in-menu-main js-open-search" aria-label="Open search">
+              <span class="icon-search"></span>
+            </button>
+            <div class="m-toggle-darkmode js-tooltip" data-tippy-content="Toggle dark mode">
+              <input type="checkbox" class="js-toggle-darkmode">
+              <div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+    
+
+  <section class="m-hero with-picture" data-aos="fade">
+    <div class="m-hero__picture "></div>
+    <div class="m-hero__content" data-aos="fade-down">
+      <h1 class="m-hero-title bigger">The Josh Ternyak Podcast: My Experiences as a Young Web Developer and Entrepreneur</h1>
+    </div>
+    </section>
+    <main>
+      <article>
+        <div class="l-content">
+          <div class="l-wrapper in-post" data-aos="fade-up" data-aos-delay="300">
+            <div class="l-post-content">
+              <div class="pos-relative js-post-content">
+                <p>The official podcast for Josh Ternyak, a web developer enthusiast who shares his experience and knowledge with young entrepreneurs, web developers, and tech geeks around the entire world.</p><p>Here are all of the episodes ever published on the Josh Ternyak Podcast.</p><h2 id="asher-shertok-building-learning-productivity-episode-6">Asher Shertok - Building, Learning, &amp; Productivity - Episode #6</h2><figure class="kg-card kg-embed-card"><iframe width="612" height="344" src="https://www.youtube.com/embed/mtfIa_7Y_cQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p>Asher Shertok is a computer wizard that has built his own computer, security system, electric generator, and even a rope swing. We talk about building, learning, creativity, and finding your passion. </p><hr><h2 id="-copywriting-tips-copywriting-what-i-learned-from-reviewing-amazon-products-episode-5">[COPYWRITING TIPS] Copywriting: What I Learned From Reviewing Amazon Products - Episode #5</h2><figure class="kg-card kg-embed-card"><iframe width="612" height="344" src="https://www.youtube.com/embed/a2lEOxDAeOY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p>Copywriting is a skill that many young entrepreneurs want to master. There are all kinds of ways to make money with copywriting. I spent the last 3 months learning copywriting, and writing in-depth reviews of the best vacuums, stain removers, and everything in between. </p><hr><h2 id="-web-developer-lessons-20-lessons-i-ve-learned-as-a-15-year-old-web-developer-episode-4">[WEB DEVELOPER LESSONS] 20 Lessons I've Learned As A 15 Year Old Web Developer - Episode #4</h2><figure class="kg-card kg-embed-card"><iframe width="612" height="344" src="https://www.youtube.com/embed/5JGoH7B81ng?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p>Being a web developer is difficult, stressful, confusing, and exhausting. But, it's also very exciting, interesting, and meaningful. I've learned many lessons during my journey of becoming a web developer at a young age. </p><p>Here are 20 lessons I learned that will help you be a better web developer and more successful in life in general. </p><hr><h2 id="-be-more-productive-productivity-time-task-management-strategies-that-work-episode-3">[BE MORE PRODUCTIVE] Productivity: Time &amp; Task Management Strategies That Work - Episode #3</h2><figure class="kg-card kg-embed-card"><iframe width="612" height="344" src="https://www.youtube.com/embed/QeqluAO6puE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p>This is the ultimate guide to being productive, day-in and day-out, getting more done, accomplishing your goals, staying organized, and more. </p><p>Being productive is something all of us want. It's very easy to do unproductive things, everyday. However, if you have a time and task management system that you use and implement daily, you will master the skill of productivity. </p><hr><h2 id="-learn-web-development-the-ultimate-web-development-crash-course-episode-2">[LEARN WEB DEVELOPMENT] The Ultimate Web Development Crash Course - Episode #2</h2><figure class="kg-card kg-embed-card"><iframe width="612" height="344" src="https://www.youtube.com/embed/QuWhA_BQptw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p>This episode is about everything I've learned in my web developer journey. It will help you understand how to learn web development, and the challenges you might face along the way. </p><p>You'll learn about the building blocks of web development, front-end developer tools, back-end programming languages, building jaw-dropping projects, making a stunning portfolio, and more. </p><hr><h2 id="-start-an-online-business-succeed-online-when-you-re-young-my-experiences-episode-1">[START AN ONLINE BUSINESS] Succeed Online When You're Young &amp; My Experiences - Episode #1</h2><figure class="kg-card kg-embed-card"><iframe width="612" height="344" src="https://www.youtube.com/embed/pCuhFvV2fOY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p>This episode is all about how to start an online business, how access to the internet is an opportunity to learn valuable skills, and how having valuable skills (web development &amp; content marketing) leads to financial independence.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+    </main>
+  </div>
+
+
+
+    
+<div class="m-search js-search">
+  <button class="m-icon-button outlined as-close-search js-close-search" aria-label="Close search">
+    <span class="icon-close"></span>
+  </button>
+  <div class="m-search__content">
+    <form class="m-search__form">
+      <fieldset>
+        <span class="icon-search m-search-icon"></span>
+        <input type="text" class="m-input in-search js-input-search" placeholder="Type to search" aria-label="Type to search">
+      </fieldset>
+    </form>
+    <div class="js-search-results hide"></div>
+    <p class="m-not-found align-center hide js-no-results">
+      No results for your search, please try with something else.
+    </p>
+  </div>
+</div>
+
+    
+<footer class="m-footer">
+  <div class="m-footer__content">
+    <p class="m-footer-copyright">
+      <span>I&#x27;m a front-end web developer and SEO copywriter &copy; 2020</span>
+    </p>
+
+    <nav class="m-footer-social">
+        <a href="https://www.facebook.com/josh.ternyak.3/" target="_blank" rel="noopener" aria-label="Facebook">
+          <span class="icon-facebook"></span>
+        </a>
+        <a href="https://twitter.com/josh_ternyak" target="_blank" rel="noopener" aria-label="Twitter">
+          <span class="icon-twitter"></span>
+        </a>
+    </nav>
+  </div>
+</footer>
+
+    <div class="m-alert success subscribe js-alert" data-notification="subscribe">
+  Great! You&#x27;ve successfully subscribed.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+
+<div class="m-alert success signup js-alert" data-notification="signup">
+  Great! Next, complete checkout for full access.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+
+<div class="m-alert success signin js-alert" data-notification="signin">
+  Welcome back! You&#x27;ve successfully signed in.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+
+<div class="m-alert success checkout js-alert" data-notification="checkout">
+  Success! Your account is fully activated, you now have access to all content.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+    <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver%2CPromise%2CArray.prototype.includes%2CString.prototype.endsWith%2CString.prototype.startsWith%2CObject.assign%2CNodeList.prototype.forEach"></script>
+    <script defer src="../assets/js/vendor/content-api.min.js%3Fv=145638bf20"></script>
+    <script defer src="../assets/js/manifest.js%3Fv=145638bf20"></script>
+    <script defer src="../assets/js/vendor.js%3Fv=145638bf20"></script>
+    <script defer src="../assets/js/app.js%3Fv=145638bf20"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
+    <script>
+        tocbot.init({
+            tocSelector: '.toc',
+            contentSelector: '.l-post-content',
+            hasInnerContainers: true
+        });
+    </script>
+
+      <script defer src="../assets/js/page.js%3Fv=145638bf20"></script>
+
+
+    
+  </body>
+</html>
