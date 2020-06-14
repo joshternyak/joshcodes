@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/author/josh-ternyak/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/author/josh-ternyak/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/author/josh-ternyak/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/author/josh-ternyak/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/coding-youtube-channels/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/coding-youtube-channels/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/coding-youtube-channels/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/coding-youtube-channels/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/copywriting/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/copywriting/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/copywriting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/copywriting/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dynalist/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dynalist/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dynalist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dynalist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html-theme/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html-theme/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html-theme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html-theme/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/learn-web-development/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/learn-web-development/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/learn-web-development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/learn-web-development/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons-learned/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons-learned/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons-learned/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons-learned/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/monitor-setup/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/monitor-setup/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/monitor-setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/monitor-setup/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/podcast/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/podcast/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/productivity/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/productivity/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/productivity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/productivity/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/products/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/products/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/rss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/rss/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/services/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/services/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/start-an-online-business/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/start-an-online-business/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/start-an-online-business/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/start-an-online-business/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/design/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/online-business/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/online-business/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/productivity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/productivity/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/web-development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/web-development/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/things-designers-must-know/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/things-designers-must-know/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/things-designers-must-know/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/things-designers-must-know/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tough-transition/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tough-transition/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tough-transition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tough-transition/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/workflowy/amp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/workflowy/amp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/workflowy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/workflowy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +79,7 @@
       <workItem from="1591838437954" duration="657000" />
       <workItem from="1591840692367" duration="188000" />
       <workItem from="1591893411094" duration="458000" />
-      <workItem from="1592116701503" duration="368000" />
+      <workItem from="1592116701503" duration="793000" />
     </task>
     <servers />
   </component>
@@ -141,10 +103,11 @@
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
     <state x="367" y="-1070" key="SettingsEditor/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588645320473" />
-    <state x="564" y="-1073" width="596" height="729" key="find.popup" timestamp="1591840811648">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
+    <state x="647" y="272" width="568" height="548" key="find.popup" timestamp="1592117149953">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="564" y="-1073" width="596" height="729" key="find.popup/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1591840811648" />
+    <state x="647" y="272" width="568" height="548" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1592117149953" />
     <state x="523" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1588976992989">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
