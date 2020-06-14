@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,10 +86,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592157813679">
+    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592158759346">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592157813679" />
+    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592158759346" />
     <state x="546" y="-966" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588524865108">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
@@ -116,10 +114,10 @@
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
     <state x="-321" y="-1317" width="2360" height="1217" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592157847581" />
-    <state x="564" y="-1073" width="596" height="729" key="find.popup" timestamp="1592156706353">
+    <state x="564" y="-1073" width="596" height="729" key="find.popup" timestamp="1592158602520">
       <screen x="-422" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="564" y="-1073" width="596" height="729" key="find.popup/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592156706353" />
+    <state x="564" y="-1073" width="596" height="729" key="find.popup/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592158602520" />
     <state x="647" y="272" width="568" height="548" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1592118745284" />
     <state x="523" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1588976992989">
       <screen x="-422" y="-1417" width="2560" height="1417" />
