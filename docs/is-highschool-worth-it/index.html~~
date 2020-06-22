@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    <title>I&#x27;m Transitioning Into Paid Work, But I Can&#x27;t Sign Contracts</title>
+    <title>Is highschool worth it? No, and here&#x27;s why.</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -27,24 +27,23 @@
 
       <style>
     .m-hero__picture {
-      background-image: url(https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
+      background-image: url(https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
     }
   
     @media(max-width: 1000px) {
       .m-hero__picture {
-        background-image: url(https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
+        background-image: url(https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
       }
     }
   
     @media(max-width: 600px) {
       .m-hero__picture {
-        background-image: url(https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
+        background-image: url(https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
       }
     }
   </style>
 
 
-    <meta name="description" content="I&#x27;m in a tough position. I am ready to get hired as a front-end web developer, but I can&#x27;t legally sign contracts. What should I do?" />
     <link rel="shortcut icon" href="../favicon.png" type="image/png" />
     <link rel="canonical" href="index.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -52,29 +51,25 @@
     
     <meta property="og:site_name" content="I&#x27;m a front-end web developer and SEO copywriter" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="I&#x27;m Transitioning Into Paid Work, But I Can&#x27;t Sign Contracts" />
-    <meta property="og:description" content="I&#x27;m in a tough position. I am ready to get hired as a front-end web developer, but I can&#x27;t legally sign contracts. What should I do?" />
-    <meta property="og:url" content="http://joshternyak.com/tough-transition/" />
-    <meta property="og:image" content="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
-    <meta property="article:published_time" content="2020-05-14T19:20:53.000Z" />
-    <meta property="article:modified_time" content="2020-05-14T19:27:32.000Z" />
-    <meta property="article:tag" content="Web Development" />
-    
+    <meta property="og:title" content="Is highschool worth it? No, and here&#x27;s why." />
+    <meta property="og:description" content="As a 9th grader, I have come to a conclusion: Highschool (online and in-person) is a complete waste of time, and I can prove it. Here&#x27;s my thesis: If you can teach yourself profitable skills online without the need of any classroom or teacher to give you directions, then you&#x27;ll" />
+    <meta property="og:url" content="http://joshternyak.com/is-highschool-worth-it/" />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
+    <meta property="article:published_time" content="2020-06-22T03:58:20.000Z" />
+    <meta property="article:modified_time" content="2020-06-22T03:59:07.000Z" />
     <meta property="article:publisher" content="https://www.facebook.com/josh.ternyak.3/" />
     <meta property="article:author" content="https://www.facebook.com/josh.ternyak.3/" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="I&#x27;m Transitioning Into Paid Work, But I Can&#x27;t Sign Contracts" />
-    <meta name="twitter:description" content="I&#x27;m in a tough position. I am ready to get hired as a front-end web developer, but I can&#x27;t legally sign contracts. What should I do?" />
-    <meta name="twitter:url" content="http://joshternyak.com/tough-transition/" />
-    <meta name="twitter:image" content="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
+    <meta name="twitter:title" content="Is highschool worth it? No, and here&#x27;s why." />
+    <meta name="twitter:description" content="As a 9th grader, I have come to a conclusion: Highschool (online and in-person) is a complete waste of time, and I can prove it. Here&#x27;s my thesis: If you can teach yourself profitable skills online without the need of any classroom or teacher to give you directions, then you&#x27;ll" />
+    <meta name="twitter:url" content="http://joshternyak.com/is-highschool-worth-it/" />
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Josh Ternyak" />
-    <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="Web Development" />
     <meta name="twitter:site" content="@josh_ternyak" />
     <meta name="twitter:creator" content="@josh_ternyak" />
     <meta property="og:image:width" content="2000" />
-    <meta property="og:image:height" content="1333" />
+    <meta property="og:image:height" content="1330" />
     
     <script type="application/ld+json">
 {
@@ -107,18 +102,17 @@
             "https://twitter.com/josh_ternyak"
         ]
     },
-    "headline": "I&#x27;m Transitioning Into Paid Work, But I Can&#x27;t Sign Contracts",
-    "url": "http://joshternyak.com/tough-transition/",
-    "datePublished": "2020-05-14T19:20:53.000Z",
-    "dateModified": "2020-05-14T19:27:32.000Z",
+    "headline": "Is highschool worth it? No, and here&#x27;s why.",
+    "url": "http://joshternyak.com/is-highschool-worth-it/",
+    "datePublished": "2020-06-22T03:58:20.000Z",
+    "dateModified": "2020-06-22T03:59:07.000Z",
     "image": {
         "@type": "ImageObject",
-        "url": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+        "url": "https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
         "width": 2000,
-        "height": 1333
+        "height": 1330
     },
-    "keywords": "Web Development",
-    "description": "I&#x27;m in a tough position. I am ready to get hired as a front-end web developer,\nbut I can&#x27;t legally sign contracts. What should I do?\n\nWell, I&#x27;ve been asking myself the same question for the past several months, and\nI haven&#x27;t found a job yet. Despite this struggle, I HAVE been working on writing \nthe best cleaning reviews ever [https://www.getonedesk.com/reviews]. \n\nYou might ask: How will you get paid from writing cleaning reviews?\n\nThe answer: Through Amazon Affiliates.\n\nI&#x27;ve reviewed window cl",
+    "description": "As a 9th grader, I have come to a conclusion:\n\nHighschool (online and in-person) is a complete waste of time, and I can prove\nit.\n\nHere&#x27;s my thesis: If you can teach yourself profitable skills online without the\nneed of any classroom or teacher to give you directions, then you&#x27;ll get rich\nMUCH faster than you ever would in school.\n\nThis was my life before summer break:\n\n 1. Do tedious and boring classwork that won&#x27;t make me any money in the future\n    or teach me anything valuable.\n 2. Not have ",
     "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "http://joshternyak.com/"
@@ -150,7 +144,7 @@
       // @license-end
     </script>
   </head>
-  <body class="post-template tag-web-development">
+  <body class="post-template">
     
 
 <div class="main-wrap">
@@ -212,7 +206,7 @@
                       <h3 class="m-submenu-title in-recent-articles">Recent articles</h3>
                       <div class="js-recent-articles">
                             <div>
-                              <a href="../is-highschool-worth-it/index.html" class="m-recent-article">
+                              <a href="index.html" class="m-recent-article">
                                 <div class="m-recent-article__picture">
                                     <div class="lozad" data-background-image="https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
                                 </div>
@@ -234,7 +228,7 @@
                               </a>
                             </div>
                             <div>
-                              <a href="index.html" class="m-recent-article">
+                              <a href="../tough-transition/index.html" class="m-recent-article">
                                 <div class="m-recent-article__picture">
                                     <div class="lozad" data-background-image="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
                                 </div>
@@ -303,20 +297,18 @@
           <div class="l-wrapper in-post  js-aos-wrapper" data-aos="fade-up" data-aos-delay="300">
             <div class="l-post-content   js-progress-content">
               <header class="m-heading">
-                <h1 class="m-heading__title in-post">How I&#x27;m Transitioning Into Paid Work Even Though I Can&#x27;t Legally Sign Contracts</h1>
+                <h1 class="m-heading__title in-post">Is highschool worth it? No, and here&#x27;s why.</h1>
                 <div class="m-heading__meta">
-                    <a href="../tag/web-development/index.html" class="m-heading__meta__tag">Web Development</a>
-                    <span class="m-heading__meta__divider">&bull;</span>
-                  <span class="m-heading__meta__time">May 14, 2020</span>
+                  <span class="m-heading__meta__time">Jun 22, 2020</span>
                 </div>
               </header>
               <div class="pos-relative js-post-content">
                 <div class="m-share">
                   <div class="m-share__content js-sticky">
-                    <a href="https://www.facebook.com/sharer/sharer.php?u=http://joshternyak.com/tough-transition/" class="m-icon-button filled in-share" target="_blank" rel="noopener" aria-label="Facebook">
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=http://joshternyak.com/is-highschool-worth-it/" class="m-icon-button filled in-share" target="_blank" rel="noopener" aria-label="Facebook">
                       <span class="icon-facebook"></span>
                     </a>
-                    <a href="https://twitter.com/intent/tweet?text=How%20I'm%20Transitioning%20Into%20Paid%20Work%20Even%20Though%20I%20Can't%20Legally%20Sign%20Contracts&url=http://joshternyak.com/tough-transition/" class="m-icon-button filled in-share" target="_blank" rel="noopener" aria-label="Twitter">
+                    <a href="https://twitter.com/intent/tweet?text=Is%20highschool%20worth%20it%3F%20No%2C%20and%20here's%20why.&url=http://joshternyak.com/is-highschool-worth-it/" class="m-icon-button filled in-share" target="_blank" rel="noopener" aria-label="Twitter">
                       <span class="icon-twitter"></span>
                     </a>
                     <button class="m-icon-button filled in-share progress js-scrolltop" aria-label="Scroll to top">
@@ -327,7 +319,7 @@
                     </button>
                   </div>
                 </div>
-                <p>I'm in a tough position. I am ready to get hired as a front-end web developer, but I can't legally sign contracts. What should I do?</p><p>Well, I've been asking myself the same question for the past several months, and I haven't found a job yet. Despite this struggle, I HAVE been working on writing <a href="https://www.getonedesk.com/reviews">the best cleaning reviews ever</a>. </p><p>You might ask: How will you get paid from writing cleaning reviews?</p><p>The answer: Through Amazon Affiliates.</p><p>I've reviewed window cleaners, brooms, carpet cleaners, and more.</p><figure class="kg-card kg-image-card"><img src="../content/images/2020/05/cleaning-reviews.png" class="kg-image" alt="cleaning reviews over at getonedesk.com"></figure><p>I've learned a lot in the process of writing them. But now, I'm in the waiting stage. My goal with these cleaning reviews is to help people easily choose the best cleaning products so they won't go through the hassle of trying to choose themselves. </p><p>This is how I'm dealing with not finding web development jobs. </p><!--kg-card-begin: html--><img src="https://media.giphy.com/media/5Zesu5VPNGJlm/source.gif" alt="monkey is having a hard time making money" style="width: 100%"><!--kg-card-end: html--><p>I have a feeling that there is light at the end of the tunnel, but so far, I'm still in the tunnel. </p><p>The tunnel isn't that dark, but it's hard to see the light at the end. </p><p>I'm also working on promoting an HTML website theme I made a couple of months ago, <a href="https://joshternyak.com/products/index.html">LoveYourLanding</a>. Don't worry, I'm not trying to sell it to you. I'll actually give you it for FREE if you <a href="https://joshternyak.com/join-the-newsletter/index.html">join the newsletter</a>.</p><p>So, what are you working on?</p>
+                <p>As a 9th grader, I have come to a conclusion:</p><p>Highschool (online and in-person) is a complete waste of time, and I can prove it.</p><p>Here's my thesis: If you can teach yourself profitable skills online without the need of any classroom or teacher to give you directions, then you'll get rich MUCH faster than you ever would in school.</p><p>This was my life before summer break:</p><ol><li>Do tedious and boring classwork that won't make me any money in the future or teach me anything valuable.</li><li>Not have much time to do coding, learn SEO, or grow a profitable skillset.</li><li>Stress out about school...yada yada yada</li></ol><p>But after thinking about school and my future, I realized that building online businesses that make passive income and working with talented people is MUCH better than doing incredibly boring assignments and quizzes that will not make me any money or teach me anything valuable.</p><p>That's when I decided that I would be done with school.</p><p>Since I have all the time in the world to continue to build my skillset and grow online businesses, AND school doesn't teach me anything valuable and is a HUGE opportunity cost, I'm done with school.</p><p>This is the summer where I will grow a site to make five figures a month of passive income, and prove that I don't need school to be a success. I know, I know, it sounds crazy. But I can do it, and I'm already seeing results.</p><p>I'm not saying that you should quit school too, but I'm just saying what I'll do.</p><p>And know that I've thought about this decision for a LONG time, and I know the "risk".</p><p>But I strongly believe that a bigger risk would not only be to miss an opportunity of making five figures of passive income, but also to grow profitable skillsets when I have lots of time to do so.</p><p>And if you can explain to me why I shouldn't be done with highschool (AKA dropout), and have the stresses I mentioned earlier, than email me: <a href="mailto:joshternyak@gmail.com" rel="nofollow">joshternyak@gmail.com</a> with your thoughts, and I would gladly have a conversation with you about it.</p><p>Anyways, I hope I inspired some people out there to take action in their lives, and not let school make their lives a mess.</p>
               </div>
             </div>
           </div>
@@ -375,8 +367,8 @@
               <div id="disqus_thread"></div>
                 <script>
                 var disqus_config = function () {
-                    this.page.url = "http://joshternyak.com/tough-transition/";
-                    this.page.identifier = "ghost-5ebd97bdd642fe3f8fbb4972"
+                    this.page.url = "http://joshternyak.com/is-highschool-worth-it/";
+                    this.page.identifier = "ghost-5ef02c37cb6ed079a9c27425"
                 };
                 (function() {
                 var d = document, s = d.createElement('script');
@@ -388,91 +380,6 @@
             </div>
           </section>
 
-          <section class="m-recommended">
-            <div class="l-wrapper in-recommended">
-              <h3 class="m-section-title in-recommended">Recommended for you</h3>
-              <div class="m-recommended-articles">
-                <div class="m-recommended-slider js-recommended-articles">
-                  
-    <div class="m-recommended-slider__item">
-    <article class="m-article-card post tag-web-development">
-      <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
-      <a href="../coding-youtube-channels/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
-      <a href="../author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
-          <div style="background-image: url(../content/images/size/w100/2020/05/profile-pic.jpg);"></div>
-      </a>
-    </div>
-      <div class="m-article-card__info">
-        <a href="../tag/web-development/index.html" class="m-article-card__tag">Web Development</a>
-      <a href="../coding-youtube-channels/index.html" class="m-article-card__info-link">
-        <div>
-          <h2 class="m-article-card__title js-article-card-title " title="Web Development Youtube Channels: The 11 Best You Must Watch">
-            Web Development Youtube Channels: The 11 Best You Must Watch
-          </h2>
-        </div>
-        <div class="m-article-card__timestamp">
-          <span>a month ago</span>
-          <span>&bull;</span>
-          <span>3 min read</span>
-        </div>
-      </a>
-    </div>
-  </article>
-    </div>
-    <div class="m-recommended-slider__item">
-    <article class="m-article-card post tag-web-development">
-      <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
-      <a href="../lessons-learned/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
-      <a href="../author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
-          <div style="background-image: url(../content/images/size/w100/2020/05/profile-pic.jpg);"></div>
-      </a>
-    </div>
-      <div class="m-article-card__info">
-        <a href="../tag/web-development/index.html" class="m-article-card__tag">Web Development</a>
-      <a href="../lessons-learned/index.html" class="m-article-card__info-link">
-        <div>
-          <h2 class="m-article-card__title js-article-card-title " title="20 Lessons I&#x27;ve Learned As A 15 Year Old Web Developer">
-            20 Lessons I&#x27;ve Learned As A 15 Year Old Web Developer
-          </h2>
-        </div>
-        <div class="m-article-card__timestamp">
-          <span>2 months ago</span>
-          <span>&bull;</span>
-          <span>11 min read</span>
-        </div>
-      </a>
-    </div>
-  </article>
-    </div>
-    <div class="m-recommended-slider__item">
-    <article class="m-article-card post tag-web-development">
-      <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
-      <a href="../learn-web-development/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
-      <a href="../author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
-          <div style="background-image: url(../content/images/size/w100/2020/05/profile-pic.jpg);"></div>
-      </a>
-    </div>
-      <div class="m-article-card__info">
-        <a href="../tag/web-development/index.html" class="m-article-card__tag">Web Development</a>
-      <a href="../learn-web-development/index.html" class="m-article-card__info-link">
-        <div>
-          <h2 class="m-article-card__title js-article-card-title " title="I Taught Myself Web Development When I Was 11, Here&#x27;s What I Learned">
-            I Taught Myself Web Development When I Was 11, Here&#x27;s What I Learned
-          </h2>
-        </div>
-        <div class="m-article-card__timestamp">
-          <span>2 months ago</span>
-          <span>&bull;</span>
-          <span>13 min read</span>
-        </div>
-      </a>
-    </div>
-  </article>
-    </div>
-                </div>
-              </div>
-            </div>
-          </section>
       </div>
     </article>
   </main>
