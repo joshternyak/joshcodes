@@ -80,7 +80,7 @@
     },
     "headline": "Contact Josh Ternyak",
     "url": "https://joshternyak.com/contact/",
-    "description": "Do you have a question or are you interested in working with me? Just send me a \nmessage [joshternyak@gmail.com], and I&#x27;ll reply as fast as possible. I offer\nfront-end web development, copywriting, and SEO services. I&#x27;ll gladly respond to\nany questions, feedback, or concerns.\n\nYou can also find me on Youtube\n[https://www.youtube.com/channel/UC5HNi07HgbilVpLdkxJwK-g], Twitter\n[https://twitter.com/josh_ternyak], IndieHackers\n[https://www.indiehackers.com/JoshTernyak], and LinkedIn\n[https://www.lin",
+    "description": "Do you have a question or are you interested in working with me [/services]?\nJust send me a message [joshternyak@gmail.com], and I&#x27;ll reply as fast as\npossible. I offer front-end web development, copywriting, and SEO services. I&#x27;ll\ngladly respond to any questions, feedback, or concerns.\n\nYou can also find me on Youtube\n[https://www.youtube.com/channel/UC5HNi07HgbilVpLdkxJwK-g], Twitter\n[https://twitter.com/josh_ternyak], IndieHackers\n[https://www.indiehackers.com/JoshTernyak], and LinkedIn\n[http",
     "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://joshternyak.com/"
@@ -174,17 +174,6 @@
                       <h3 class="m-submenu-title in-recent-articles">Recent articles</h3>
                       <div class="js-recent-articles">
                             <div>
-                              <a href="../is-highschool-worth-it/index.html" class="m-recent-article">
-                                <div class="m-recent-article__picture">
-                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
-                                </div>
-                                <h3 class="m-recent-article__title js-recent-article-title" title="Is highschool worth it? No, and here&#x27;s why.">
-                                  Is highschool worth it? No, and here&#x27;s why.
-                                </h3>
-                                <span class="m-recent-article__date">a minute ago</span>
-                              </a>
-                            </div>
-                            <div>
                               <a href="../i-slept-on-the-floor-for-a-year/index.html" class="m-recent-article">
                                 <div class="m-recent-article__picture">
                                     <div class="lozad" data-background-image="/content/images/size/w300/2020/06/bed-on-floor-copy.JPG"></div>
@@ -192,7 +181,7 @@
                                 <h3 class="m-recent-article__title js-recent-article-title" title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
                                   I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
                                 </h3>
-                                <span class="m-recent-article__date">7 days ago</span>
+                                <span class="m-recent-article__date">10 days ago</span>
                               </a>
                             </div>
                             <div>
@@ -213,6 +202,17 @@
                                 </div>
                                 <h3 class="m-recent-article__title js-recent-article-title" title="Succeeding Online When You&#x27;re Young &amp; My Experiences">
                                   Succeeding Online When You&#x27;re Young &amp; My Experiences
+                                </h3>
+                                <span class="m-recent-article__date">a month ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../monitor-setup/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1545665277-5937489579f2?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="How I Setup A Monitor In My Room And Why It&#x27;s Awesome">
+                                  How I Setup A Monitor In My Room And Why It&#x27;s Awesome
                                 </h3>
                                 <span class="m-recent-article__date">a month ago</span>
                               </a>
@@ -265,14 +265,14 @@
           <div class="l-wrapper in-post" data-aos="fade-up" data-aos-delay="300">
             <div class="l-post-content">
               <div class="pos-relative js-post-content">
-                <p>Do you have a question or are you interested in working with me? Just send me a <a href="mailto:joshternyak@gmail.com">message</a>, and I'll reply as fast as possible. I offer front-end web development, copywriting, and SEO services. I'll gladly respond to any questions, feedback, or concerns.</p><p>You can also find me on <a href="https://www.youtube.com/channel/UC5HNi07HgbilVpLdkxJwK-g">Youtube</a>, <a href="https://twitter.com/josh_ternyak">Twitter</a>, <a href="https://www.indiehackers.com/JoshTernyak">IndieHackers</a>, and <a href="https://www.linkedin.com/in/josh-ternyak-aa21b6167/">LinkedIn</a>. If you're interesting in coming on the podcast, <a href="https://podkoi.com/listing/the-josh-ternyak-podcast/">click here</a>. </p><!--kg-card-begin: html--><form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/joshternyak@gmail.com" method="post">
+                <p>Do you have a question or are you interested in <a href="../services/index.html">working with me</a>? Just send me a <a href="mailto:joshternyak@gmail.com">message</a>, and I'll reply as fast as possible. I offer front-end web development, copywriting, and SEO services. I'll gladly respond to any questions, feedback, or concerns.</p><p>You can also find me on <a href="https://www.youtube.com/channel/UC5HNi07HgbilVpLdkxJwK-g">Youtube</a>, <a href="https://twitter.com/josh_ternyak">Twitter</a>, <a href="https://www.indiehackers.com/JoshTernyak">IndieHackers</a>, and <a href="https://www.linkedin.com/in/josh-ternyak-aa21b6167/">LinkedIn</a>. </p><!--kg-card-begin: html--><form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/joshternyak@gmail.com" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@yoursite.com" required="">
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Your message." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
