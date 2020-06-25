@@ -157,17 +157,20 @@
     <li class="nav-about" role="menuitem">
       <a href="../../about/index.html">About</a>
     </li>
-    <li class="nav-podcast" role="menuitem">
-      <a href="../../podcast/index.html">Podcast</a>
-    </li>
-    <li class="nav-products" role="menuitem">
-      <a href="../../products/index.html">Products</a>
+    <li class="nav-projects" role="menuitem">
+      <a href="../../projects/index.html">Projects</a>
     </li>
     <li class="nav-hire-me" role="menuitem">
       <a href="../../services/index.html">Hire Me</a>
     </li>
     <li class="nav-contact" role="menuitem">
       <a href="../../contact/index.html">Contact</a>
+    </li>
+    <li class="nav-podcast" role="menuitem">
+      <a href="../../podcast/index.html">Podcast</a>
+    </li>
+    <li class="nav-products" role="menuitem">
+      <a href="../../products/index.html">Products</a>
     </li>
 
               <li role="menuitem" class="js-submenu-option">
