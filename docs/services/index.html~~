@@ -160,12 +160,6 @@
     <li class="nav-contact" role="menuitem">
       <a href="../contact/index.html">Contact</a>
     </li>
-    <li class="nav-podcast" role="menuitem">
-      <a href="../podcast/index.html">Podcast</a>
-    </li>
-    <li class="nav-products" role="menuitem">
-      <a href="../products/index.html">Products</a>
-    </li>
 
               <li role="menuitem" class="js-submenu-option">
                 <button class="m-icon-button in-menu-main more js-toggle-submenu" aria-label="Toggle submenu">
