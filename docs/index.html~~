@@ -49,7 +49,7 @@
     <link rel="canonical" href="index.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
     
-    <meta property="og:site_name" content="I&#x27;m a front-end web developer and SEO copywriter" />
+    <meta property="og:site_name" content="Experiences of a front-end web developer" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Josh Ternyak | Learn Web Development, Grow Your Business" />
     <meta property="og:description" content="Hi, I am Josh Ternyak. I am a front-end web developer based in Minneapolis, Minnesota who builds websites and talks about how he does it." />
@@ -71,7 +71,7 @@
     "@type": "WebSite",
     "publisher": {
         "@type": "Organization",
-        "name": "I&#x27;m a front-end web developer and SEO copywriter",
+        "name": "Experiences of a front-end web developer",
         "url": "http://joshternyak.com/",
         "logo": {
             "@type": "ImageObject",
@@ -96,7 +96,7 @@
     </script>
 
     <meta name="generator" content="Ghost 3.19" />
-    <link rel="alternate" type="application/rss+xml" title="I&#x27;m a front-end web developer and SEO copywriter" href="rss/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Experiences of a front-end web developer" href="rss/index.html" />
 
     <script>
       // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
@@ -130,7 +130,7 @@
       <span class="icon-menu"></span>
     </button>
       <a href="index.html" class="m-logo in-mobile-topbar">
-        <img src="content/images/2020/05/josh-avatar-5.png" alt="I&#x27;m a front-end web developer and SEO copywriter">
+        <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences of a front-end web developer">
       </a>
     <button class="m-icon-button in-mobile-topbar js-open-search" aria-label="Open search">
       <span class="icon-search"></span>
@@ -148,7 +148,7 @@
             <ul role="submenu">
                 <li class="only-desktop" role="menuitem">
                   <a href="index.html" class="m-logo">
-                    <img src="content/images/2020/05/josh-avatar-5.png" alt="I&#x27;m a front-end web developer and SEO copywriter">
+                    <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences of a front-end web developer">
                   </a>
                 </li>
                 
@@ -185,29 +185,7 @@
                                 <h3 class="m-recent-article__title js-recent-article-title" title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
                                   I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
                                 </h3>
-                                <span class="m-recent-article__date">19 days ago</span>
-                              </a>
-                            </div>
-                            <div>
-                              <a href="tough-transition/index.html" class="m-recent-article">
-                                <div class="m-recent-article__picture">
-                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
-                                </div>
-                                <h3 class="m-recent-article__title js-recent-article-title" title="How I&#x27;m Transitioning Into Paid Work Even Though I Can&#x27;t Legally Sign Contracts">
-                                  How I&#x27;m Transitioning Into Paid Work Even Though I Can&#x27;t Legally Sign Contracts
-                                </h3>
-                                <span class="m-recent-article__date">2 months ago</span>
-                              </a>
-                            </div>
-                            <div>
-                              <a href="start-an-online-business/index.html" class="m-recent-article">
-                                <div class="m-recent-article__picture">
-                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1546488979-08680803296d?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
-                                </div>
-                                <h3 class="m-recent-article__title js-recent-article-title" title="Succeeding Online When You&#x27;re Young &amp; My Experiences">
-                                  Succeeding Online When You&#x27;re Young &amp; My Experiences
-                                </h3>
-                                <span class="m-recent-article__date">2 months ago</span>
+                                <span class="m-recent-article__date">25 days ago</span>
                               </a>
                             </div>
                             <div>
@@ -221,14 +199,33 @@
                                 <span class="m-recent-article__date">2 months ago</span>
                               </a>
                             </div>
+                            <div>
+                              <a href="dynalist-vs-workflowy/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1497493292307-31c376b6e479?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="Dynalist vs Workflowy: The Ultimate Comparison &amp; Review">
+                                  Dynalist vs Workflowy: The Ultimate Comparison &amp; Review
+                                </h3>
+                                <span class="m-recent-article__date">2 months ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="lessons-learned/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="20 Lessons I&#x27;ve Learned As A 15 Year Old Web Developer">
+                                  20 Lessons I&#x27;ve Learned As A 15 Year Old Web Developer
+                                </h3>
+                                <span class="m-recent-article__date">2 months ago</span>
+                              </a>
+                            </div>
                       </div>
                     </section>
                     <section class="m-tags">
                       <h3 class="m-submenu-title">Tags</h3>
                         <ul>
-                            <li>
-                              <a href="tag/online-business/index.html">Online Business</a>
-                            </li>
                             <li>
                               <a href="tag/productivity/index.html">Productivity</a>
                             </li>
@@ -262,7 +259,7 @@
   <section class="m-hero with-picture" data-aos="fade">
     <div class="m-hero__picture "></div>
   <div class="m-hero__content" data-aos="fade-down">
-    <h1 class="m-hero-title bigger">I&#x27;m a front-end web developer and SEO copywriter</h1>
+    <h1 class="m-hero-title bigger">Experiences of a front-end web developer</h1>
       <p class="m-hero-description bigger">Hi, I am Josh Ternyak, and I have been coding for 4 years.</p>
   </div>
   </section>
@@ -287,55 +284,9 @@
           </h2>
         </div>
         <div class="m-article-card__timestamp">
-          <span>19 days ago</span>
+          <span>25 days ago</span>
           <span>&bull;</span>
           <span>3 min read</span>
-        </div>
-      </a>
-    </div>
-  </article>
-    <article class="m-article-card post tag-web-development">
-      <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
-      <a href="tough-transition/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
-      <a href="author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
-          <div style="background-image: url(content/images/size/w100/2020/05/profile-pic.jpg);"></div>
-      </a>
-    </div>
-      <div class="m-article-card__info">
-        <a href="tag/web-development/index.html" class="m-article-card__tag">Web Development</a>
-      <a href="tough-transition/index.html" class="m-article-card__info-link">
-        <div>
-          <h2 class="m-article-card__title js-article-card-title " title="How I&#x27;m Transitioning Into Paid Work Even Though I Can&#x27;t Legally Sign Contracts">
-            How I&#x27;m Transitioning Into Paid Work Even Though I Can&#x27;t Legally Sign Contracts
-          </h2>
-        </div>
-        <div class="m-article-card__timestamp">
-          <span>2 months ago</span>
-          <span>&bull;</span>
-          <span>1 min read</span>
-        </div>
-      </a>
-    </div>
-  </article>
-    <article class="m-article-card post tag-online-business">
-      <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1546488979-08680803296d?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
-      <a href="start-an-online-business/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
-      <a href="author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
-          <div style="background-image: url(content/images/size/w100/2020/05/profile-pic.jpg);"></div>
-      </a>
-    </div>
-      <div class="m-article-card__info">
-        <a href="tag/online-business/index.html" class="m-article-card__tag">Online Business</a>
-      <a href="start-an-online-business/index.html" class="m-article-card__info-link">
-        <div>
-          <h2 class="m-article-card__title js-article-card-title " title="Succeeding Online When You&#x27;re Young &amp; My Experiences">
-            Succeeding Online When You&#x27;re Young &amp; My Experiences
-          </h2>
-        </div>
-        <div class="m-article-card__timestamp">
-          <span>2 months ago</span>
-          <span>&bull;</span>
-          <span>9 min read</span>
         </div>
       </a>
     </div>
@@ -359,52 +310,6 @@
           <span>2 months ago</span>
           <span>&bull;</span>
           <span>2 min read</span>
-        </div>
-      </a>
-    </div>
-  </article>
-    <article class="m-article-card post tag-online-business">
-      <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
-      <a href="copywriting/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
-      <a href="author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
-          <div style="background-image: url(content/images/size/w100/2020/05/profile-pic.jpg);"></div>
-      </a>
-    </div>
-      <div class="m-article-card__info">
-        <a href="tag/online-business/index.html" class="m-article-card__tag">Online Business</a>
-      <a href="copywriting/index.html" class="m-article-card__info-link">
-        <div>
-          <h2 class="m-article-card__title js-article-card-title " title="Copywriting: What I Learned From Reviewing Amazon Products">
-            Copywriting: What I Learned From Reviewing Amazon Products
-          </h2>
-        </div>
-        <div class="m-article-card__timestamp">
-          <span>2 months ago</span>
-          <span>&bull;</span>
-          <span>6 min read</span>
-        </div>
-      </a>
-    </div>
-  </article>
-    <article class="m-article-card post tag-web-development">
-      <div class="m-article-card__picture lozad" data-background-image="https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ">
-      <a href="coding-youtube-channels/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
-      <a href="author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
-          <div style="background-image: url(content/images/size/w100/2020/05/profile-pic.jpg);"></div>
-      </a>
-    </div>
-      <div class="m-article-card__info">
-        <a href="tag/web-development/index.html" class="m-article-card__tag">Web Development</a>
-      <a href="coding-youtube-channels/index.html" class="m-article-card__info-link">
-        <div>
-          <h2 class="m-article-card__title js-article-card-title " title="Web Development Youtube Channels: The 11 Best You Must Watch">
-            Web Development Youtube Channels: The 11 Best You Must Watch
-          </h2>
-        </div>
-        <div class="m-article-card__timestamp">
-          <span>2 months ago</span>
-          <span>&bull;</span>
-          <span>3 min read</span>
         </div>
       </a>
     </div>
@@ -539,7 +444,7 @@
 <footer class="m-footer">
   <div class="m-footer__content">
     <p class="m-footer-copyright">
-      <span>I&#x27;m a front-end web developer and SEO copywriter &copy; 2020</span>
+      <span>Experiences of a front-end web developer &copy; 2020</span>
     </p>
 
     <nav class="m-footer-social">
