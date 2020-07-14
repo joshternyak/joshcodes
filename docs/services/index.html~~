@@ -32,7 +32,7 @@
     <link rel="canonical" href="index.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
     
-    <meta property="og:site_name" content="Experiences of a front-end web developer" />
+    <meta property="og:site_name" content="Experiences and lessons learned of a front-end web developer" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Services I Offer: Web Development, SEO, Copywriting" />
     <meta property="og:description" content="I offer web development, SEO, and copywriting services for $50/hour. If you&#x27;re looking for a web expert to build you a professional website, I&#x27;m your guy." />
@@ -54,7 +54,7 @@
     "@type": "Article",
     "publisher": {
         "@type": "Organization",
-        "name": "Experiences of a front-end web developer",
+        "name": "Experiences and lessons learned of a front-end web developer",
         "url": "http://joshternyak.com/",
         "logo": {
             "@type": "ImageObject",
@@ -89,7 +89,7 @@
     </script>
 
     <meta name="generator" content="Ghost 3.19" />
-    <link rel="alternate" type="application/rss+xml" title="Experiences of a front-end web developer" href="../rss/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Experiences and lessons learned of a front-end web developer" href="../rss/index.html" />
 
     <script>
       // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
@@ -123,7 +123,7 @@
       <span class="icon-menu"></span>
     </button>
       <a href="../index.html" class="m-logo in-mobile-topbar">
-        <img src="../content/images/2020/05/josh-avatar-5.png" alt="Experiences of a front-end web developer">
+        <img src="../content/images/2020/05/josh-avatar-5.png" alt="Experiences and lessons learned of a front-end web developer">
       </a>
     <button class="m-icon-button in-mobile-topbar js-open-search" aria-label="Open search">
       <span class="icon-search"></span>
@@ -141,7 +141,7 @@
             <ul role="submenu">
                 <li class="only-desktop" role="menuitem">
                   <a href="../index.html" class="m-logo">
-                    <img src="../content/images/2020/05/josh-avatar-5.png" alt="Experiences of a front-end web developer">
+                    <img src="../content/images/2020/05/josh-avatar-5.png" alt="Experiences and lessons learned of a front-end web developer">
                   </a>
                 </li>
                 
@@ -171,6 +171,17 @@
                       <h3 class="m-submenu-title in-recent-articles">Recent articles</h3>
                       <div class="js-recent-articles">
                             <div>
+                              <a href="../how-i-maximize-my-productivity/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="no-image lozad" data-background-image="/assets/images/no-image.png?v=d17bc10c12"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily">
+                                  How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily
+                                </h3>
+                                <span class="m-recent-article__date">an hour ago</span>
+                              </a>
+                            </div>
+                            <div>
                               <a href="../i-slept-on-the-floor-for-a-year/index.html" class="m-recent-article">
                                 <div class="m-recent-article__picture">
                                     <div class="lozad" data-background-image="/content/images/size/w300/2020/06/bed-on-floor-copy.JPG"></div>
@@ -178,7 +189,7 @@
                                 <h3 class="m-recent-article__title js-recent-article-title" title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
                                   I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
                                 </h3>
-                                <span class="m-recent-article__date">25 days ago</span>
+                                <span class="m-recent-article__date">a month ago</span>
                               </a>
                             </div>
                             <div>
@@ -199,17 +210,6 @@
                                 </div>
                                 <h3 class="m-recent-article__title js-recent-article-title" title="Dynalist vs Workflowy: The Ultimate Comparison &amp; Review">
                                   Dynalist vs Workflowy: The Ultimate Comparison &amp; Review
-                                </h3>
-                                <span class="m-recent-article__date">2 months ago</span>
-                              </a>
-                            </div>
-                            <div>
-                              <a href="../lessons-learned/index.html" class="m-recent-article">
-                                <div class="m-recent-article__picture">
-                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
-                                </div>
-                                <h3 class="m-recent-article__title js-recent-article-title" title="20 Lessons I&#x27;ve Learned As A 15 Year Old Web Developer">
-                                  20 Lessons I&#x27;ve Learned As A 15 Year Old Web Developer
                                 </h3>
                                 <span class="m-recent-article__date">2 months ago</span>
                               </a>
@@ -419,7 +419,7 @@
 <footer class="m-footer">
   <div class="m-footer__content">
     <p class="m-footer-copyright">
-      <span>Experiences of a front-end web developer &copy; 2020</span>
+      <span>Experiences and lessons learned of a front-end web developer &copy; 2020</span>
     </p>
 
     <nav class="m-footer-social">

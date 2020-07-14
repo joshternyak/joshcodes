@@ -49,7 +49,7 @@
     <link rel="canonical" href="index.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
     
-    <meta property="og:site_name" content="Experiences of a front-end web developer" />
+    <meta property="og:site_name" content="Experiences and lessons learned of a front-end web developer" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Josh Ternyak | Learn Web Development, Grow Your Business" />
     <meta property="og:description" content="Hi, I am Josh Ternyak. I am a front-end web developer based in Minneapolis, Minnesota who builds websites and talks about how he does it." />
@@ -71,7 +71,7 @@
     "@type": "WebSite",
     "publisher": {
         "@type": "Organization",
-        "name": "Experiences of a front-end web developer",
+        "name": "Experiences and lessons learned of a front-end web developer",
         "url": "https://joshternyak.com/",
         "logo": {
             "@type": "ImageObject",
@@ -96,7 +96,7 @@
     </script>
 
     <meta name="generator" content="Ghost 3.19" />
-    <link rel="alternate" type="application/rss+xml" title="Experiences of a front-end web developer" href="rss/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Experiences and lessons learned of a front-end web developer" href="rss/index.html" />
 
     <script>
       // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
@@ -130,7 +130,7 @@
       <span class="icon-menu"></span>
     </button>
       <a href="index.html" class="m-logo in-mobile-topbar">
-        <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences of a front-end web developer">
+        <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences and lessons learned of a front-end web developer">
       </a>
     <button class="m-icon-button in-mobile-topbar js-open-search" aria-label="Open search">
       <span class="icon-search"></span>
@@ -148,7 +148,7 @@
             <ul role="submenu">
                 <li class="only-desktop" role="menuitem">
                   <a href="index.html" class="m-logo">
-                    <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences of a front-end web developer">
+                    <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences and lessons learned of a front-end web developer">
                   </a>
                 </li>
                 
@@ -178,6 +178,17 @@
                       <h3 class="m-submenu-title in-recent-articles">Recent articles</h3>
                       <div class="js-recent-articles">
                             <div>
+                              <a href="how-i-maximize-my-productivity/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="no-image lozad" data-background-image="/assets/images/no-image.png?v=d17bc10c12"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily">
+                                  How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily
+                                </h3>
+                                <span class="m-recent-article__date">an hour ago</span>
+                              </a>
+                            </div>
+                            <div>
                               <a href="i-slept-on-the-floor-for-a-year/index.html" class="m-recent-article">
                                 <div class="m-recent-article__picture">
                                     <div class="lozad" data-background-image="/content/images/size/w300/2020/06/bed-on-floor-copy.JPG"></div>
@@ -185,7 +196,7 @@
                                 <h3 class="m-recent-article__title js-recent-article-title" title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
                                   I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
                                 </h3>
-                                <span class="m-recent-article__date">25 days ago</span>
+                                <span class="m-recent-article__date">a month ago</span>
                               </a>
                             </div>
                             <div>
@@ -206,17 +217,6 @@
                                 </div>
                                 <h3 class="m-recent-article__title js-recent-article-title" title="Dynalist vs Workflowy: The Ultimate Comparison &amp; Review">
                                   Dynalist vs Workflowy: The Ultimate Comparison &amp; Review
-                                </h3>
-                                <span class="m-recent-article__date">2 months ago</span>
-                              </a>
-                            </div>
-                            <div>
-                              <a href="lessons-learned/index.html" class="m-recent-article">
-                                <div class="m-recent-article__picture">
-                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
-                                </div>
-                                <h3 class="m-recent-article__title js-recent-article-title" title="20 Lessons I&#x27;ve Learned As A 15 Year Old Web Developer">
-                                  20 Lessons I&#x27;ve Learned As A 15 Year Old Web Developer
                                 </h3>
                                 <span class="m-recent-article__date">2 months ago</span>
                               </a>
@@ -259,8 +259,8 @@
   <section class="m-hero with-picture" data-aos="fade">
     <div class="m-hero__picture "></div>
   <div class="m-hero__content" data-aos="fade-down">
-    <h1 class="m-hero-title bigger">Experiences of a front-end web developer</h1>
-      <p class="m-hero-description bigger">Hi, I am Josh Ternyak, and I have been coding for 4 years.</p>
+    <h1 class="m-hero-title bigger">Experiences and lessons learned of a front-end web developer</h1>
+      <p class="m-hero-description bigger">Hi, I am Josh Ternyak, and I have been coding for 4 years. Here you&#x27;ll find my experiences as a front-end web developer and what I learn along the way.</p>
   </div>
   </section>
   
@@ -269,6 +269,28 @@
       <div class="l-wrapper" data-aos="fade-up" data-aos-delay="300">
         <div class="l-grid centered">
           
+    <article class="m-article-card no-picture post no-image">
+      <div class="m-article-card__picture">
+      <a href="how-i-maximize-my-productivity/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
+      <a href="author/josh-ternyak/index.html" class="m-article-card__author js-tooltip" aria-label="Authors" data-tippy-content="Posted by Josh Ternyak ">
+          <div style="background-image: url(content/images/size/w100/2020/05/profile-pic.jpg);"></div>
+      </a>
+    </div>
+      <div class="m-article-card__info no-tag">
+      <a href="how-i-maximize-my-productivity/index.html" class="m-article-card__info-link">
+        <div>
+          <h2 class="m-article-card__title js-article-card-title js-article-card-title-no-image" title="How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily">
+            How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily
+          </h2>
+        </div>
+        <div class="m-article-card__timestamp">
+          <span>an hour ago</span>
+          <span>&bull;</span>
+          <span>2 min read</span>
+        </div>
+      </a>
+    </div>
+  </article>
     <article class="m-article-card post">
       <div class="m-article-card__picture lozad" data-background-image="/content/images/size/w600/2020/06/bed-on-floor-copy.JPG">
       <a href="i-slept-on-the-floor-for-a-year/index.html" class="m-article-card__picture-link" aria-label="Article"></a>
@@ -284,7 +306,7 @@
           </h2>
         </div>
         <div class="m-article-card__timestamp">
-          <span>25 days ago</span>
+          <span>a month ago</span>
           <span>&bull;</span>
           <span>3 min read</span>
         </div>
@@ -444,7 +466,7 @@
 <footer class="m-footer">
   <div class="m-footer__content">
     <p class="m-footer-copyright">
-      <span>Experiences of a front-end web developer &copy; 2020</span>
+      <span>Experiences and lessons learned of a front-end web developer &copy; 2020</span>
     </p>
 
     <nav class="m-footer-social">
