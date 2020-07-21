@@ -205,12 +205,12 @@
                             <div>
                               <a href="../how-i-maximize-my-productivity/index.html" class="m-recent-article">
                                 <div class="m-recent-article__picture">
-                                    <div class="no-image lozad" data-background-image="/assets/images/no-image.png?v=d17bc10c12"></div>
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
                                 </div>
                                 <h3 class="m-recent-article__title js-recent-article-title" title="How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily">
                                   How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily
                                 </h3>
-                                <span class="m-recent-article__date">7 days ago</span>
+                                <span class="m-recent-article__date">8 days ago</span>
                               </a>
                             </div>
                             <div>
