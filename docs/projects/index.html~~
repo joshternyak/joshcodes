@@ -106,7 +106,7 @@
         "width": 2000,
         "height": 1500
     },
-    "description": "Here&#x27;s a few examples of work I&#x27;ve done:\n\nSleep Sources [https://www.sleepsources.com/]\nLoveYourLanding HTML Website Theme [http://www.loveyourlanding.com/]",
+    "description": "Here&#x27;s a few examples of work I&#x27;ve done:\n\nSleep Sources [https://www.sleepsources.com/]\nLoveYourLanding HTML Website Theme [www.loveyourlanding.com/]",
     "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "http://joshternyak.com/"
@@ -287,7 +287,7 @@
           <div class="l-wrapper in-post" data-aos="fade-up" data-aos-delay="300">
             <div class="l-post-content">
               <div class="pos-relative js-post-content">
-                <p>Here's a few examples of work I've done:</p><h2 id="sleep-sources"><a href="https://www.sleepsources.com/">Sleep Sources</a></h2><figure class="kg-card kg-image-card"><img src="../content/images/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png" class="kg-image" alt="sleep sources redesigned website" srcset="../content/images/size/w600/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png 600w, ../content/images/size/w1000/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png 1000w, ../content/images/size/w1600/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png 1600w, ../content/images/size/w2400/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png 2400w"></figure><h2 id="loveyourlanding-html-website-theme"><a href="http://www.loveyourlanding.com/">LoveYourLanding HTML Website Theme</a></h2><figure class="kg-card kg-image-card"><img src="../content/images/2020/05/loveyourlanding.png" class="kg-image" alt="my HTML website theme: loveyourlanding" srcset="../content/images/size/w600/2020/05/loveyourlanding.png 600w, ../content/images/size/w1000/2020/05/loveyourlanding.png 1000w, ../content/images/size/w1600/2020/05/loveyourlanding.png 1600w, ../content/images/size/w2400/2020/05/loveyourlanding.png 2400w"></figure>
+                <p>Here's a few examples of work I've done:</p><h2 id="sleep-sources"><a href="https://www.sleepsources.com/">Sleep Sources</a></h2><figure class="kg-card kg-image-card"><img src="../content/images/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png" class="kg-image" alt="sleep sources redesigned website" srcset="../content/images/size/w600/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png 600w, ../content/images/size/w1000/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png 1000w, ../content/images/size/w1600/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png 1600w, ../content/images/size/w2400/2020/06/Screen-Shot-2020-06-24-at-6.58.16-PM.png 2400w"></figure><h2 id="loveyourlanding-html-website-theme"><a href="http://joshternyak.com/projects/www.loveyourlanding.com/">LoveYourLanding HTML Website Theme</a></h2><figure class="kg-card kg-image-card"><img src="../content/images/2020/05/loveyourlanding.png" class="kg-image" alt="my HTML website theme: loveyourlanding" srcset="../content/images/size/w600/2020/05/loveyourlanding.png 600w, ../content/images/size/w1000/2020/05/loveyourlanding.png 1000w, ../content/images/size/w1600/2020/05/loveyourlanding.png 1600w, ../content/images/size/w2400/2020/05/loveyourlanding.png 2400w"></figure>
               </div>
             </div>
           </div>
