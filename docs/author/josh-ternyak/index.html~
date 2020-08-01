@@ -155,9 +155,6 @@
     <li class="nav-about" role="menuitem">
       <a href="../../about/index.html">About</a>
     </li>
-    <li class="nav-projects" role="menuitem">
-      <a href="../../projects/index.html">Projects</a>
-    </li>
     <li class="nav-hire-me" role="menuitem">
       <a href="../../services/index.html">Hire Me</a>
     </li>
@@ -182,7 +179,7 @@
                                 <h3 class="m-recent-article__title js-recent-article-title" title="How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily">
                                   How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily
                                 </h3>
-                                <span class="m-recent-article__date">17 days ago</span>
+                                <span class="m-recent-article__date">18 days ago</span>
                               </a>
                             </div>
                             <div>
@@ -308,7 +305,7 @@
           </h2>
         </div>
         <div class="m-article-card__timestamp">
-          <span>17 days ago</span>
+          <span>18 days ago</span>
           <span>&bull;</span>
           <span>2 min read</span>
         </div>
