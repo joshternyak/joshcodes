@@ -19,8 +19,8 @@
     <meta property="og:description" content="Web development is one of the most valuable skills to learn. This is the ultimate guide to learning web development in 2020." />
     <meta property="og:url" content="http://joshternyak.com/learn-web-development/" />
     <meta property="og:image" content="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
-    <meta property="article:published_time" content="2020-05-05T01:19:21.000Z" />
-    <meta property="article:modified_time" content="2020-05-08T23:07:01.000Z" />
+    <meta property="article:published_time" content="2020-05-04T20:19:21.000Z" />
+    <meta property="article:modified_time" content="2020-05-08T18:07:01.000Z" />
     <meta property="article:tag" content="Web Development" />
     
     <meta property="article:publisher" content="https://www.facebook.com/josh.ternyak.3/" />
@@ -72,8 +72,8 @@
     },
     "headline": "Learn Web Development - The Ultimate Guide  (2020)",
     "url": "http://joshternyak.com/learn-web-development/",
-    "datePublished": "2020-05-05T01:19:21.000Z",
-    "dateModified": "2020-05-08T23:07:01.000Z",
+    "datePublished": "2020-05-04T20:19:21.000Z",
+    "dateModified": "2020-05-08T18:07:01.000Z",
     "image": {
         "@type": "ImageObject",
         "url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
@@ -117,7 +117,7 @@
                 <h1 class="post-title">I Taught Myself Web Development When I Was 11, Here&#x27;s What I Learned</h1>
                 <section class="post-meta">
                     <p class="author">by <a href="../../author/josh-ternyak/index.html">Josh Ternyak</a></p>
-                    <time class="post-date" datetime="2020-05-05">2020-05-05</time>
+                    <time class="post-date" datetime="2020-05-04">2020-05-04</time>
                 </section>
             </header>
             <figure class="post-image">

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily</title>
+    <title>How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily</title>
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
@@ -14,16 +14,16 @@
     
     <meta property="og:site_name" content="Experiences and lessons learned of a front-end web developer" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily" />
+    <meta property="og:title" content="How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily" />
     <meta property="og:description" content="I wasn&#x27;t always productive. I used to spend my days and nights surfing Instagram and Snapchat while watching funny cat videos as a part time job. It was boring, useless, and silly. But after 3 years of self development and web development, I now only spend less than 20 minutes" />
     <meta property="og:url" content="http://joshternyak.com/how-i-maximize-my-productivity/" />
     <meta property="og:image" content="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
-    <meta property="article:published_time" content="2020-07-14T03:18:10.000Z" />
-    <meta property="article:modified_time" content="2020-07-21T21:51:48.000Z" />
+    <meta property="article:published_time" content="2020-07-13T22:18:10.000Z" />
+    <meta property="article:modified_time" content="2020-09-22T21:25:25.000Z" />
     <meta property="article:publisher" content="https://www.facebook.com/josh.ternyak.3/" />
     <meta property="article:author" content="https://www.facebook.com/josh.ternyak.3/" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily" />
+    <meta name="twitter:title" content="How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily" />
     <meta name="twitter:description" content="I wasn&#x27;t always productive. I used to spend my days and nights surfing Instagram and Snapchat while watching funny cat videos as a part time job. It was boring, useless, and silly. But after 3 years of self development and web development, I now only spend less than 20 minutes" />
     <meta name="twitter:url" content="http://joshternyak.com/how-i-maximize-my-productivity/" />
     <meta name="twitter:image" content="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
@@ -65,10 +65,10 @@
             "https://twitter.com/josh_ternyak"
         ]
     },
-    "headline": "How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily",
+    "headline": "How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily",
     "url": "http://joshternyak.com/how-i-maximize-my-productivity/",
-    "datePublished": "2020-07-14T03:18:10.000Z",
-    "dateModified": "2020-07-21T21:51:48.000Z",
+    "datePublished": "2020-07-13T22:18:10.000Z",
+    "dateModified": "2020-09-22T21:25:25.000Z",
     "image": {
         "@type": "ImageObject",
         "url": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
@@ -107,10 +107,10 @@
         <article class="post">
 
             <header class="post-header">
-                <h1 class="post-title">How I Maximized My Productivity By Limiting My Phone Screen Time To &gt; 20 Minutes Daily</h1>
+                <h1 class="post-title">How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily</h1>
                 <section class="post-meta">
                     <p class="author">by <a href="../../author/josh-ternyak/index.html">Josh Ternyak</a></p>
-                    <time class="post-date" datetime="2020-07-14">2020-07-14</time>
+                    <time class="post-date" datetime="2020-07-13">2020-07-13</time>
                 </section>
             </header>
             <figure class="post-image">
