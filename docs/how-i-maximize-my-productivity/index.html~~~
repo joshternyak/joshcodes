@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+      /* This font-face is here to make icons work if the Ghost instance is installed in a subdirectory */
+      @font-face {
+        font-family: 'icomoon';
+        src: url("../assets/fonts/icomoon.eot%3Fvukg2s%3Fv=e887c087dd");
+        src: url("../assets/fonts/icomoon.eot%3Fvukg2s") format('embedded-opentype'),
+        url("../assets/fonts/icomoon.ttf%3Fvukg2s%3Fv=e887c087dd") format('truetype'),
+        url("../assets/fonts/icomoon.woff%3Fvukg2s%3Fv=e887c087dd") format('woff'),
+        url("../assets/fonts/icomoon.svg%3Fvukg2s") format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+    </style>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css" />
+    <link rel="stylesheet" type="text/css" href="../assets/css/app.css%3Fv=e887c087dd.css" media="screen" />
+
+      <style>
+    .m-hero__picture {
+      background-image: url(https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
+    }
+  
+    @media(max-width: 1000px) {
+      .m-hero__picture {
+        background-image: url(https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
+      }
+    }
+  
+    @media(max-width: 600px) {
+      .m-hero__picture {
+        background-image: url(https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ);
+      }
+    }
+  </style>
+
+
+    <link rel="shortcut icon" href="../favicon.png" type="image/png" />
+    <link rel="canonical" href="index.html" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    <link rel="amphtml" href="amp/index.html" />
+    
+    <meta property="og:site_name" content="Experiences and of a 16 year old front-end web developer" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily" />
+    <meta property="og:description" content="I wasn&#x27;t always productive. I used to spend my days and nights surfing Instagram and Snapchat while watching funny cat videos as a part time job. It was boring, useless, and silly. But after 3 years of self development and web development, I now only spend less than 20 minutes" />
+    <meta property="og:url" content="https://localhost:2369/how-i-maximize-my-productivity/" />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
+    <meta property="article:published_time" content="2020-07-13T22:18:10.000Z" />
+    <meta property="article:modified_time" content="2020-09-22T21:25:25.000Z" />
+    <meta property="article:publisher" content="https://www.facebook.com/josh.ternyak.3/" />
+    <meta property="article:author" content="https://www.facebook.com/josh.ternyak.3/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily" />
+    <meta name="twitter:description" content="I wasn&#x27;t always productive. I used to spend my days and nights surfing Instagram and Snapchat while watching funny cat videos as a part time job. It was boring, useless, and silly. But after 3 years of self development and web development, I now only spend less than 20 minutes" />
+    <meta name="twitter:url" content="https://localhost:2369/how-i-maximize-my-productivity/" />
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Josh Ternyak" />
+    <meta name="twitter:site" content="@TernyakJosh" />
+    <meta name="twitter:creator" content="@josh_ternyak" />
+    <meta property="og:image:width" content="2000" />
+    <meta property="og:image:height" content="1333" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Experiences and of a 16 year old front-end web developer",
+        "url": "https://localhost:2369/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://localhost:2369/content/images/2020/05/josh-avatar-5.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Josh Ternyak",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://localhost:2369/content/images/2020/05/profile-pic.jpg",
+            "width": 1536,
+            "height": 2048
+        },
+        "url": "https://localhost:2369/author/josh-ternyak/",
+        "sameAs": [
+            "https://www.loveyourlanding.com/",
+            "https://www.facebook.com/josh.ternyak.3/",
+            "https://twitter.com/josh_ternyak"
+        ]
+    },
+    "headline": "How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily",
+    "url": "https://localhost:2369/how-i-maximize-my-productivity/",
+    "datePublished": "2020-07-13T22:18:10.000Z",
+    "dateModified": "2020-09-22T21:25:25.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+        "width": 2000,
+        "height": 1333
+    },
+    "description": "I wasn&#x27;t always productive.\n\nI used to spend my days and nights surfing Instagram and Snapchat while watching\nfunny cat videos as a part time job.\n\nIt was boring, useless, and silly.\n\nBut after 3 years of self development and web development, I now only spend less\nthan 20 minutes a day on my cell phone. Here&#x27;s proof:\n\nAs you can see, I spend 38 minutes on &quot;Social Networking&quot;, which only includes\nmessenger and the alarm clock. I DO NOT have any social media apps on my cell\nphone. \n\nCompletely rem",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://localhost:2369/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.19" />
+    <link rel="alternate" type="application/rss+xml" title="Experiences and of a 16 year old front-end web developer" href="../rss/index.html" />
+
+    <script>
+      // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+      const ghostHost = "https://localhost:2369"
+      // @license-end
+    </script>
+
+    <script>
+      // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+      WebFontConfig = {
+        google: { families: ['Source+Sans+Pro:400,600,700&display=swap'] }
+      };
+
+      (function (d) {
+        var wf = d.createElement('script'), s = d.scripts[0];
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+        wf.async = true;
+        s.parentNode.insertBefore(wf, s);
+      })(document);
+      // @license-end
+    </script>
+  </head>
+  <body class="post-template">
+    
+
+<div class="main-wrap">
+    
+<header class="m-header with-picture js-header">
+  <div class="m-mobile-topbar" data-aos="fade-down">
+    <button class="m-icon-button in-mobile-topbar js-open-menu" aria-label="Open menu">
+      <span class="icon-menu"></span>
+    </button>
+      <a href="../index.html" class="m-logo in-mobile-topbar">
+        <img src="../content/images/2020/05/josh-avatar-5.png" alt="Experiences and of a 16 year old front-end web developer">
+      </a>
+    <button class="m-icon-button in-mobile-topbar js-open-search" aria-label="Open search">
+      <span class="icon-search"></span>
+    </button>
+  </div>
+
+  <div class="m-menu js-menu">
+    <button class="m-icon-button outlined as-close-menu js-close-menu" aria-label="Close menu">
+      <span class="icon-close"></span>
+    </button>
+    <div class="m-menu__main" data-aos="fade-down">
+      <div class="l-wrapper">
+        <div class="m-nav">
+          <nav class="m-nav__left">
+            <ul role="submenu">
+                <li class="only-desktop" role="menuitem">
+                  <a href="../index.html" class="m-logo">
+                    <img src="../content/images/2020/05/josh-avatar-5.png" alt="Experiences and of a 16 year old front-end web developer">
+                  </a>
+                </li>
+                
+    <li class="nav-home" role="menuitem">
+      <a href="../index.html">Home</a>
+    </li>
+    <li class="nav-about" role="menuitem">
+      <a href="../about/index.html">About</a>
+    </li>
+    <li class="nav-hire-me" role="menuitem">
+      <a href="../services.html">Hire Me</a>
+    </li>
+    <li class="nav-contact" role="menuitem">
+      <a href="../contact/index.html">Contact</a>
+    </li>
+
+              <li role="menuitem" class="js-submenu-option">
+                <button class="m-icon-button in-menu-main more js-toggle-submenu" aria-label="Toggle submenu">
+                  <span class="icon-more"></span>
+                </button>
+                <div class="m-submenu js-submenu">
+                  <div class="l-wrapper in-submenu">
+                    <section class="m-recent-articles">
+                      <h3 class="m-submenu-title in-recent-articles">Recent articles</h3>
+                      <div class="js-recent-articles">
+                            <div>
+                              <a href="index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily">
+                                  How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily
+                                </h3>
+                                <span class="m-recent-article__date">7 months ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../i-slept-on-the-floor-for-a-year/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="/content/images/size/w300/2020/06/bed-on-floor-copy.JPG"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
+                                  I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
+                                </h3>
+                                <span class="m-recent-article__date">8 months ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../monitor-setup/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1545665277-5937489579f2?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="How I Setup A Monitor In My Room And Why It&#x27;s Awesome">
+                                  How I Setup A Monitor In My Room And Why It&#x27;s Awesome
+                                </h3>
+                                <span class="m-recent-article__date">9 months ago</span>
+                              </a>
+                            </div>
+                            <div>
+                              <a href="../dynalist-vs-workflowy/index.html" class="m-recent-article">
+                                <div class="m-recent-article__picture">
+                                    <div class="lozad" data-background-image="https://images.unsplash.com/photo-1497493292307-31c376b6e479?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ"></div>
+                                </div>
+                                <h3 class="m-recent-article__title js-recent-article-title" title="Dynalist vs Workflowy: The Ultimate Comparison &amp; Review">
+                                  Dynalist vs Workflowy: The Ultimate Comparison &amp; Review
+                                </h3>
+                                <span class="m-recent-article__date">10 months ago</span>
+                              </a>
+                            </div>
+                      </div>
+                    </section>
+                    <section class="m-tags">
+                      <h3 class="m-submenu-title">Tags</h3>
+                        <ul>
+                            <li>
+                              <a href="../tag/productivity/index.html">Productivity</a>
+                            </li>
+                            <li>
+                              <a href="../tag/web-development/index.html">Web Development</a>
+                            </li>
+                        </ul>
+                    </section>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </nav>
+          <div class="m-nav__right">
+            <button class="m-icon-button in-menu-main js-open-search" aria-label="Open search">
+              <span class="icon-search"></span>
+            </button>
+            <div class="m-toggle-darkmode js-tooltip" data-tippy-content="Toggle dark mode">
+              <input type="checkbox" class="js-toggle-darkmode">
+              <div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+    
+
+  <section class="m-hero with-picture" data-aos="fade">
+    <div class="m-hero__picture in-post"></div>
+    </section>
+  
+  <main>
+    <article>
+      <div class="l-content in-post">
+          <div class="l-wrapper in-post  js-aos-wrapper" data-aos="fade-up" data-aos-delay="300">
+            <div class="l-post-content   js-progress-content">
+              <header class="m-heading">
+                <h1 class="m-heading__title in-post">How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily</h1>
+                <div class="m-heading__meta">
+                  <span class="m-heading__meta__time">Jul 13, 2020</span>
+                </div>
+              </header>
+              <div class="pos-relative js-post-content">
+                <div class="m-share">
+                  <div class="m-share__content js-sticky">
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://localhost:2369/how-i-maximize-my-productivity/" class="m-icon-button filled in-share" target="_blank" rel="noopener" aria-label="Facebook">
+                      <span class="icon-facebook"></span>
+                    </a>
+                    <a href="https://twitter.com/intent/tweet?text=How%20I%20Maximized%20My%20Productivity%20By%20Limiting%20My%20Phone%20Screen%20Time%20To%20%3C%2020%20Minutes%20Daily&url=https://localhost:2369/how-i-maximize-my-productivity/" class="m-icon-button filled in-share" target="_blank" rel="noopener" aria-label="Twitter">
+                      <span class="icon-twitter"></span>
+                    </a>
+                    <button class="m-icon-button filled in-share progress js-scrolltop" aria-label="Scroll to top">
+                      <span class="icon-arrow-top"></span>
+                      <svg>
+                        <circle class="progress-ring__circle js-progress" fill="transparent" r="0" />
+                      </svg>
+                    </button>
+                  </div>
+                </div>
+                <p>I wasn't always productive.</p><p>I used to spend my days and nights surfing Instagram and Snapchat while watching funny cat videos as a part time job.</p><p>It was boring, useless, and silly.</p><p>But after 3 years of self development and web development, <strong>I now only spend less than 20 minutes a day on my cell phone</strong>. Here's proof:</p><figure class="kg-card kg-image-card"><img src="../content/images/2020/07/screen-time.png" class="kg-image" alt="screen time less than 20 minutes" srcset="../content/images/size/w600/2020/07/screen-time.png 600w, ../content/images/size/w1000/2020/07/screen-time.png 1000w, ../content/images/size/w1600/2020/07/screen-time.png 1600w, ../content/images/size/w2400/2020/07/screen-time.png 2400w"></figure><p>As you can see, I spend 38 minutes on "Social Networking", which only includes messenger and the alarm clock. I DO NOT have any social media apps on my cell phone. </p><p>Completely removing non-essential apps from my phone has saved me quite literally my life (to clarify: my definition of "my life" is what I spend all of my time on).</p><p>But how did I, a 15 year old web nerd who used to spend 7+ hours on my cell phone like millions of others, "become" so <strong>productive</strong>?</p><p>I'll tell you..</p><h2 id="wasting-your-time-wasting-your-life-">Wasting your time = wasting your life.</h2><p>We all know humans have become professional time-wasters, whether it's surfing Snapchat for funny stories or posting on Facebook how bored they are.</p><p>I used to do these exact same things.</p><p>But then I did something that completely changed my life:</p><blockquote><strong>I FORCED MYSELF TO REALIZE THAT WASTED TIME = WASTED LIFE</strong></blockquote><p>For anyone who has trouble with productivity, this is the most important piece of advice I can give you:</p><blockquote>Once you realize that wasting time means you're wasting your life, then you'll probably want to change something about what you do everyday.</blockquote><p>But that probably leaves you with the question:</p><p>So, how did I, Josh Ternyak, actually reduce my screen time from 7+ hours a day (full time job) to less than 20 minutes a day 😎?</p><p>Here's how:</p><ol><li>I found meaningful work to do to fill up my time instead of removing distractions and not having anything important to do</li><li>I deleted ALL APPS except for the apps the Iphone is made with to start with</li><li>I put my cell phone in the opposite side of the house shut off completely</li></ol><h2 id="it-s-not-that-scary-">It's not that scary.</h2><p>And that's it! It's less scary than it seems. </p><p>I remember the days when I was glued to my phone. And I'm NEVER going back to that lifestyle.</p><p>Now that I'm working on so many great projects, learning new skills, and spending my time on the important things in life, I hope what I've learned along the way will help you save your time, and quite literally...your life.</p>
+              </div>
+            </div>
+          </div>
+          <section class="m-author">
+            <div class="m-author__content">
+              <div class="m-author__picture">
+                <a href="../author/josh-ternyak/index.html" class="m-author-picture" aria-label="Author picture">
+                    <div style="background-image: url(../content/images/2020/05/profile-pic.jpg);"></div>
+                </a>
+              </div>
+              <div class="m-author__info">
+                <h4 class="m-author__name">
+                  <a href="../author/josh-ternyak/index.html">Josh Ternyak</a>
+                </h4>
+                  <p class="m-author__bio">Hi, I am Josh Ternyak. I am a front-end web developer based in Minneapolis, Minnesota who builds websites and talks about how he does it. </p>
+                <ul class="m-author-links">
+                    <li>
+                      <a href="https://www.loveyourlanding.com/" target="_blank" rel="noopener" aria-label="Website">
+                        <span class="icon-globe"></span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://facebook.com/josh.ternyak.3/" target="_blank" rel="noopener" aria-label="Facebook">
+                        <span class="icon-facebook"></span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://twitter.com/@josh_ternyak" target="_blank" rel="noopener" aria-label="Twitter">
+                        <span class="icon-twitter"></span>
+                      </a>
+                    </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <section class="m-comments">
+            <div class="m-load-comments">
+              <div class="m-load-comments__line"></div>
+              <button class="m-icon-button filled as-load-comments js-tooltip js-load-comments" data-tippy-content="Load comments">
+                <span class="icon-comments"></span>
+              </button>
+            </div>
+            <div class="m-load-comments__iframe l-wrapper in-comments js-comments-iframe">
+              <div id="disqus_thread"></div>
+                <script>
+                var disqus_config = function () {
+                    this.page.url = "https://localhost:2369/how-i-maximize-my-productivity/";
+                    this.page.identifier = "ghost-5f0d218a275926cbe2c4553b"
+                };
+                (function() {
+                var d = document, s = d.createElement('script');
+                s.src = 'https://joshternyak.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+                })();
+                </script>
+            </div>
+          </section>
+
+      </div>
+    </article>
+  </main>
+</div>
+
+
+
+    
+<div class="m-search js-search">
+  <button class="m-icon-button outlined as-close-search js-close-search" aria-label="Close search">
+    <span class="icon-close"></span>
+  </button>
+  <div class="m-search__content">
+    <form class="m-search__form">
+      <fieldset>
+        <span class="icon-search m-search-icon"></span>
+        <input type="text" class="m-input in-search js-input-search" placeholder="Type to search" aria-label="Type to search">
+      </fieldset>
+    </form>
+    <div class="js-search-results hide"></div>
+    <p class="m-not-found align-center hide js-no-results">
+      No results for your search, please try with something else.
+    </p>
+  </div>
+</div>
+
+    
+<footer class="m-footer">
+  <div class="m-footer__content">
+    <p class="m-footer-copyright">
+      <span>Experiences and of a 16 year old front-end web developer &copy; 2021</span>
+    </p>
+
+    <nav class="m-footer-social">
+        <a href="https://www.facebook.com/josh.ternyak.3/" target="_blank" rel="noopener" aria-label="Facebook">
+          <span class="icon-facebook"></span>
+        </a>
+        <a href="https://twitter.com/TernyakJosh" target="_blank" rel="noopener" aria-label="Twitter">
+          <span class="icon-twitter"></span>
+        </a>
+    </nav>
+  </div>
+</footer>
+
+    <div class="m-alert success subscribe js-alert" data-notification="subscribe">
+  Great! You&#x27;ve successfully subscribed.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+
+<div class="m-alert success signup js-alert" data-notification="signup">
+  Great! Next, complete checkout for full access.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+
+<div class="m-alert success signin js-alert" data-notification="signin">
+  Welcome back! You&#x27;ve successfully signed in.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+
+<div class="m-alert success checkout js-alert" data-notification="checkout">
+  Success! Your account is fully activated, you now have access to all content.
+  <button class="m-alert__close js-notification-close" aria-label="Close">
+    <span class="icon-close"></span>
+  </button>
+</div>
+    <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver%2CPromise%2CArray.prototype.includes%2CString.prototype.endsWith%2CString.prototype.startsWith%2CObject.assign%2CNodeList.prototype.forEach"></script>
+    <script defer src="../assets/js/vendor/content-api.min.js%3Fv=e887c087dd"></script>
+    <script defer src="../assets/js/manifest.js%3Fv=e887c087dd"></script>
+    <script defer src="../assets/js/vendor.js%3Fv=e887c087dd"></script>
+    <script defer src="../assets/js/app.js%3Fv=e887c087dd"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
+    <script>
+        tocbot.init({
+            tocSelector: '.toc',
+            contentSelector: '.l-post-content',
+            hasInnerContainers: true
+        });
+    </script>
+
+      <script defer src="../assets/js/post.js%3Fv=e887c087dd"></script>
+
+
+    
+  </body>
+</html>

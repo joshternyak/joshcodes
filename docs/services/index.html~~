@@ -29,7 +29,7 @@
 
     <meta name="description" content="I offer web development, SEO, and copywriting services for $50/hour. If you&#x27;re looking for a web expert to build you a professional website, I&#x27;m your guy." />
     <link rel="shortcut icon" href="../favicon.png" type="image/png" />
-    <link rel="canonical" href="index.html" />
+    <link rel="canonical" href="../services.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
     
     <meta property="og:site_name" content="Experiences and of a 16 year old front-end web developer" />
@@ -152,7 +152,7 @@
       <a href="../about/index.html">About</a>
     </li>
     <li class="nav-hire-me nav-current" role="menuitem">
-      <a href="index.html">Hire Me</a>
+      <a href="../services.html">Hire Me</a>
     </li>
     <li class="nav-contact" role="menuitem">
       <a href="../contact/index.html">Contact</a>
