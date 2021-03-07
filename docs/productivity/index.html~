@@ -190,7 +190,7 @@
       <a href="../about/index.html">About</a>
     </li>
     <li class="nav-hire-me" role="menuitem">
-      <a href="../services.html">Hire Me</a>
+      <a href="../services/index.html">Hire Me</a>
     </li>
     <li class="nav-contact" role="menuitem">
       <a href="../contact/index.html">Contact</a>
@@ -213,7 +213,7 @@
                                 <h3 class="m-recent-article__title js-recent-article-title" title="How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily">
                                   How I Maximized My Productivity By Limiting My Phone Screen Time To &lt; 20 Minutes Daily
                                 </h3>
-                                <span class="m-recent-article__date">7 months ago</span>
+                                <span class="m-recent-article__date">8 months ago</span>
                               </a>
                             </div>
                             <div>
@@ -224,7 +224,7 @@
                                 <h3 class="m-recent-article__title js-recent-article-title" title="I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.">
                                   I&#x27;m 15 and I slept on the floor for a year. Here&#x27;s why.
                                 </h3>
-                                <span class="m-recent-article__date">8 months ago</span>
+                                <span class="m-recent-article__date">9 months ago</span>
                               </a>
                             </div>
                             <div>
@@ -235,7 +235,7 @@
                                 <h3 class="m-recent-article__title js-recent-article-title" title="How I Setup A Monitor In My Room And Why It&#x27;s Awesome">
                                   How I Setup A Monitor In My Room And Why It&#x27;s Awesome
                                 </h3>
-                                <span class="m-recent-article__date">9 months ago</span>
+                                <span class="m-recent-article__date">10 months ago</span>
                               </a>
                             </div>
                             <div>
@@ -402,7 +402,7 @@
           </h2>
         </div>
         <div class="m-article-card__timestamp">
-          <span>9 months ago</span>
+          <span>10 months ago</span>
           <span>&bull;</span>
           <span>2 min read</span>
         </div>

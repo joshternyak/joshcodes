@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="" />
+    <list default="true" id="ea01f432-af60-4e9d-9aa3-3e8a28b17c04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +88,7 @@
       <workItem from="1593745822769" duration="5000" />
       <workItem from="1595562649464" duration="592000" />
       <workItem from="1614309281175" duration="56000" />
+      <workItem from="1614309465393" duration="292000" />
     </task>
     <servers />
   </component>
@@ -93,42 +96,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592159016932">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
+    <state x="541" y="292" width="597" height="490" key="find.popup" timestamp="1614309622442">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="611" y="-900" key="#com.intellij.fileTypes.FileTypeChooser/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592159016932" />
-    <state x="546" y="-966" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588524865108">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
-    </state>
-    <state x="546" y="-966" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588524865108" />
-    <state x="596" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588517040539">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
-    </state>
-    <state x="596" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588517040539" />
-    <state x="-422" y="-1417" key="FileDocumentManager.FileCacheConflict" timestamp="1591840625202">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
-    </state>
-    <state x="-422" y="-1417" key="FileDocumentManager.FileCacheConflict/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1591840625202" />
-    <state x="621" y="-999" key="RollbackChangesDialog" timestamp="1592157610203">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
-    </state>
-    <state x="621" y="-999" key="RollbackChangesDialog/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592157610203" />
-    <state x="367" y="-1070" key="SettingsEditor" timestamp="1588645320473">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
-    </state>
-    <state x="367" y="-1070" key="SettingsEditor/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588645320473" />
-    <state x="-321" y="-1317" width="2360" height="1217" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1592157847581">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
-    </state>
-    <state x="-321" y="-1317" width="2360" height="1217" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592157847581" />
-    <state x="564" y="-1073" width="596" height="729" key="find.popup" timestamp="1592158602520">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
-    </state>
-    <state x="564" y="-1073" width="596" height="729" key="find.popup/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1592158602520" />
-    <state x="647" y="272" width="568" height="548" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1592118745284" />
-    <state x="523" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1588976992989">
-      <screen x="-422" y="-1417" width="2560" height="1417" />
-    </state>
-    <state x="523" y="-1092" width="670" height="676" key="search.everywhere.popup/-422.-1417.2560.1417/0.23.1680.1027@-422.-1417.2560.1417" timestamp="1588976992989" />
+    <state x="541" y="292" width="597" height="490" key="find.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1614309622442" />
   </component>
 </project>
