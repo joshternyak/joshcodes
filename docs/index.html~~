@@ -49,7 +49,7 @@
     <link rel="canonical" href="index.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
     
-    <meta property="og:site_name" content="Experiences and of a 16 year old front-end web developer" />
+    <meta property="og:site_name" content="Experiences of a 16 year old front-end web developer" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Josh Ternyak | Learn Web Development, Grow Your Business" />
     <meta property="og:description" content="Hi, I am Josh Ternyak. I am a front-end web developer based in Minneapolis, Minnesota who builds websites and talks about how he does it." />
@@ -71,7 +71,7 @@
     "@type": "WebSite",
     "publisher": {
         "@type": "Organization",
-        "name": "Experiences and of a 16 year old front-end web developer",
+        "name": "Experiences of a 16 year old front-end web developer",
         "url": "http://joshternyak.com/",
         "logo": {
             "@type": "ImageObject",
@@ -96,7 +96,7 @@
     </script>
 
     <meta name="generator" content="Ghost 3.19" />
-    <link rel="alternate" type="application/rss+xml" title="Experiences and of a 16 year old front-end web developer" href="rss/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Experiences of a 16 year old front-end web developer" href="rss/index.html" />
 
     <script>
       // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
@@ -130,7 +130,7 @@
       <span class="icon-menu"></span>
     </button>
       <a href="index.html" class="m-logo in-mobile-topbar">
-        <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences and of a 16 year old front-end web developer">
+        <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences of a 16 year old front-end web developer">
       </a>
     <button class="m-icon-button in-mobile-topbar js-open-search" aria-label="Open search">
       <span class="icon-search"></span>
@@ -148,7 +148,7 @@
             <ul role="submenu">
                 <li class="only-desktop" role="menuitem">
                   <a href="index.html" class="m-logo">
-                    <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences and of a 16 year old front-end web developer">
+                    <img src="content/images/2020/05/josh-avatar-5.png" alt="Experiences of a 16 year old front-end web developer">
                   </a>
                 </li>
                 
@@ -256,7 +256,7 @@
   <section class="m-hero with-picture" data-aos="fade">
     <div class="m-hero__picture "></div>
   <div class="m-hero__content" data-aos="fade-down">
-    <h1 class="m-hero-title bigger">Experiences and of a 16 year old front-end web developer</h1>
+    <h1 class="m-hero-title bigger">Experiences of a 16 year old front-end web developer</h1>
       <p class="m-hero-description bigger">Hi, I am Josh Ternyak, and I have been coding for 4 years. Here you&#x27;ll find my experiences as a front-end web developer and what I learn along the way.</p>
   </div>
   </section>
@@ -463,7 +463,7 @@
 <footer class="m-footer">
   <div class="m-footer__content">
     <p class="m-footer-copyright">
-      <span>Experiences and of a 16 year old front-end web developer &copy; 2021</span>
+      <span>Experiences of a 16 year old front-end web developer &copy; 2021</span>
     </p>
 
     <nav class="m-footer-social">
